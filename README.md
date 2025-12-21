@@ -19,6 +19,22 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 <!-- GALLERY_START -->
 
+### Cinematic
+
+#### Emotional Film Photography
+
+<img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
+
+**Prompt:**
+```
+Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 5
+
+---
+
+
 ### Portrait
 
 #### Young woman
@@ -59,54 +75,6 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=c42bd9dc-5110-4676-9fad-a136f6530035)** | Likes: 5
-
----
-
-#### realistic faces
-
-<img src="https://cdn.bestnanobananaprompt.com/5y8gi5uzhll_1765010001397.png" width="400" alt="realistic faces">
-
-**Prompt:**
-```
-{
-"intent": "Generate a hyper-idealized, Douyin-style night portrait of the same girl attached in reference image using direct flash photography, creating a sharp, high-contrast glow.",
-"frame": {
-"aspect_ratio": "16:9",
-"composition": "Extreme close-up selfie framing focused tightly on eyes and lips, forehead slightly cropped, centered gaze.",
-"style_mode": "Flash photography, digital influencer aesthetic, soft-focus realism"
-},
-"subject": {
-"identity": "the same girl attached in reference image with soft youthful features and understated elegance.",
-"skin": " with smooth luminous finish reflecting the flash, creating a glassy glow with minimal texture.",
-
-"hair": " loose, naturally wavy catching specular highlights from the flash.",
-"wardrobe": "Minimal visibility of a simple, understated top suited for a city night."
-},
-"environment": {
-"location": "Nighttime indian city.",
-"weather": "Clear, calm night sky.",
-"background": "Dark urban backdrop with blurred bokeh lights from buildings."
-},
-"lighting": {
-"type": "Direct frontal phone flash or high-intensity screen light",
-"quality": "Hard, flat lighting eliminating deep shadows and creating a smooth two-dimensional glow",
-"contrast": "Strong separation between the illuminated face and the dark city background",
-"catchlight": "Small flash reflection in the center of pupils"
-},
-"camera": {
-"sensor_format": "Smartphone main camera simulation",
-"lens": "24mm wide-angle lens exaggerating eye size and softening facial proportions",
-"aperture_depth_of_field": "f/1.8–f/2.2, sharp on eyes and lips, instant blur on background and edges of hair",
-"focus": "Critical focus on iris texture and lashes"
-},
-"negative": {
-"content": "No wet hair, no snow, no rain, no masculine features, no visible pores, no contour-heavy makeup, no sunglasses, no hands in frame.",
-"style": "No dramatic shadows, no vintage tones, no painterly effects, no warm film look."
-}
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=18d2c206-168e-4e8d-b2ab-e68329e0cafb)** | Likes: 4
 
 ---
 
@@ -211,6 +179,54 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
+#### realistic faces
+
+<img src="https://cdn.bestnanobananaprompt.com/5y8gi5uzhll_1765010001397.png" width="400" alt="realistic faces">
+
+**Prompt:**
+```
+{
+"intent": "Generate a hyper-idealized, Douyin-style night portrait of the same girl attached in reference image using direct flash photography, creating a sharp, high-contrast glow.",
+"frame": {
+"aspect_ratio": "16:9",
+"composition": "Extreme close-up selfie framing focused tightly on eyes and lips, forehead slightly cropped, centered gaze.",
+"style_mode": "Flash photography, digital influencer aesthetic, soft-focus realism"
+},
+"subject": {
+"identity": "the same girl attached in reference image with soft youthful features and understated elegance.",
+"skin": " with smooth luminous finish reflecting the flash, creating a glassy glow with minimal texture.",
+
+"hair": " loose, naturally wavy catching specular highlights from the flash.",
+"wardrobe": "Minimal visibility of a simple, understated top suited for a city night."
+},
+"environment": {
+"location": "Nighttime indian city.",
+"weather": "Clear, calm night sky.",
+"background": "Dark urban backdrop with blurred bokeh lights from buildings."
+},
+"lighting": {
+"type": "Direct frontal phone flash or high-intensity screen light",
+"quality": "Hard, flat lighting eliminating deep shadows and creating a smooth two-dimensional glow",
+"contrast": "Strong separation between the illuminated face and the dark city background",
+"catchlight": "Small flash reflection in the center of pupils"
+},
+"camera": {
+"sensor_format": "Smartphone main camera simulation",
+"lens": "24mm wide-angle lens exaggerating eye size and softening facial proportions",
+"aperture_depth_of_field": "f/1.8–f/2.2, sharp on eyes and lips, instant blur on background and edges of hair",
+"focus": "Critical focus on iris texture and lashes"
+},
+"negative": {
+"content": "No wet hair, no snow, no rain, no masculine features, no visible pores, no contour-heavy makeup, no sunglasses, no hands in frame.",
+"style": "No dramatic shadows, no vintage tones, no painterly effects, no warm film look."
+}
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=18d2c206-168e-4e8d-b2ab-e68329e0cafb)** | Likes: 4
+
+---
+
 #### character card
 
 <img src="https://cdn.bestnanobananaprompt.com/84wt1s0bqe_1764730483873.jpg" width="400" alt="character card">
@@ -246,19 +262,6 @@ Angle: Selfie angle, high angle, extreme close-up.
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=a37ab9b0-3451-4057-a835-e8f9c66232f8)** | Likes: 3
-
----
-
-#### 2000s paparazzi photo of taylor swift
-
-<img src="https://cdn.bestnanobananaprompt.com/560js4ubu63_1765445365402.webp" width="400" alt="2000s paparazzi photo of taylor swift">
-
-**Prompt:**
-```
-Capture the raw and spontaneous energy of an early 2000s paparazzi photo. A person from the attached reference image (keep the face 100% accurate) is illuminated by the harsh flash of a camera, standing on a city street at night with one hand on the receiver of a public phone. As they turn toward the camera, their expression is cold and distant. They’re wearing relaxed-fit streetwear — casual wide-leg pants and an oversized plain top in neutral tones,black glasses. The urban background is a blur of car lights, and the image features the classic red digital timestamp.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6b2d546a-de99-4895-b492-fcfc21e195c2)** | Likes: 2
 
 ---
 
@@ -365,6 +368,19 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 
 ---
 
+#### 2000s paparazzi photo of taylor swift
+
+<img src="https://cdn.bestnanobananaprompt.com/560js4ubu63_1765445365402.webp" width="400" alt="2000s paparazzi photo of taylor swift">
+
+**Prompt:**
+```
+Capture the raw and spontaneous energy of an early 2000s paparazzi photo. A person from the attached reference image (keep the face 100% accurate) is illuminated by the harsh flash of a camera, standing on a city street at night with one hand on the receiver of a public phone. As they turn toward the camera, their expression is cold and distant. They’re wearing relaxed-fit streetwear — casual wide-leg pants and an oversized plain top in neutral tones,black glasses. The urban background is a blur of car lights, and the image features the classic red digital timestamp.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6b2d546a-de99-4895-b492-fcfc21e195c2)** | Likes: 2
+
+---
+
 #### Young female, approx 20-24 years old, Caucasian
 
 <img src="https://cdn.bestnanobananaprompt.com/0be1sbqxx8r_1766130025711.jpg" width="400" alt="Young female, approx 20-24 years old, Caucasian">
@@ -466,18 +482,87 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 ---
 
 
-### Cinematic
+### Product Photography
 
-#### Emotional Film Photography
+#### Product Prompt
 
-<img src="https://cdn.bestnanobananaprompt.com/awesome_emotional_film_photography_1764387207982.png" width="400" alt="Emotional Film Photography">
+<img src="https://cdn.bestnanobananaprompt.com/m1jvxpbyquo_1765767047039.jpg" width="400" alt="Product Prompt">
 
 **Prompt:**
 ```
-Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
+{
+  "角色设定": "你是一名顶级商业摄影师与品牌视觉导演，擅长用真实生活场景与克制但具有吸引力的人物参与，打造高传播力的产品影像。你极度重视人物身体比例、姿态与构图层级：人物增强情绪与欲望张力，但产品永远是画面的绝对主角。",
+  "输入变量": {
+    "品牌名称": "{{BRAND}}",
+    "产品名称": "{{PRODUCT}}",
+    "产品品类/形态": "{{CATEGORY}}",
+    "产品主色": "{{PRODUCT_COLOR}}",
+    "使用场景关键词": "{{SCENE_KEYWORDS}}",
+    "季节": "{{SEASON}}",
+    "时间": "{{TIME_OF_DAY}}",
+    "人物气质": "{{MODEL_VIBE}}"
+  },
+  "创作总原则（最高优先级）": {
+    "产品主角": "{{PRODUCT}}必须是画面中对焦最清晰、细节最锐利、色彩最突出、第一眼最先被注意到的主体。",
+    "人物背景但完整可读": "人物作为中景/背景层级出现，身体结构与姿态必须完整可读（能感知躯干、四肢与曲线逻辑），避免碎片化到无法理解身体结构。",
+    "吸引力来源": "吸引力来自身体整体曲线、姿态、皮肤质感与光影氛围（健康、自信、放松），而不是刻意挑逗、露骨暗示或表演化姿势。",
+    "真实生活感": "画面像现实生活中自然发生的一幕，而非棚拍广告摆拍；保留轻微生活痕迹。",
+    "一眼可读传播": "场景在1秒内可理解，适合社交媒体快速浏览与停留。"
+  },
+  "品牌理解与场景生成": {
+    "品牌解析": "根据{{BRAND}}推断其气质（年轻/高端/活力/自然/都市/松弛），并决定画面材质与色调（例如高端=更克制、更干净；活力=更明亮、更动感）。",
+    "场景匹配": "围绕{{PRODUCT}}的使用逻辑与{{SCENE_KEYWORDS}}生成合理生活场景（例如：饮料=户外/阳台/沙滩；香氛=卧室/浴室；护肤=洗手台；穿戴=通勤/咖啡馆）。",
+    "产品与场景关系": "{{PRODUCT}}与场景发生明确关系（正在被拿起、刚放下、旁边有使用痕迹/水珠/蒸汽/纸巾/包袋等），让观众相信它正在被使用。"
+  },
+  "人物策略（核心）": {
+    "人物目的": "人物用于放大{{PRODUCT}}的欲望价值与感官吸引力（舒适、清爽、精致、放松、能量、亲密感），而非作为独立叙事主体。",
+    "选择原则": "根据产品核心欲望点，匹配最合适的人体特征：清爽/夏日/活力→大腿、腰线、整体曲线；触感/护理/精致→手部与手指；高级/香氛/珠宝→锁骨、肩颈、耳部；气质→侧脸轮廓；力量感→下巴、胡须、喉结（男性）。",
+    "呈现方式": [
+      "人物在画面中可见面积约30%–60%，位于中景或背景，形成清晰层次",
+      "可裁掉头部或轻微虚化面部，但身体躯干与曲线必须完整可感知",
+      "姿态自然（坐、倚靠、站立、行走、伸手拿取/放下），避免夸张摆拍与明显“凹造型”"
+    ],
+    "服装逻辑": "服装与场景/季节一致（例如夏季=泳装/背心短裤/居家薄衫；城市=轻便通勤/休闲），暴露程度自然合理、健康审美、无露骨内容。",
+    "权重控制": "即使人物很有存在感，产品仍在对焦、色彩、构图中心性上高于人物一个层级。"
+  },
+  "核心场景描述（直接用于生成）": "生成一张超写实生活方式产品照片：{{PRODUCT}}（品牌：{{BRAND}}，品类：{{CATEGORY}}，主色：{{PRODUCT_COLOR}}）位于画面前景或视觉焦点位置，为全画面最清晰对焦主体，质感与细节极其锐利（logo/文字准确、边缘干净、材质真实）。场景为{{SEASON}}的{{TIME_OF_DAY}}，地点：{{SCENE_KEYWORDS}}所暗示的真实生活空间（如窗边/阳台/沙滩/泳池边/咖啡馆露台/酒店民宿）。画面中出现一位成年人（adult）作为中景或背景元素，气质{{MODEL_VIBE}}，身体比例自然健康，曲线完整可感知，姿态松弛自然（如坐在椅子旁、倚靠栏杆、从桌面拿起物品或刚放下{{PRODUCT}}），通过光影与皮肤质感提供高级的感官吸引力，但绝不喧宾夺主。整体情绪：松弛、真实、干净、略带欲望张力；像手机随手抓拍到的高级瞬间，但画质与构图达到商业摄影级别。",
+  "构图与镜头语言": {
+    "构图层级": "前景=产品（主角、最大视觉权重）；中景/背景=人物（完整可读）+环境（简洁支撑）",
+    "镜头焦段建议": "35mm或50mm写实商业摄影感，轻微透视，
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=95c579e8-4a6f-4abb-97d9-d66683e303c4)** | Likes: 5
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a6b79f2-81b0-47f3-b981-b362f1760d79)** | Likes: 4
+
+---
+
+#### food menu
+
+<img src="https://cdn.bestnanobananaprompt.com/vn8kroht018_1766110375597.jpg" width="400" alt="food menu">
+
+**Prompt:**
+```
+一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的中式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=58d05cdc-deae-4be4-8fa9-17321714fd9d)** | Likes: 3
+
+---
+
+#### Promotional Poster For The Skin Care Essential
+
+<img src="https://cdn.bestnanobananaprompt.com/biioob1jmod_1765210751435.png" width="400" alt="Promotional Poster For The Skin Care Essential">
+
+**Prompt:**
+```
+Generate a promotional poster for the skin care essential oil in Figure 1，AR 2:3
+1. Scene: A brown essential oil bottle is elegantly placed on a natural grey stone slab, covered with vibrant emerald green moss. The bottle has a golden label "Lovart" and is slightly tilted. The base is surrounded by soft pink and milky white peonies. A few tender petals float gently in the air, and golden honey drips delicately on one side of the stone slab like a waterfall and a fine rain. The background is a soft and blurry warm pink wall with dynamic backlighting, creating a soft glow around the product.
+2. Copywriting information
+- SUMMER SALE
+-  30% OFF (orders $280+)
+- brand name: Lovart
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=14f69eb4-e87c-4677-982c-5a1319157253)** | Likes: 3
 
 ---
 
@@ -612,6 +697,19 @@ When the user provides an image or description:
 
 ---
 
+#### sugar cookie2
+
+<img src="https://cdn.bestnanobananaprompt.com/n4djhpy0mfg_1766156302495.png" width="400" alt="sugar cookie2">
+
+**Prompt:**
+```
+Using the provided image as reference, create a tasty, perfectly formed sugar cookie decorated with smooth royal icing based on the subject or image. If the image contains a person, render a simplified icing likeness of their face that clearly resembles them while remaining non-photorealistic; if the image contains an object, animal, or scene, translate its most recognizable features into a friendly royal-icing design using the same logic. The cookie should be stamped in a simple, easy-to-cut silhouette, with the design piped entirely in feasible royal-icing shapes—chunky, smooth lines rather than fine illustration detail, minimal shading, and clean, confident outlines like those used by a skilled cookie artist. Colors should be vibrant, playful, and holiday-friendly without needing to follow real-world color accuracy. Add small, simplified seasonal accents such as holly, snowflakes, sparkles, a scarf, or a beanie rendered as basic piped shapes, avoiding anything overtly religious or denominational. The final result should feel cute, approachable, and clearly edible, emphasizing handcrafted charm, clarity, and a strong resemblance achieved through simplified, piped decoration rather than realism.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a9e9093-7966-447d-95e7-33bbc7c62c44)** | Likes: 2
+
+---
+
 #### Boudoir portrait in charcoal sketch 4K
 
 <img src="https://cdn.bestnanobananaprompt.com/gooo_1764400277095_f6ambx.jpg" width="400" alt="Boudoir portrait in charcoal sketch 4K">
@@ -734,41 +832,23 @@ Also, below is the prompt for generating the original image. Please use it as a 
 ---
 
 
-### Product Photography
+### Creative
 
-#### Promotional Poster For The Skin Care Essential
+#### Literal Interpretation
 
-<img src="https://cdn.bestnanobananaprompt.com/biioob1jmod_1765210751435.png" width="400" alt="Promotional Poster For The Skin Care Essential">
+<img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
 
 **Prompt:**
 ```
-Generate a promotional poster for the skin care essential oil in Figure 1，AR 2:3
-1. Scene: A brown essential oil bottle is elegantly placed on a natural grey stone slab, covered with vibrant emerald green moss. The bottle has a golden label "Lovart" and is slightly tilted. The base is surrounded by soft pink and milky white peonies. A few tender petals float gently in the air, and golden honey drips delicately on one side of the stone slab like a waterfall and a fine rain. The background is a soft and blurry warm pink wall with dynamic backlighting, creating a soft glow around the product.
-2. Copywriting information
-- SUMMER SALE
--  30% OFF (orders $280+)
-- brand name: Lovart
+rare.jpg
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=14f69eb4-e87c-4677-982c-5a1319157253)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 3
 
 ---
 
 
 ### Photorealistic
-
-#### Cinematic 33 Grid Presenting Multiple Camera Angles
-
-<img src="https://cdn.bestnanobananaprompt.com/8k5lonxw2g_1765725593339.jpg" width="400" alt="Cinematic 33 Grid Presenting Multiple Camera Angles">
-
-**Prompt:**
-```
-A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=30b7166b-8add-4000-b24b-7e97edd7cd46)** | Likes: 3
-
----
 
 #### Golden hour portrait of a woman in black lace dress
 
@@ -780,6 +860,32 @@ Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, u
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 3
+
+---
+
+#### Photorealistic Wide Drone Shot 169 Aspect Ratio
+
+<img src="https://cdn.bestnanobananaprompt.com/9uargryvpf6_1766025878562.jpg" width="400" alt="Photorealistic Wide Drone Shot 169 Aspect Ratio">
+
+**Prompt:**
+```
+A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 3
+
+---
+
+#### Cinematic 33 Grid Presenting Multiple Camera Angles
+
+<img src="https://cdn.bestnanobananaprompt.com/8k5lonxw2g_1765725593339.jpg" width="400" alt="Cinematic 33 Grid Presenting Multiple Camera Angles">
+
+**Prompt:**
+```
+A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=30b7166b-8add-4000-b24b-7e97edd7cd46)** | Likes: 3
 
 ---
 
@@ -818,48 +924,6 @@ Important:
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=354ffd4a-4969-437b-a938-dab1cc396b89)** | Likes: 2
-
----
-
-#### Structured rooftop winter portrait (JSON)
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400179801_1oozef.jpg" width="400" alt="Structured rooftop winter portrait (JSON)">
-
-**Prompt:**
-```
-{
-  "image_description": {
-    "upper_third": {
-      "focus": "{argument name=\"upper_focus\" default=\"Her eyes\"}",
-      "details": [
-        "Reflecting blurred city lights below",
-        "Thin layer of frost touching her lashes",
-        "Wind pushing a few strands of hair across her forehead"
-      ],
-      "vibe": "{argument name=\"upper_vibe\" default=\"Sharp retro-Y2K\"}"
-    },
-    "middle_third": {
-      "focus": "{argument name=\"middle_focus\" default=\"Her body and immediate surroundings\"}",
-      "details": [
-        "Lying on a rooftop lounge chair dusted with snow",
-        "Wrapped in a white faux-fur jacket over a sequined winter dress",
-        "Soft neon glow bouncing off snowflakes on her sleeves"
-      ]
-    },
-    "lower_third": {
-      "focus": "{argument name=\"lower_focus\" default=\"Close-up of her face and hands\"}",
-      "details": [
-        "Facing the camera with one hand above her eyes",
-        "Shielding a bright pinkish neon light",
-        "Snowflakes clinging to her jewelry",
-        "Tiny drops forming near her lips"
-      ]
-    }
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5e404e04-b891-4ef2-9ce6-1d0183dae187)** | Likes: 2
 
 ---
 
@@ -936,36 +1000,45 @@ Important:
 
 ---
 
-#### Ultra-realistic Sky Scene Where Soft
+#### Structured rooftop winter portrait (JSON)
 
-<img src="https://cdn.bestnanobananaprompt.com/462k70e1v57_1765870937808.jpg" width="400" alt="Ultra-realistic Sky Scene Where Soft">
-
-**Prompt:**
-```
-Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear silhouette of a [OBJECT]. The cloud shape appears high in a vibrant blue sky, naturally floating above a recognizable nature below.
-
-The composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape grounds the scene beneath it. Lighting is crisp and daylight-bright, with sunlit highlights on the clouds that enhance depth, softness, and realism.
-
-The overall mood should feel calm, optimistic, and visually striking, with rich color saturation and a clean, peaceful atmosphere.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=32078160-c9a4-44a5-9663-b1af78ab651c)** | Likes: 1
-
----
-
-
-### Creative
-
-#### Literal Interpretation
-
-<img src="https://cdn.bestnanobananaprompt.com/awesome_literal_interpretation_1764387235870.jpg" width="400" alt="Literal Interpretation">
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400179801_1oozef.jpg" width="400" alt="Structured rooftop winter portrait (JSON)">
 
 **Prompt:**
 ```
-rare.jpg
+{
+  "image_description": {
+    "upper_third": {
+      "focus": "{argument name=\"upper_focus\" default=\"Her eyes\"}",
+      "details": [
+        "Reflecting blurred city lights below",
+        "Thin layer of frost touching her lashes",
+        "Wind pushing a few strands of hair across her forehead"
+      ],
+      "vibe": "{argument name=\"upper_vibe\" default=\"Sharp retro-Y2K\"}"
+    },
+    "middle_third": {
+      "focus": "{argument name=\"middle_focus\" default=\"Her body and immediate surroundings\"}",
+      "details": [
+        "Lying on a rooftop lounge chair dusted with snow",
+        "Wrapped in a white faux-fur jacket over a sequined winter dress",
+        "Soft neon glow bouncing off snowflakes on her sleeves"
+      ]
+    },
+    "lower_third": {
+      "focus": "{argument name=\"lower_focus\" default=\"Close-up of her face and hands\"}",
+      "details": [
+        "Facing the camera with one hand above her eyes",
+        "Shielding a bright pinkish neon light",
+        "Snowflakes clinging to her jewelry",
+        "Tiny drops forming near her lips"
+      ]
+    }
+  }
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8c95dc64-af46-4ab9-8ebb-c4c869b0633f)** | Likes: 3
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5e404e04-b891-4ef2-9ce6-1d0183dae187)** | Likes: 2
 
 ---
 
@@ -1180,19 +1253,6 @@ Plain background. Deliver a single centered logo with generous padding. No water
 
 ---
 
-#### Cinematic 3d Action-packed Advertisement For Insert Productbrand
-
-<img src="https://cdn.bestnanobananaprompt.com/gxuw6fs2g26_1765728216324.jpg" width="400" alt="Cinematic 3d Action-packed Advertisement For Insert Productbrand">
-
-**Prompt:**
-```
-Cinematic 3D action-packed advertisement for [INSERT PRODUCT/BRAND HERE], captured in an intense mid-motion moment with dramatic studio lighting, dynamic particle effects, and high-impact slow-motion energy. Ultra-hyperrealistic rendering, razor-sharp details, glossy commercial finish, atmospheric depth, and powerful contrast. Viral-ready composition with the brand logo seamlessly integrated into the scene and a sleek, modern slogan positioned cleanly beneath. High-end blockbuster commercial aesthetic
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5a67afa9-59f8-465f-a636-15eafbf8b97e)** | Likes: 1
-
----
-
 #### Ultra-realistic Product Photo
 
 <img src="https://cdn.bestnanobananaprompt.com/pqez3dj88pb_1765933860330.jpg" width="400" alt="Ultra-realistic Product Photo">
@@ -1237,19 +1297,6 @@ Sampling: deterministic, seed=12345, temperature=0.
 
 ### Minimalist
 
-#### Hyper-detailed Folded-paper Blueprint Of Character
-
-<img src="https://cdn.bestnanobananaprompt.com/pqrvz8xtns_1765942957345.jpg" width="400" alt="Hyper-detailed Folded-paper Blueprint Of Character">
-
-**Prompt:**
-```
-A hyper-detailed folded-paper blueprint of [character], where the character is constructed from precise geometric folds and crease lines, overlaid with subtle blueprint markings, measurement lines, and paper annotations. Minimal color palette, off-white paper with faint ink lines. Studio lighting, crisp shadows, architectural art style, photorealistic paper detail. 1080x1080 square format.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0933eb49-deac-4747-b0c7-6fadbbdc595e)** | Likes: 1
-
----
-
 #### Cityprague
 
 <img src="https://cdn.bestnanobananaprompt.com/1x9fyiu2jss_1765159576350.jpg" width="400" alt="Cityprague">
@@ -1270,99 +1317,16 @@ Square 1080x1080 dimension.
 
 ---
 
-#### Inside the sound
+#### Hyper-detailed Folded-paper Blueprint Of Character
 
-<img src="https://cdn.bestnanobananaprompt.com/2n9vdkwgdn7_1765013976435.jpg" width="400" alt="Inside the sound">
+<img src="https://cdn.bestnanobananaprompt.com/pqrvz8xtns_1765942957345.jpg" width="400" alt="Hyper-detailed Folded-paper Blueprint Of Character">
 
 **Prompt:**
 ```
-{
-  "scene": {
-    "type": "single_object_studio_render",
-    "background": {
-      "color": "pure_black",
-      "texture": "none",
-      "lighting": "no_environment_reflections"
-    }
-  },
-  "subject": {
-    "object_type": "wireless_earbud",
-    "model_hint": "airpods_pro_3",
-    "view": "right_side_profile",
-    "orientation": "stem_down_ear_tip_left",
-    "composition": "center_frame",
-    "representation": "xray_cutaway",
-    "details": {
-      "shell": {
-        "visibility": "transparent",
-        "edge_glow": "subtle_blue_violet",
-        "thickness": "realistic"
-      },
-      "internal_components": {
-        "show": true,
-        "elements": [
-          "battery_cell",
-          "speaker_driver",
-          "microphones",
-          "circuit_boards",
-          "wiring",
-          "sensors"
-        ],
-        "layout": "stacked_modules_following_original_geometry",
-        "sharpness": "very_high",
-        "tech_feel": "scientific_medical_xray"
-      }
-    }
-  },
-  "render_style": {
-    "look": "false_color_thermal_xray",
-    "shader": "heatmap_gradient",
-    "color_palette": {
-      "cold": "deep_blue_violet",
-      "mid": "cyan_and_green",
-      "warm": "yellow_and_orange",
-      "hot": "red_and_magenta_highlights"
-    },
-    "glow": {
-      "enabled": true,
-      "intensity": "medium_high",
-      "soft_edge_bloom": true
-    },
-    "transparency": {
-      "shell_opacity": 0.25,
-      "internal_parts_opacity": 0.9,
-      "overlap_blending": "additive"
-    }
-  },
-  "camera": {
-    "framing": "tight_single_object",
-    "lens": "standard_50mm",
-    "angle": "orthographic_like_side_view",
-    "distance": "medium_close_up",
-    "perspective": "minimal_distortion"
-  },
-  "lighting": {
-    "environment": "black_void",
-    "sources": [
-      {
-        "type": "soft_invisible_backlight",
-        "purpose": "enhance_glow_and_xray_edges"
-      }
-    ],
-    "shadows": "none"
-  },
-  "post_processing": {
-    "contrast": "high",
-    "clarity": "very_high",
-    "saturation": "strong_in_color_bands_only",
-    "vignette": "very_subtle",
-    "noise": "none",
-    "overall_mood": "clinical_scientific_futuristic"
-  }
-}
+A hyper-detailed folded-paper blueprint of [character], where the character is constructed from precise geometric folds and crease lines, overlaid with subtle blueprint markings, measurement lines, and paper annotations. Minimal color palette, off-white paper with faint ink lines. Studio lighting, crisp shadows, architectural art style, photorealistic paper detail. 1080x1080 square format.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=508c126e-ad29-4293-b8e8-d7ba72d5cc07)** | Likes: 1
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0933eb49-deac-4747-b0c7-6fadbbdc595e)** | Likes: 1
 
 ---
 
@@ -1384,6 +1348,19 @@ Minimalist food photograph, [1080x1080] – a single [Orange] rests on a light, 
 
 
 ### Image Editing
+
+#### High-end Glossy Surreal Fashion Photograph Of A
+
+<img src="https://cdn.bestnanobananaprompt.com/vmv3w6zipa_1765870890399.jpg" width="400" alt="High-end Glossy Surreal Fashion Photograph Of A">
+
+**Prompt:**
+```
+A high-end glossy surreal fashion photograph of a young woman floating inside a giant transparent plastic water bag, like a human goldfish. She wears a tight black catsuit and white sneakers, her body posed in a graceful mid-motion curve, one arm lifted, the other extended, hair drifting weightlessly in the water. Three small golden fish swim around her, adding playful contrast. The bag is held from above by a large manicured hand with long red nails, stretching the plastic and creating sharp specular highlights and distortions. Background: a clean deep red studio backdrop with subtle gradient and no distractions. Lighting is cinematic and polished, with crisp reflections on the plastic, smooth skin tones, and strong contrast that emphasizes the contours of her body and the surreal aquarium concept. Ultra-high resolution, editorial campaign quality.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=e9d08e3d-88c5-4f12-9a8c-5d6d2094f684)** | Likes: 1
+
+---
 
 #### An elegant young woman
 
@@ -1426,19 +1403,6 @@ Minimalist food photograph, [1080x1080] – a single [Orange] rests on a light, 
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=4c3d4ed4-523d-4f9c-880c-518d5561b92b)** | Likes: 1
-
----
-
-#### High-end Glossy Surreal Fashion Photograph Of A
-
-<img src="https://cdn.bestnanobananaprompt.com/vmv3w6zipa_1765870890399.jpg" width="400" alt="High-end Glossy Surreal Fashion Photograph Of A">
-
-**Prompt:**
-```
-A high-end glossy surreal fashion photograph of a young woman floating inside a giant transparent plastic water bag, like a human goldfish. She wears a tight black catsuit and white sneakers, her body posed in a graceful mid-motion curve, one arm lifted, the other extended, hair drifting weightlessly in the water. Three small golden fish swim around her, adding playful contrast. The bag is held from above by a large manicured hand with long red nails, stretching the plastic and creating sharp specular highlights and distortions. Background: a clean deep red studio backdrop with subtle gradient and no distractions. Lighting is cinematic and polished, with crisp reflections on the plastic, smooth skin tones, and strong contrast that emphasizes the contours of her body and the surreal aquarium concept. Ultra-high resolution, editorial campaign quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=e9d08e3d-88c5-4f12-9a8c-5d6d2094f684)** | Likes: 1
 
 ---
 
