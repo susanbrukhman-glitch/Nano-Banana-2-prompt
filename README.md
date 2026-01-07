@@ -178,7 +178,98 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 11
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 12
+
+---
+
+#### Young adult female with sun-kissed tan skin
+
+<img src="https://cdn.bestnanobananaprompt.com/fedmbc62myk_1766560074392.jpg" width="400" alt="Young adult female with sun-kissed tan skin">
+
+**Prompt:**
+```
+{
+"subject": {
+"description": "Young adult female with sun-kissed tan skin and long, layered blonde hair with darker roots and bright highlights.",
+"face": "Oval face shape, full lips with natural mauve tone, groomed eyebrows, wearing large, thick-framed black square glasses. Make-up is present but looks lived-in, featuring winged eyeliner and contouring.",
+"body_type": "Curvy and voluptuous figure with a prominent, naturally heavy bust. The anatomy emphasizes natural weight distribution, soft tissue volume, and gravity-affected positioning rather than artificially lifted shapes. Shoulders are relaxed, waist is defined but not exaggeratedly snatched.",
+"outfit": "A tight-fitting chocolate brown spaghetti-strap mini dress or slip dress. A visible layer of white scalloped lace trims the neckline of a bra or camisole underneath, creating contrast against the brown fabric and tan skin. The fabric creates natural tension wrinkles around the torso.",
+"accessories": "A colorful beaded bracelet (yellow, pink, blue beads) on the left wrist. A delicate silver necklace with a cursive nameplate pendant. Small stud earrings.",
+"skin_details": "High-fidelity skin texture showing pores, natural oil sheen on the forehead and nose, slight redness on cheeks, and realistic coloring that varies across the chest and neck. No plastic smoothing."
+},
+"pose": {
+"stance": "Standing three-quarter view, angled slightly to the right, facing the camera.",
+"arms": "Left arm is raised, with the hand gently grasping the back of the head/hair in a relaxed gesture. Right arm hangs naturally by the side (mostly out of frame).",
+"head": "Head tilted slightly to the left, chin slightly up, looking directly at the lens through the glasses.",
+"expression": "Confident, calm, slightly sultry but candid expression with lips closed."
+},
+"environment": {
+"location": "A modern, clean bathroom interior.",
+"background_elements": "To the left, a grey doorframe and white wall. To the right, the edge of a large white freestanding bathtub with a modern chrome faucet stand. A small glass jar candle sits on the corner of the tub.",
+"atmosphere": "Domestic, private, and quiet."
+},
+"camera": {
+"type": "Digital SLR or Mirrorless (e.g., Sony A7R series).",
+"lens": "50mm portrait lens.",
+"aperture": "f/2.8 for gentle depth of field.",
+"focus": "Sharp focus on the eyes and glasses, with a gentle fall-off blurring the background elements (tub and door) slightly.",
+"perspective": "Eye-level, natural perspective with no wide-angle distortion."
+},
+"lighting": {
+"type": "Indoor ambient lighting mixed with vanity light.",
+"quality": "Soft, diffused, and flattering but realistic. Top-down lighting creates subtle shadows under the chin and emphasizes the volume of the chest.",
+"highlights": "Specular highlights on the nose tip, forehead, shoulders, and the rim of the glasses. Reflection visible in the glasses lenses.",
+"shadows": "Natural contact shadows where the hair touches the neck and where the dress creates folds."
+},
+"mood_and_expression": {
+"mood": "Casual, confident, intimate, unposed.",
+"emotion": "Relaxed self-assurance."
+},
+"style_and_realism": {
+"aesthetic": "Raw photography, candid snapshot, unedited reality.",
+"rendering": "Physically based rendering of skin translucency and fabric texture. Absolute adherence to anatomical weight and mass."
+},
+"colors_and_tone": {
+"palette": "Warm skin tones, chocolate brown, bright white, grey background accents.",
+"grading": "Natural, slightly warm indoor white balance. Rich contrast in the clothing folds.",
+"saturation": "True-to-life, not oversaturated."
+},
+"quality_and_technical_details": {
+"resolution": "8k uhd, detailed.",
+"texture": "Visible fabric weave on the brown dress, distinct lace pattern, individual hair strands.",
+"noise": "Subtle ISO noise in shadow areas to simulate a real sensor."
+},
+"aspect_ratio_and_output": {
+"ratio": "3:4",
+"framing": "Medium shot, capturing from the mid-thighs up to the top of the head."
+},
+"controlnet": {
+"pose_control": "Strict adherence to the hand-behind-head pose and head tilt.",
+"depth_control": "Preserve the spatial relationship between the subject and the bathtub behind her."
+},
+"negative_prompt": [
+"anatomy normalization",
+"dataset-average proportions",
+"artificial slimming",
+"reduced chest volume",
+"lifted or tightened soft tissue",
+"gravity-defying breasts",
+"beauty filters",
+"plastic skin",
+"airbrushed finish",
+"flat lighting",
+"mirror selfie phone visibility",
+"holding phone",
+"distorted fingers",
+"cartoonish",
+"3d render",
+"drawing",
+"painting"
+]
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=57cb9da3-6b2e-4ce2-8634-46e50dc5ebb5)** | Likes: 12
 
 ---
 
@@ -456,6 +547,232 @@ Style Requirements:
 
 ---
 
+#### Ultra-Realistic Paragliding Selfie
+
+<img src="https://cdn.bestnanobananaprompt.com/shqdmmsw52_1766559895961.png" width="400" alt="Ultra-Realistic Paragliding Selfie">
+
+**Prompt:**
+```
+{
+
+"generation_request": {
+
+"reference_image": {
+
+"type": "uploaded_image",
+
+"priority": "absolute",
+
+"instructions": "Use the uploaded reference image as the ONLY face source. Do not change facial structure, proportions, eyes, nose, lips, jawline, or identity. This must be the exact same person."
+
+},
+
+"subject": {
+
+"gender": "Female",
+
+"age_range": "20s",
+
+"identity_lock": true,
+
+"facial_preservation": {
+
+"mode": "strict",
+
+"level": "maximum",
+
+"no_stylization": true,
+
+"no_beautification": true,
+
+"no_face_merge": true,
+
+"no_face_variation": true
+
+}
+
+},
+
+"prompts": {
+
+"positive_prompt": "Ultra high-resolution, hyper-realistic action photography featuring the EXACT SAME woman from the uploaded reference image, with identical face, identity, and facial proportions. Low-angle wide-angle selfie shot captured using a selfie stick held in her LEFT hand. She is paragliding high above a tropical coastline, suspended in a professional paragliding harness with legs freely dangling. She wears a black bikini and simple flip-flops. Her RIGHT hand firmly grips the paragliding control handle. Bright hard natural daylight, clear blue sky, deep turquoise ocean below. Sharp focus, cinematic composition, realistic skin texture, natural facial expression matching the reference image. Real photography look, true-to-life anatomy, dynamic motion, no artistic interpretation.",
+
+"negative_prompt": "any face change, different person, altered identity, face stylization, beauty filter, AI face, CG, 3D render, anime, cartoon, illustration, painting, doll face, smooth skin, overbeautified face, distorted anatomy, bad hands, extra fingers, missing fingers, helmet, sunglasses, wetsuit, sneakers, cloudy weather, dark lighting, blur, noise, grain, low resolution"
+
+},
+
+"scene_details": {
+
+"camera_angle": "Low perspective, wide-angle, looking up from selfie stick",
+
+"lighting": "Bright natural daylight, hard sunlight",
+
+"attire": [
+
+"Black bikini",
+
+"Simple flip-flops"
+
+],
+
+"pose_constraints": {
+
+"left_hand": "Holding selfie stick pointed toward self",
+
+"right_hand": "Holding paragliding control handle",
+
+"legs": "Dangling freely"
+
+}
+
+},
+
+"technical_settings": {
+
+"aspect_ratio": "9:16",
+
+"style": "Ultra-realistic RAW photography",
+
+"detail_level": "maximum",
+
+"identity_strength": 1.0
+
+}
+
+}
+
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a7621a21-89cf-4ccc-9c21-f5a4be970650)** | Likes: 8
+
+---
+
+#### A fashionable, elegant woman seated at a Parisian café
+
+<img src="https://cdn.bestnanobananaprompt.com/fjj9wloxmp4_1766890181839.jpg" width="400" alt="A fashionable, elegant woman seated at a Parisian café">
+
+**Prompt:**
+```
+{
+  "prompt": {
+    "subject": {
+      "description": "A fashionable, elegant woman seated at a Parisian café",
+      "pose": "Seated with legs crossed, holding a small coffee cup in one hand",
+      "expression": "Composed, confident, contemplative",
+      "gaze": "Looking slightly to the side, away from the camera",
+      "appearance": {
+        "gender": "female",
+        "age_range": "mid-20s to early-30s",
+        "skin_tone": "light to medium",
+        "hair": {
+          "color": "blonde",
+          "style": "long, loose waves, center-parted"
+        },
+        "makeup": {
+          "style": "soft luxury glam",
+          "details": "defined brows, neutral eyeshadow, subtle contour, nude lipstick"
+        }
+      }
+    },
+    "wardrobe": {
+      "outfit": "Elegant beige satin dress",
+      "outerwear": "White tailored blazer draped over shoulders",
+      "footwear": "Beige pointed-toe high heels",
+      "accessories": [
+        "Luxury black quilted handbag with gold chain strap",
+        "Gold wristwatch",
+        "Minimal rings"
+      ]
+    },
+    "setting": {
+      "location": "Outdoor Parisian café terrace",
+      "city": "Paris",
+      "background_landmarks": [
+        "Eiffel Tower visible in the distance",
+        "Classic Parisian Haussmann buildings"
+      ],
+      "furniture": [
+        "Round marble café tables",
+        "Woven bistro chairs"
+      ],
+      "foreground_elements": [
+        "White shopping bag with luxury branding",
+        "Coffee cup and saucer"
+      ]
+    },
+    "lighting": {
+      "type": "Natural daylight",
+      "time_of_day": "Late morning or afternoon",
+      "quality": "Soft, diffused, overcast light",
+      "effect": "Even skin tones with gentle shadows"
+    },
+    "camera": {
+      "shot_type": "Full-body portrait",
+      "angle": "Eye-level",
+      "lens": "50mm or 85mm fashion lens",
+      "depth_of_field": "Moderate depth of field, slightly blurred background"
+    },
+    "composition": {
+      "framing": "Subject centered between café tables",
+      "balance": "Symmetry between foreground objects and background architecture",
+      "leading_lines": "Café railing and street perspective leading toward Eiffel Tower"
+    },
+    "mood": {
+      "atmosphere": "Chic, refined, Parisian luxury lifestyle",
+      "emotion": "Confidence, calm sophistication"
+    },
+    "style": {
+      "aesthetic": "High-end fashion editorial",
+      "influences": [
+        "Paris street style photography",
+        "Luxury lifestyle branding",
+        "Editorial fashion magazines"
+      ]
+    },
+    "image_quality": {
+      "resolution": "Ultra high resolution",
+      "detail_level": "Highly detailed fabrics, accessories, and facial features",
+      "sharpness": "Crisp subject focus",
+      "color_grading": "Neutral beige tones with soft contrast"
+    }
+  },
+  "negative_prompt": [
+    "blurry",
+    "low resolution",
+    "harsh lighting",
+    "overexposed",
+    "underexposed",
+    "distorted anatomy",
+    "extra limbs",
+    "poor proportions",
+    "cartoon",
+    "anime",
+    "illustration",
+    "text artifacts",
+    "watermark",
+    "grainy"
+  ]
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8b0e49f0-d4e1-4bc5-b385-6ad015ca46a6)** | Likes: 7
+
+---
+
+#### Korean Instagram Goddess style
+
+<img src="https://cdn.bestnanobananaprompt.com/7tm27vofx3t_1766559859490.jpg" width="400" alt="Korean Instagram Goddess style">
+
+**Prompt:**
+```
+A full-body photograph taken deep within a snow-covered forest in Sapporo at night under clear, cold blue moonlight. A stunning Korean Instagram goddess with a heavily heavily edited, exaggerated hourglass figure (especially wide hips and tiny waist) is posing. She wears the same warm fur hat and a very short, cropped faux shearling (yangmal) jacket that barely covers her midriff (above the belly button). Her tight light blue camisole, short mink hotpants, and Ugg boots are visible. Fresh snow dusted on her and clothes; pinkish blush on knees/elbows from cold. She is posing with one hand touching the snowy branch of a pine tree, looking up at the night sky with a mystical expression. The background is a dense, snow-laden pine forest lit by magical, deep blue moonlight, with a clear night sky full of stars visible above the trees. The ground is deep, untouched snow. The photo has a slightly grainy, natural smartphone quality. --ar 9:21 --v 6.0
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=473f0e0d-3897-4978-a985-6f9f66603248)** | Likes: 7
+
+---
+
 #### a Na’vi caught by iPhone flash
 
 <img src="https://cdn.bestnanobananaprompt.com/a3g7htu3k34_1766889478863.jpg" width="400" alt="a Na’vi caught by iPhone flash">
@@ -590,175 +907,240 @@ Style Requirements:
 
 ---
 
-#### Korean Instagram Goddess style
+#### oung woman with a fit, curvy physique taking a mirror selfie
 
-<img src="https://cdn.bestnanobananaprompt.com/7tm27vofx3t_1766559859490.jpg" width="400" alt="Korean Instagram Goddess style">
-
-**Prompt:**
-```
-A full-body photograph taken deep within a snow-covered forest in Sapporo at night under clear, cold blue moonlight. A stunning Korean Instagram goddess with a heavily heavily edited, exaggerated hourglass figure (especially wide hips and tiny waist) is posing. She wears the same warm fur hat and a very short, cropped faux shearling (yangmal) jacket that barely covers her midriff (above the belly button). Her tight light blue camisole, short mink hotpants, and Ugg boots are visible. Fresh snow dusted on her and clothes; pinkish blush on knees/elbows from cold. She is posing with one hand touching the snowy branch of a pine tree, looking up at the night sky with a mystical expression. The background is a dense, snow-laden pine forest lit by magical, deep blue moonlight, with a clear night sky full of stars visible above the trees. The ground is deep, untouched snow. The photo has a slightly grainy, natural smartphone quality. --ar 9:21 --v 6.0
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=473f0e0d-3897-4978-a985-6f9f66603248)** | Likes: 7
-
----
-
-#### Artitecture
-
-<img src="https://cdn.bestnanobananaprompt.com/bjo1ndn7ars_1766496041065.png" width="400" alt="Artitecture">
-
-**Prompt:**
-```
-Grainy 35mm film photo from 1975. A construction worker is installing a large glass window pane on the ground floor of a brick house. Through the clear glass, instead of seeing the interior of the room, we see a view looking down from a skyscraper at night onto a neon Tokyo metropolis. The reflection in the glass, however, correctly shows the sunny suburban garden behind the photographer. Visual anomaly, subtle horror, analog texture.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d798f166-1aa4-4c7c-870f-990cf3775977)** | Likes: 7
-
----
-
-#### A fashionable, elegant woman seated at a Parisian café
-
-<img src="https://cdn.bestnanobananaprompt.com/fjj9wloxmp4_1766890181839.jpg" width="400" alt="A fashionable, elegant woman seated at a Parisian café">
+<img src="https://cdn.bestnanobananaprompt.com/3aha5y5av7u_1766889416875.jpg" width="400" alt="oung woman with a fit, curvy physique taking a mirror selfie">
 
 **Prompt:**
 ```
 {
-  "prompt": {
-    "subject": {
-      "description": "A fashionable, elegant woman seated at a Parisian café",
-      "pose": "Seated with legs crossed, holding a small coffee cup in one hand",
-      "expression": "Composed, confident, contemplative",
-      "gaze": "Looking slightly to the side, away from the camera",
-      "appearance": {
-        "gender": "female",
-        "age_range": "mid-20s to early-30s",
-        "skin_tone": "light to medium",
-        "hair": {
-          "color": "blonde",
-          "style": "long, loose waves, center-parted"
-        },
-        "makeup": {
-          "style": "soft luxury glam",
-          "details": "defined brows, neutral eyeshadow, subtle contour, nude lipstick"
-        }
-      }
-    },
-    "wardrobe": {
-      "outfit": "Elegant beige satin dress",
-      "outerwear": "White tailored blazer draped over shoulders",
-      "footwear": "Beige pointed-toe high heels",
-      "accessories": [
-        "Luxury black quilted handbag with gold chain strap",
-        "Gold wristwatch",
-        "Minimal rings"
-      ]
-    },
-    "setting": {
-      "location": "Outdoor Parisian café terrace",
-      "city": "Paris",
-      "background_landmarks": [
-        "Eiffel Tower visible in the distance",
-        "Classic Parisian Haussmann buildings"
-      ],
-      "furniture": [
-        "Round marble café tables",
-        "Woven bistro chairs"
-      ],
-      "foreground_elements": [
-        "White shopping bag with luxury branding",
-        "Coffee cup and saucer"
-      ]
-    },
-    "lighting": {
-      "type": "Natural daylight",
-      "time_of_day": "Late morning or afternoon",
-      "quality": "Soft, diffused, overcast light",
-      "effect": "Even skin tones with gentle shadows"
-    },
-    "camera": {
-      "shot_type": "Full-body portrait",
-      "angle": "Eye-level",
-      "lens": "50mm or 85mm fashion lens",
-      "depth_of_field": "Moderate depth of field, slightly blurred background"
-    },
-    "composition": {
-      "framing": "Subject centered between café tables",
-      "balance": "Symmetry between foreground objects and background architecture",
-      "leading_lines": "Café railing and street perspective leading toward Eiffel Tower"
-    },
-    "mood": {
-      "atmosphere": "Chic, refined, Parisian luxury lifestyle",
-      "emotion": "Confidence, calm sophistication"
-    },
-    "style": {
-      "aesthetic": "High-end fashion editorial",
-      "influences": [
-        "Paris street style photography",
-        "Luxury lifestyle branding",
-        "Editorial fashion magazines"
-      ]
-    },
-    "image_quality": {
-      "resolution": "Ultra high resolution",
-      "detail_level": "Highly detailed fabrics, accessories, and facial features",
-      "sharpness": "Crisp subject focus",
-      "color_grading": "Neutral beige tones with soft contrast"
-    }
-  },
-  "negative_prompt": [
-    "blurry",
-    "low resolution",
-    "harsh lighting",
-    "overexposed",
-    "underexposed",
-    "distorted anatomy",
-    "extra limbs",
-    "poor proportions",
-    "cartoon",
-    "anime",
-    "illustration",
-    "text artifacts",
-    "watermark",
-    "grainy"
-  ]
+"subject": {
+"description": "Young woman with a fit, curvy physique taking a mirror selfie",
+"hair": "Dark brown hair styled in a messy, high bun with loose strands and wispy bangs framing the face",
+"clothing": "Black racerback sports bra, tight black booty shorts with a Halloween pattern featuring orange jack-o'-lantern pumpkins and small purple stars",
+"physique": "Athletic and voluptuous build, prominent glutes, slim waist, visible back musculature, tan skin tone",
+"accessories": "Gold ring on right hand, small earrings",
+"phone": "Gold or champagne-colored iPhone with a textured, puffy 'puffer' style case held in the right hand"
+},
+"pose": {
+"stance": "Standing with back towards the mirror, torso twisted slightly to the left",
+"head_orientation": "Head turned over the left shoulder, looking directly into the mirror/camera",
+"limbs": "Right arm raised holding the phone, left arm down by side, legs standing straight with weight slightly shifted",
+"focus": "Emphasis on the posterior view and profile curve"
+},
+"environment": {
+"setting": "Modern apartment interior seen through a mirror reflection",
+"details": "Large floor-to-ceiling window on the left revealing a city skyline and blue sky, white door frame on the right, glimpse of a living area in the background with a couch and ceiling light",
+"surface": "Clean mirror surface reflecting the subject and room"
+},
+"camera": {
+"shot_type": "Mirror selfie, medium shot capturing from knees to top of head",
+"perspective": "Reflection view, camera positioned at shoulder height",
+"focal_length": "26mm equivalent (smartphone main camera)",
+"depth_of_field": "Deep depth of field, background slightly softer but visible"
+},
+"lighting": {
+"source": "Strong natural daylight entering from the large window on the left, mixed with soft indoor ambient lighting",
+"characteristics": "Directional side lighting creating highlights on the left arm, hair, and profile, casting soft shadows on the right side of the back and legs",
+"quality": "Realistic, high-contrast daylight balance"
+},
+"mood_and_expression": {
+"emotion": "Confident, sultry, casual",
+"facial_expression": "Neutral to slight pout, focused gaze on the phone screen/mirror reflection",
+"atmosphere": "Casual lifestyle, influencer aesthetic, morning or afternoon vibe"
+},
+"style_and_realism": {
+"aesthetic": "Raw smartphone photography, unpolished social media snapshot",
+"rendering": "Photorealistic, 8k resolution, texture-rich",
+"details": "Visible skin texture, natural fabric folds in clothing, realistic light falloff"
+},
+"colors_and_tone": {
+"palette": "Natural skin tones (tan), deep blacks (clothing), bright oranges (pumpkins), cool whites and blues (background/window)",
+"contrast": "Medium-high contrast due to window light",
+"saturation": "Natural to slightly vibrant"
+},
+"quality_and_technical_details": {
+"resolution": "Best quality, ultra-detailed",
+"sharpness": "Sharp focus on the subject, no motion blur",
+"noise": "Subtle digital noise characteristic of smartphone sensors"
+},
+"aspect_ratio_and_output": {
+"ratio": "3:4",
+"framing": "Vertical portrait orientation"
+},
+"controlnet": {
+"pose_control": {
+"model_type": "DWPose",
+"purpose": "Exact skeletal and pose lock",
+"constraints": [
+"preserve shoulder width",
+"preserve hip angle",
+"preserve spine curvature",
+"preserve limb placement"
+],
+"recommended_weight": 1.0
+},
+"depth_control": {
+"model_type": "ZoeDepth",
+"purpose": "Depth, volume, and camera-to-body spatial lock",
+"constraints": [
+"preserve glute foreground dominance",
+"prevent flat or compressed depth",
+"maintain clear torso-to-background separation"
+],
+"recommended_weight": 0.8
+}
+},
+"negative_prompt": {
+"forbidden_elements": [
+"anatomy normalization",
+"body proportion averaging",
+"reduced glute volume",
+"flattened curves",
+"slimmed torso",
+"aesthetic proportion correction",
+"beauty standard enforcement",
+"dataset-average female anatomy",
+"camera angles that reduce volume",
+"wide-angle distortion not in reference",
+"cropping that removes volume",
+"depth flattening",
+"beautification filters",
+"skin smoothing",
+"plastic skin",
+"airbrushed texture",
+"stylized realism",
+"cartoonish",
+"sketch",
+"painting",
+"blur",
+"low quality",
+"distorted hands",
+"missing phone"
+]
+}
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8b0e49f0-d4e1-4bc5-b385-6ad015ca46a6)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=02d3fc22-6342-49f8-a178-f2c13e5005c2)** | Likes: 7
 
 ---
 
-#### Surrealism with Christmas
 
-<img src="https://cdn.bestnanobananaprompt.com/0g8ppzp0nyhu_1766326179789.jpg" width="400" alt="Surrealism with Christmas">
+### Product Photography
+
+#### high-end Christmas product photoshoot
+
+<img src="https://cdn.bestnanobananaprompt.com/kortg4j582_1766559823654.jpg" width="400" alt="high-end Christmas product photoshoot">
 
 **Prompt:**
 ```
-(Surrealism, fantasy art, macro photography style). A magical composition where the specific character is captured inside a giant, life-sized glass snow globe. [CRITICAL: Keep the face identical to the source image, maintain consistent facial features within the glass distortion].
+The foundation of this setup is strict product preservation. The uploaded product must stay 100% identical in shape, size, materials, colors, label design, typography, logos, and all visible text. No redesign, enhancement, translation, or stylization of any kind. Think of the product as photographed in a real luxury studio, not recreated.
 
-Inside the Globe: The character is wearing a white faux fur winter coat and a red Santa hat, catching falling snowflakes with her hands. The environment inside includes miniature snow-covered pine trees decorated with colorful Christmas lights twinkling in red, green, blue, and gold. A tiny wooden cabin sits among the trees. Swirling magical glitter and snow dust fill the air inside the sphere.
+Go to Nano Banana Pro
 
-Outside the Globe: The background is a blurry, cozy living room with a fireplace, emphasizing that the character is inside the ornament.
+Write the full prompt given below
 
-Lighting: The snow globe is glowing from within, illuminated by the warm colorful glow of the Christmas tree lights mixing with cool magical blue and white light on the falling snow. The character's face is beautifully lit by this magical mixed lighting. External warm light reflects off the curved glass surface, creating rainbow prismatic effects.
+Upload your reference image
 
-Technical: Ray tracing reflections on the glass, refraction effects, crystal clear focus on the character, magical atmosphere, ethereal and dreamy aesthetic, 8k resolution, intricate details of the snowflakes and Christmas lights bokeh.
+Hit "Generate" and get the edited image
+
+Scene & Environment
+Choose a cozy, studio, or outdoor Christmas setting that supports the product without overpowering it. Backgrounds like wooden windowsills, velvet backdrops, or snowy landscapes work beautifully when paired with soft winter bokeh, blurred Christmas tree lights, or gentle snowfall.
+
+Festive Styling
+Holiday accents should feel natural and tasteful—holly, ribbons, ornaments, fairy lights—placed carefully so they never cover or distract from the product. If you add a festive accessory (like a Santa hat, scarf, or ribbon), it must fit perfectly and never alter the product’s structure or hide the label.
+
+Lighting & Camera
+Lighting is what sells luxury here. Use warm golden Christmas tones balanced with cool winter hues. Soft, diffused light keeps everything elegant, while subtle rim lighting adds depth. Avoid glare or reflections on any text. A shallow depth of field with a professional DSLR look (such as an 85mm lens) helps isolate the product and elevate the composition.
+
+Overall Mood
+The final image should feel like a premium holiday advertisement—clean, cozy, elegant, and festive. Ultra-high resolution, photorealistic textures, and an editorial finish make it suitable for brand websites, social campaigns, and seasonal promotions.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=ea83b511-6b1a-45d7-aa99-26ca7c2c6a03)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=e9a77625-a73b-4c2c-8664-390856f05c4f)** | Likes: 7
 
 ---
 
-#### Cinematic Portrait Photography
+#### Professional Studio Product Photography Of A Product
 
-<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
+<img src="https://cdn.bestnanobananaprompt.com/urmd8hj2khd_1767575256717.jpg" width="400" alt="Professional Studio Product Photography Of A Product">
 
 **Prompt:**
 ```
-cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
+Professional studio product photography of a [PRODUCT], centered. The product is surrounded by dynamic, swirling liquid splashes that wrap around it. The background is a clean, minimalist gradient that perfectly matches the color palette and branding of the [PRODUCT]. High-end commercial lighting, cinematic atmosphere, sharp focus, droplets of water on the surface, 8k resolution, hyper-realistic.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=162b93cf-0768-4c19-a610-13f5ba466294)** | Likes: 4
+
+---
+
+#### Promotional Poster For The Skin Care Essential
+
+<img src="https://cdn.bestnanobananaprompt.com/biioob1jmod_1765210751435.png" width="400" alt="Promotional Poster For The Skin Care Essential">
+
+**Prompt:**
+```
+Generate a promotional poster for the skin care essential oil in Figure 1，AR 2:3
+1. Scene: A brown essential oil bottle is elegantly placed on a natural grey stone slab, covered with vibrant emerald green moss. The bottle has a golden label "Lovart" and is slightly tilted. The base is surrounded by soft pink and milky white peonies. A few tender petals float gently in the air, and golden honey drips delicately on one side of the stone slab like a waterfall and a fine rain. The background is a soft and blurry warm pink wall with dynamic backlighting, creating a soft glow around the product.
+2. Copywriting information
+- SUMMER SALE
+-  30% OFF (orders $280+)
+- brand name: Lovart
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=14f69eb4-e87c-4677-982c-5a1319157253)** | Likes: 4
+
+---
+
+#### Product Prompt
+
+<img src="https://cdn.bestnanobananaprompt.com/m1jvxpbyquo_1765767047039.jpg" width="400" alt="Product Prompt">
+
+**Prompt:**
+```
+{
+  "角色设定": "你是一名顶级商业摄影师与品牌视觉导演，擅长用真实生活场景与克制但具有吸引力的人物参与，打造高传播力的产品影像。你极度重视人物身体比例、姿态与构图层级：人物增强情绪与欲望张力，但产品永远是画面的绝对主角。",
+  "输入变量": {
+    "品牌名称": "{{BRAND}}",
+    "产品名称": "{{PRODUCT}}",
+    "产品品类/形态": "{{CATEGORY}}",
+    "产品主色": "{{PRODUCT_COLOR}}",
+    "使用场景关键词": "{{SCENE_KEYWORDS}}",
+    "季节": "{{SEASON}}",
+    "时间": "{{TIME_OF_DAY}}",
+    "人物气质": "{{MODEL_VIBE}}"
+  },
+  "创作总原则（最高优先级）": {
+    "产品主角": "{{PRODUCT}}必须是画面中对焦最清晰、细节最锐利、色彩最突出、第一眼最先被注意到的主体。",
+    "人物背景但完整可读": "人物作为中景/背景层级出现，身体结构与姿态必须完整可读（能感知躯干、四肢与曲线逻辑），避免碎片化到无法理解身体结构。",
+    "吸引力来源": "吸引力来自身体整体曲线、姿态、皮肤质感与光影氛围（健康、自信、放松），而不是刻意挑逗、露骨暗示或表演化姿势。",
+    "真实生活感": "画面像现实生活中自然发生的一幕，而非棚拍广告摆拍；保留轻微生活痕迹。",
+    "一眼可读传播": "场景在1秒内可理解，适合社交媒体快速浏览与停留。"
+  },
+  "品牌理解与场景生成": {
+    "品牌解析": "根据{{BRAND}}推断其气质（年轻/高端/活力/自然/都市/松弛），并决定画面材质与色调（例如高端=更克制、更干净；活力=更明亮、更动感）。",
+    "场景匹配": "围绕{{PRODUCT}}的使用逻辑与{{SCENE_KEYWORDS}}生成合理生活场景（例如：饮料=户外/阳台/沙滩；香氛=卧室/浴室；护肤=洗手台；穿戴=通勤/咖啡馆）。",
+    "产品与场景关系": "{{PRODUCT}}与场景发生明确关系（正在被拿起、刚放下、旁边有使用痕迹/水珠/蒸汽/纸巾/包袋等），让观众相信它正在被使用。"
+  },
+  "人物策略（核心）": {
+    "人物目的": "人物用于放大{{PRODUCT}}的欲望价值与感官吸引力（舒适、清爽、精致、放松、能量、亲密感），而非作为独立叙事主体。",
+    "选择原则": "根据产品核心欲望点，匹配最合适的人体特征：清爽/夏日/活力→大腿、腰线、整体曲线；触感/护理/精致→手部与手指；高级/香氛/珠宝→锁骨、肩颈、耳部；气质→侧脸轮廓；力量感→下巴、胡须、喉结（男性）。",
+    "呈现方式": [
+      "人物在画面中可见面积约30%–60%，位于中景或背景，形成清晰层次",
+      "可裁掉头部或轻微虚化面部，但身体躯干与曲线必须完整可感知",
+      "姿态自然（坐、倚靠、站立、行走、伸手拿取/放下），避免夸张摆拍与明显“凹造型”"
+    ],
+    "服装逻辑": "服装与场景/季节一致（例如夏季=泳装/背心短裤/居家薄衫；城市=轻便通勤/休闲），暴露程度自然合理、健康审美、无露骨内容。",
+    "权重控制": "即使人物很有存在感，产品仍在对焦、色彩、构图中心性上高于人物一个层级。"
+  },
+  "核心场景描述（直接用于生成）": "生成一张超写实生活方式产品照片：{{PRODUCT}}（品牌：{{BRAND}}，品类：{{CATEGORY}}，主色：{{PRODUCT_COLOR}}）位于画面前景或视觉焦点位置，为全画面最清晰对焦主体，质感与细节极其锐利（logo/文字准确、边缘干净、材质真实）。场景为{{SEASON}}的{{TIME_OF_DAY}}，地点：{{SCENE_KEYWORDS}}所暗示的真实生活空间（如窗边/阳台/沙滩/泳池边/咖啡馆露台/酒店民宿）。画面中出现一位成年人（adult）作为中景或背景元素，气质{{MODEL_VIBE}}，身体比例自然健康，曲线完整可感知，姿态松弛自然（如坐在椅子旁、倚靠栏杆、从桌面拿起物品或刚放下{{PRODUCT}}），通过光影与皮肤质感提供高级的感官吸引力，但绝不喧宾夺主。整体情绪：松弛、真实、干净、略带欲望张力；像手机随手抓拍到的高级瞬间，但画质与构图达到商业摄影级别。",
+  "构图与镜头语言": {
+    "构图层级": "前景=产品（主角、最大视觉权重）；中景/背景=人物（完整可读）+环境（简洁支撑）",
+    "镜头焦段建议": "35mm或50mm写实商业摄影感，轻微透视，
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a6b79f2-81b0-47f3-b981-b362f1760d79)** | Likes: 4
 
 ---
 
@@ -857,6 +1239,251 @@ When the user provides an image or description:
 
 ---
 
+#### interesting image effects
+
+<img src="https://cdn.bestnanobananaprompt.com/bqout7hd9n5_1766326061646.jpg" width="400" alt="interesting image effects">
+
+**Prompt:**
+```
+{
+
+"subject": {
+
+"description": "A hyper-realistic optical illusion photograph. A young Caucasian woman appears to be stepping out of a smartphone screen held in a hand. The screen displays the camera interface, capturing her boots, while her real upper body extends out of the phone into reality.",
+
+"mirror_rules": "Ensure the phone screen clearly shows the iOS Camera UI (shutter button, mode text). Handwritten annotations must be legible and not mirrored.",
+
+"age": "20s",
+
+"expression": {
+
+"eyes": {
+
+"look": "Alluring and playful",
+
+"energy": "Confident, direct",
+
+"direction": "Looking at the viewer"
+
+},
+
+"mouth": {
+
+"position": "Blowing a kiss or pouting",
+
+"energy": "Chic and charming"
+
+},
+
+"overall": "Lifelike, engaging interaction"
+
+},
+
+"face": {
+
+"preserve_original": "false",
+
+"makeup": "Natural glam, matte foundation, defined European features",
+
+"features": "High nose bridge, double eyelids, defined jawline"
+
+},
+
+"hair": {
+
+"color": "Dark brown",
+
+"style": "Long, loose waves, voluminous",
+
+"effect": "Realistic shine, wind-blown effect"
+
+},
+
+"body": {
+
+"frame": "Petite but proportionally realistic",
+
+"waist": "Defined",
+
+"chest": "Covered by turtleneck",
+
+"legs": "Visible INSIDE the phone screen interface wearing boots",
+
+"skin": {
+
+"visible_areas": "Face, hands",
+
+"tone": "Fair Caucasian skin",
+
+"texture": "Ultra-realistic skin texture, visible pores, natural imperfections",
+
+"lighting_effect": "Soft daylight"
+
+}
+
+},
+
+"pose": {
+
+"position": "Torso and head emerging vertically from the phone, legs displayed on the screen",
+
+"base": "Dynamic standing pose",
+
+"overall": "充满活力的随机姿势，让人感觉生命力满满"
+
+},
+
+"clothing": {
+
+"top": {
+
+"effect": "精致的穿搭，High-quality textile photography"
+
+},
+
+"bottom": {
+
+"type": "Mini Skirt and Leather Boots",
+
+"color": "Dark Grey (skirt), Brown (boots)",
+
+"details": "Boots visible on the screen beneath the UI elements"
+
+}
+
+}
+
+},
+
+"accessories": {
+
+"jewelry": "Gold rings on the photographer's hand (foreground)",
+
+"device": "Smartphone with burgundy case. The screen is ACTIVE and DETAILED: it displays the IOS Camera App Interface (white circular shutter button at bottom, 'PHOTO' text).",
+
+"prop": "On the phone screen: White handwritten-style text overlays with arrows pointing to the outfit elements (e.g., text 'suede jacket' with arrow, 'leather boots' with arrow)."
+
+},
+
+"photography": {
+
+"camera_style": "DSLR photography, Macro lens for phone details",
+
+"angle": "POV, High angle looking down at hand",
+
+"shot_type": "Composite photography",
+
+"aspect_ratio": "3:4",
+
+"texture": "Sharp screen pixels, fingerprint smudges on screen, realistic fabric texture",
+
+"lighting": "Overcast soft natural light",
+
+"depth_of_field": "Background bench blurred (Bokeh), Phone screen UI and subject sharp"
+
+},
+
+"background": {
+
+"setting": "Parisian Park in Autumn",
+
+"wall_color": "Green bench, grey ground",
+
+"elements": [
+
+"Green park bench with text 'Le silence'",
+
+"Autumn leaves"
+
+],
+
+"atmosphere": "Cinematic, realistic",
+
+"lighting": "Natural ambient light"
+
+},
+
+"the_vibe": {
+
+"energy": "Sophisticated, viral social media content",
+
+"mood": "Fashion forward",
+
+"aesthetic": "OOTD breakdown, creative edit",
+
+"authenticity": "Photorealistic texture, not CGI",
+
+"intimacy": "POV",
+
+"story": "Fashion styling breakdown",
+
+"caption_energy": "Styling brown suede & leather"
+
+},
+
+"constraints": {
+
+"must_keep": [
+
+"Caucasian ethnicity",
+
+"Photorealistic skin",
+
+"Camera UI elements on screen (shutter button)",
+
+"Handwritten text annotations on screen",
+
+"Pop-out effect"
+
+],
+
+"avoid": [
+
+"Transparent phone screen",
+
+"Blank screen",
+
+"3D render style",
+
+"Cartoon",
+
+"Plastic skin"
+
+]
+
+},
+
+"negative_prompt": [
+
+"transparent screen",
+
+"blank screen",
+
+"glass phone",
+
+"3d",
+
+"render",
+
+"cartoon",
+
+"anime",
+
+"plastic",
+
+"drawing",
+
+"illustration"
+
+]
+
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8418c54a-967a-4a4a-aaca-470f868413c4)** | Likes: 5
+
+---
+
 #### Extreme Wide-angle Perspective And Dynamic Pose Remix Edit
 
 <img src="https://cdn.bestnanobananaprompt.com/en9vcvcbq9m_1765074997341.jpg" width="400" alt="Extreme Wide-angle Perspective And Dynamic Pose Remix Edit">
@@ -952,19 +1579,6 @@ Also, below is the prompt for generating the original image. Please use it as a 
 
 ---
 
-#### a Gestural Impasto Portrait
-
-<img src="https://cdn.bestnanobananaprompt.com/nsqddj7g9l_1766559973491.jpg" width="400" alt="a Gestural Impasto Portrait">
-
-**Prompt:**
-```
-A Gestural Impasto Revelation of [SUBJECT], with thick, textured layers of paint applied with expressive strokes. Use a palette of [COLOR1] and [COLOR2] to build depth and convey a sense of immediacy and physicality
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6db2da04-9828-426f-802d-1262da030280)** | Likes: 3
-
----
-
 
 ### Comic Art
 
@@ -996,166 +1610,48 @@ Using this character, please draw a manga that introduces how amazing GPT Image 
 ---
 
 
-### Product Photography
+### Logo Design
 
-#### high-end Christmas product photoshoot
+#### Unexpected high-end product concepts
 
-<img src="https://cdn.bestnanobananaprompt.com/kortg4j582_1766559823654.jpg" width="400" alt="high-end Christmas product photoshoot">
+<img src="https://cdn.bestnanobananaprompt.com/ekhcps0pmj6_1766327558091.jpg" width="400" alt="Unexpected high-end product concepts">
 
 **Prompt:**
 ```
-The foundation of this setup is strict product preservation. The uploaded product must stay 100% identical in shape, size, materials, colors, label design, typography, logos, and all visible text. No redesign, enhancement, translation, or stylization of any kind. Think of the product as photographed in a real luxury studio, not recreated.
+[BRAND NAME]: 
+A high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.
 
-Go to Nano Banana Pro
+**1. The Concept & Object (AI Invention):**
+Based on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.
 
-Write the full prompt given below
+**2. Materials & Details (Hyper-Premium):**
+The object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.
 
-Upload your reference image
+**3. Photography & Lighting (Cinematic Studio):**
+Shot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.
 
-Hit "Generate" and get the edited image
+**4. Environment:**
+A seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.
 
-Scene & Environment
-Choose a cozy, studio, or outdoor Christmas setting that supports the product without overpowering it. Backgrounds like wooden windowsills, velvet backdrops, or snowy landscapes work beautifully when paired with soft winter bokeh, blurred Christmas tree lights, or gentle snowfall.
-
-Festive Styling
-Holiday accents should feel natural and tasteful—holly, ribbons, ornaments, fairy lights—placed carefully so they never cover or distract from the product. If you add a festive accessory (like a Santa hat, scarf, or ribbon), it must fit perfectly and never alter the product’s structure or hide the label.
-
-Lighting & Camera
-Lighting is what sells luxury here. Use warm golden Christmas tones balanced with cool winter hues. Soft, diffused light keeps everything elegant, while subtle rim lighting adds depth. Avoid glare or reflections on any text. A shallow depth of field with a professional DSLR look (such as an 85mm lens) helps isolate the product and elevate the composition.
-
-Overall Mood
-The final image should feel like a premium holiday advertisement—clean, cozy, elegant, and festive. Ultra-high resolution, photorealistic textures, and an editorial finish make it suitable for brand websites, social campaigns, and seasonal promotions.
+**5. Layout & UI Elements (Strict Placement):**
+- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.
+- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: "CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=e9a77625-a73b-4c2c-8664-390856f05c4f)** | Likes: 6
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d8bf1922-66db-4a61-aba2-e2a99ac52222)** | Likes: 5
 
 ---
 
-#### Promotional Poster For The Skin Care Essential
+#### Spectacular Fireworks Display Photograph Over A Waterfront
 
-<img src="https://cdn.bestnanobananaprompt.com/biioob1jmod_1765210751435.png" width="400" alt="Promotional Poster For The Skin Care Essential">
-
-**Prompt:**
-```
-Generate a promotional poster for the skin care essential oil in Figure 1，AR 2:3
-1. Scene: A brown essential oil bottle is elegantly placed on a natural grey stone slab, covered with vibrant emerald green moss. The bottle has a golden label "Lovart" and is slightly tilted. The base is surrounded by soft pink and milky white peonies. A few tender petals float gently in the air, and golden honey drips delicately on one side of the stone slab like a waterfall and a fine rain. The background is a soft and blurry warm pink wall with dynamic backlighting, creating a soft glow around the product.
-2. Copywriting information
-- SUMMER SALE
--  30% OFF (orders $280+)
-- brand name: Lovart
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=14f69eb4-e87c-4677-982c-5a1319157253)** | Likes: 4
-
----
-
-#### Product Prompt
-
-<img src="https://cdn.bestnanobananaprompt.com/m1jvxpbyquo_1765767047039.jpg" width="400" alt="Product Prompt">
+<img src="https://cdn.bestnanobananaprompt.com/2hb7j3yhflm_1766889918066.jpg" width="400" alt="Spectacular Fireworks Display Photograph Over A Waterfront">
 
 **Prompt:**
 ```
-{
-  "角色设定": "你是一名顶级商业摄影师与品牌视觉导演，擅长用真实生活场景与克制但具有吸引力的人物参与，打造高传播力的产品影像。你极度重视人物身体比例、姿态与构图层级：人物增强情绪与欲望张力，但产品永远是画面的绝对主角。",
-  "输入变量": {
-    "品牌名称": "{{BRAND}}",
-    "产品名称": "{{PRODUCT}}",
-    "产品品类/形态": "{{CATEGORY}}",
-    "产品主色": "{{PRODUCT_COLOR}}",
-    "使用场景关键词": "{{SCENE_KEYWORDS}}",
-    "季节": "{{SEASON}}",
-    "时间": "{{TIME_OF_DAY}}",
-    "人物气质": "{{MODEL_VIBE}}"
-  },
-  "创作总原则（最高优先级）": {
-    "产品主角": "{{PRODUCT}}必须是画面中对焦最清晰、细节最锐利、色彩最突出、第一眼最先被注意到的主体。",
-    "人物背景但完整可读": "人物作为中景/背景层级出现，身体结构与姿态必须完整可读（能感知躯干、四肢与曲线逻辑），避免碎片化到无法理解身体结构。",
-    "吸引力来源": "吸引力来自身体整体曲线、姿态、皮肤质感与光影氛围（健康、自信、放松），而不是刻意挑逗、露骨暗示或表演化姿势。",
-    "真实生活感": "画面像现实生活中自然发生的一幕，而非棚拍广告摆拍；保留轻微生活痕迹。",
-    "一眼可读传播": "场景在1秒内可理解，适合社交媒体快速浏览与停留。"
-  },
-  "品牌理解与场景生成": {
-    "品牌解析": "根据{{BRAND}}推断其气质（年轻/高端/活力/自然/都市/松弛），并决定画面材质与色调（例如高端=更克制、更干净；活力=更明亮、更动感）。",
-    "场景匹配": "围绕{{PRODUCT}}的使用逻辑与{{SCENE_KEYWORDS}}生成合理生活场景（例如：饮料=户外/阳台/沙滩；香氛=卧室/浴室；护肤=洗手台；穿戴=通勤/咖啡馆）。",
-    "产品与场景关系": "{{PRODUCT}}与场景发生明确关系（正在被拿起、刚放下、旁边有使用痕迹/水珠/蒸汽/纸巾/包袋等），让观众相信它正在被使用。"
-  },
-  "人物策略（核心）": {
-    "人物目的": "人物用于放大{{PRODUCT}}的欲望价值与感官吸引力（舒适、清爽、精致、放松、能量、亲密感），而非作为独立叙事主体。",
-    "选择原则": "根据产品核心欲望点，匹配最合适的人体特征：清爽/夏日/活力→大腿、腰线、整体曲线；触感/护理/精致→手部与手指；高级/香氛/珠宝→锁骨、肩颈、耳部；气质→侧脸轮廓；力量感→下巴、胡须、喉结（男性）。",
-    "呈现方式": [
-      "人物在画面中可见面积约30%–60%，位于中景或背景，形成清晰层次",
-      "可裁掉头部或轻微虚化面部，但身体躯干与曲线必须完整可感知",
-      "姿态自然（坐、倚靠、站立、行走、伸手拿取/放下），避免夸张摆拍与明显“凹造型”"
-    ],
-    "服装逻辑": "服装与场景/季节一致（例如夏季=泳装/背心短裤/居家薄衫；城市=轻便通勤/休闲），暴露程度自然合理、健康审美、无露骨内容。",
-    "权重控制": "即使人物很有存在感，产品仍在对焦、色彩、构图中心性上高于人物一个层级。"
-  },
-  "核心场景描述（直接用于生成）": "生成一张超写实生活方式产品照片：{{PRODUCT}}（品牌：{{BRAND}}，品类：{{CATEGORY}}，主色：{{PRODUCT_COLOR}}）位于画面前景或视觉焦点位置，为全画面最清晰对焦主体，质感与细节极其锐利（logo/文字准确、边缘干净、材质真实）。场景为{{SEASON}}的{{TIME_OF_DAY}}，地点：{{SCENE_KEYWORDS}}所暗示的真实生活空间（如窗边/阳台/沙滩/泳池边/咖啡馆露台/酒店民宿）。画面中出现一位成年人（adult）作为中景或背景元素，气质{{MODEL_VIBE}}，身体比例自然健康，曲线完整可感知，姿态松弛自然（如坐在椅子旁、倚靠栏杆、从桌面拿起物品或刚放下{{PRODUCT}}），通过光影与皮肤质感提供高级的感官吸引力，但绝不喧宾夺主。整体情绪：松弛、真实、干净、略带欲望张力；像手机随手抓拍到的高级瞬间，但画质与构图达到商业摄影级别。",
-  "构图与镜头语言": {
-    "构图层级": "前景=产品（主角、最大视觉权重）；中景/背景=人物（完整可读）+环境（简洁支撑）",
-    "镜头焦段建议": "35mm或50mm写实商业摄影感，轻微透视，
+Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distinctive design, proportions, colors, and silhouette. Match every color from the logo precisely in the fireworks - placing each color exactly where it appears in the original logo design. The logo shape should be clearly recognizable and detailed in the fireworks formation against the dark sky. The scene should include a city silhouette in the background, smoke trails from the fireworks, and colorful reflections dancing on the water below. Photorealistic style with professional long exposure photography techniques, sharp focus on the fireworks burst, cinematic composition, 4K quality.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a6b79f2-81b0-47f3-b981-b362f1760d79)** | Likes: 4
-
----
-
-#### Professional Studio Product Photography Of A Product
-
-<img src="https://cdn.bestnanobananaprompt.com/urmd8hj2khd_1767575256717.jpg" width="400" alt="Professional Studio Product Photography Of A Product">
-
-**Prompt:**
-```
-Professional studio product photography of a [PRODUCT], centered. The product is surrounded by dynamic, swirling liquid splashes that wrap around it. The background is a clean, minimalist gradient that perfectly matches the color palette and branding of the [PRODUCT]. High-end commercial lighting, cinematic atmosphere, sharp focus, droplets of water on the surface, 8k resolution, hyper-realistic.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=162b93cf-0768-4c19-a610-13f5ba466294)** | Likes: 4
-
----
-
-
-### Photorealistic
-
-#### Photorealistic Wide Drone Shot 169 Aspect Ratio
-
-<img src="https://cdn.bestnanobananaprompt.com/9uargryvpf6_1766025878562.jpg" width="400" alt="Photorealistic Wide Drone Shot 169 Aspect Ratio">
-
-**Prompt:**
-```
-A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 5
-
----
-
-#### Christmas magzine
-
-<img src="https://cdn.bestnanobananaprompt.com/f3mb3boe5fg_1766327063244.jpg" width="400" alt="Christmas magzine">
-
-**Prompt:**
-```
-(Magazine cover layout, minimalist composition, negative space). A full-body studio shot of the specific character sitting on a tall stool. [CRITICAL: Ensure the face is exactly the same as the reference].
-
-Styling: Minimalist chic outfit (black turtleneck, jeans). A long red scarf flowing down. Wearing subtle reindeer antlers. Props: A single red Christmas bauble hanging from a string right above her hand. Snowflake light patterns projected on the background wall. Background: Solid light grey or white seamless paper. Lighting: Soft, directional light creating a clean look with defined shadows. Style: Vogue or Elle magazine style, high fashion, clean lines, modern and sophisticated.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=4181f822-e400-4043-a9fe-0d8f24ad4e65)** | Likes: 4
-
----
-
-#### Masterpiece
-
-<img src="https://cdn.bestnanobananaprompt.com/84ua3ercc0n_1766326710024.jpg" width="400" alt="Masterpiece">
-
-**Prompt:**
-```
-(Masterpiece, top quality, ultra-detailed, 8k resolution). A photorealistic 4-panel split screen grid collage featuring the same specific female character in all panels. [CRITICAL: Maintain exact facial features, preserve original face structure, consistent character reference throughout all panels]. The character has a fair complexion, natural skin texture, and bright eyes.
-Panel 1 (Top Left): The character is winking playfully, wearing plush reindeer antlers, holding a candy cane near her cheek, joyful expression.Panel 2 (Top Right): The character is wearing a red Santa hat with white fur trim, looking surprised with hands covering her mouth, eyes wide open.Panel 3 (Bottom Left): The character is blowing a kiss, holding a small wrapped gift box with a gold ribbon, wearing a cozy oversized white knitted sweater.Panel 4 (Bottom Right): The character is giving a soft smile, eyes full of affectionate gaze, wearing a Christmas reindeer accessory around her neck, dressed in a red velvet Christmas dress with white fur trim, wearing red fluffy Christmas gloves, forming a heart shape with both hands beside her cheeks.
-Environment: Solid studio background in soft pastel red or http://green.Lighting: Bright, high-key studio lighting, ring light reflection in eyes, soft shadows, uniform http://illumination.Style: Korean photobooth style, vibrant colors, sharp focus, cute and energetic atmosphere, commercial photography aesthetic.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b596b28c-0c6c-4674-b97b-4607c63581c9)** | Likes: 4
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=7f484896-d083-45ee-a356-c00a2fb05602)** | Likes: 5
 
 ---
 
@@ -1259,6 +1755,26 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 
 ---
 
+#### Cityprague
+
+<img src="https://cdn.bestnanobananaprompt.com/1x9fyiu2jss_1765159576350.jpg" width="400" alt="Cityprague">
+
+**Prompt:**
+```
+CITY=Prague,Czechia
+
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a38650ce-5168-4a35-8212-e576170928f7)** | Likes: 4
+
+---
+
 #### A full-body mirror selfie of a young woman cosplaying
 
 <img src="https://cdn.bestnanobananaprompt.com/hnm9qzvqp3c_1766326859807.jpg" width="400" alt="A full-body mirror selfie of a young woman cosplaying">
@@ -1309,72 +1825,6 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 
 ---
 
-#### Cityprague
-
-<img src="https://cdn.bestnanobananaprompt.com/1x9fyiu2jss_1765159576350.jpg" width="400" alt="Cityprague">
-
-**Prompt:**
-```
-CITY=Prague,Czechia
-
-Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
-Use a clean, minimalistic composition with a soft, solid-colored background.
-
-At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
-All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
-Square 1080x1080 dimension.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a38650ce-5168-4a35-8212-e576170928f7)** | Likes: 4
-
----
-
-
-### Logo Design
-
-#### Spectacular Fireworks Display Photograph Over A Waterfront
-
-<img src="https://cdn.bestnanobananaprompt.com/2hb7j3yhflm_1766889918066.jpg" width="400" alt="Spectacular Fireworks Display Photograph Over A Waterfront">
-
-**Prompt:**
-```
-Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distinctive design, proportions, colors, and silhouette. Match every color from the logo precisely in the fireworks - placing each color exactly where it appears in the original logo design. The logo shape should be clearly recognizable and detailed in the fireworks formation against the dark sky. The scene should include a city silhouette in the background, smoke trails from the fireworks, and colorful reflections dancing on the water below. Photorealistic style with professional long exposure photography techniques, sharp focus on the fireworks burst, cinematic composition, 4K quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=7f484896-d083-45ee-a356-c00a2fb05602)** | Likes: 5
-
----
-
-#### Unexpected high-end product concepts
-
-<img src="https://cdn.bestnanobananaprompt.com/ekhcps0pmj6_1766327558091.jpg" width="400" alt="Unexpected high-end product concepts">
-
-**Prompt:**
-```
-[BRAND NAME]: 
-A high-end, glossy concept art magazine editorial photograph of a unique, unexpected functional object conceptualized and designed by the brand.
-
-**1. The Concept & Object (AI Invention):**
-Based on the design philosophy, heritage, and material vocabulary of the specified brand, the AI must invent a novel utility product (NOT standard clothing, shoes, or bags). Examples could be home goods, tech accessories, tools, or sporting equipment, reinterpretated through the brand's lens. The object should feel sculptural yet functional.
-
-**2. Materials & Details (Hyper-Premium):**
-The object is constructed from ultra-premium, highly tactile materials characteristic of the brand (e.g., patinated exotic leathers, brushed aerospace-grade titanium, sculpted matte ceramics, molded carbon fiber, or technical high-fashion textiles). Every detail is hyper-realistic: visible stitching, microscopic material grain, precision engravings, and complex texture contrasts.
-
-**3. Photography & Lighting (Cinematic Studio):**
-Shot on a medium format Phase One camera with a 100mm macro lens. Extremely shallow depth of field, with sharp focus on the hero details of the object and a creamy, smooth bokeh background. The lighting is sophisticated studio softbox lighting: gentle, enveloping fill light with precise rim lighting to accentuate contours and material textures.
-
-**4. Environment:**
-A seamless, impeccably clean studio cyclorama background in a pure, ultra-light pastel tone (e.g., desaturated mint, pale blush, or off-white), free of shadows.
-
-**5. Layout & UI Elements (Strict Placement):**
-- **Bottom Right Corner:** A small, understated, monochrome gray logo of the brand.
-- **Bottom Left Corner:** Small, minimalist monochrome gray text describing the invented product. The font style looks like Manrope Regular with very tight tracking (kerning) and balanced line spacing. Example format: "CONCEPT STUDY: [AI inserts invented product name]. MATERIAL: [AI inserts main materials]. SS25."
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d8bf1922-66db-4a61-aba2-e2a99ac52222)** | Likes: 4
-
----
-
 
 ### Creative
 
@@ -1388,6 +1838,85 @@ Generate an image from the uploaded photo that reimagines the subject as an ultr
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 5
+
+---
+
+
+### Photorealistic
+
+#### Photorealistic Wide Drone Shot 169 Aspect Ratio
+
+<img src="https://cdn.bestnanobananaprompt.com/9uargryvpf6_1766025878562.jpg" width="400" alt="Photorealistic Wide Drone Shot 169 Aspect Ratio">
+
+**Prompt:**
+```
+A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across a Shibuya street, one knee raised, one hand resting naturally. She wears a stylish oversized jacket, knit top, short skirt or wide pants, sneakers, and a simple beanie. Tiny cars, buses, taxis, and pedestrians flow around her, with Shibuya’s iconic buildings, neon signs, crosswalks, and dense urban scenery completely dwarfed by her immense scale. Soft overcast Tokyo daylight reflects off slightly wet asphalt, creating a realistic, cinematic atmosphere.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=70109224-efa8-468a-958d-a6b668f72b3c)** | Likes: 5
+
+---
+
+#### Masterpiece
+
+<img src="https://cdn.bestnanobananaprompt.com/84ua3ercc0n_1766326710024.jpg" width="400" alt="Masterpiece">
+
+**Prompt:**
+```
+(Masterpiece, top quality, ultra-detailed, 8k resolution). A photorealistic 4-panel split screen grid collage featuring the same specific female character in all panels. [CRITICAL: Maintain exact facial features, preserve original face structure, consistent character reference throughout all panels]. The character has a fair complexion, natural skin texture, and bright eyes.
+Panel 1 (Top Left): The character is winking playfully, wearing plush reindeer antlers, holding a candy cane near her cheek, joyful expression.Panel 2 (Top Right): The character is wearing a red Santa hat with white fur trim, looking surprised with hands covering her mouth, eyes wide open.Panel 3 (Bottom Left): The character is blowing a kiss, holding a small wrapped gift box with a gold ribbon, wearing a cozy oversized white knitted sweater.Panel 4 (Bottom Right): The character is giving a soft smile, eyes full of affectionate gaze, wearing a Christmas reindeer accessory around her neck, dressed in a red velvet Christmas dress with white fur trim, wearing red fluffy Christmas gloves, forming a heart shape with both hands beside her cheeks.
+Environment: Solid studio background in soft pastel red or http://green.Lighting: Bright, high-key studio lighting, ring light reflection in eyes, soft shadows, uniform http://illumination.Style: Korean photobooth style, vibrant colors, sharp focus, cute and energetic atmosphere, commercial photography aesthetic.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b596b28c-0c6c-4674-b97b-4607c63581c9)** | Likes: 4
+
+---
+
+#### High-angle fashion portrait on marble staircase
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400228081_5wa8lp.jpg" width="400" alt="High-angle fashion portrait on marble staircase">
+
+**Prompt:**
+```
+High-angle fashion portrait of a 25-year-old Asian man, with the
+same facial features as the man in the reference photo, messy hairstyle framed on his face, leaning casually on a
+white marble staircase banister. He is wearing an oversized light blue and white plaid shirt over a
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=4178ff33-31fc-4b39-bfcd-519d20efed66)** | Likes: 4
+
+---
+
+
+### Fashion Photography
+
+#### Time for newspaper
+
+<img src="https://cdn.bestnanobananaprompt.com/a2qlwf815ep_1766559747812.jpg" width="400" alt="Time for newspaper">
+
+**Prompt:**
+```
+{
+  "main_prompt": "A woman with shoulder-length blonde hair, wearing a strapless dress made entirely of newspaper pages, stands against a backdrop of a large wall covered in newspaper clippings. Her arms are raised, gently touching her hair, and her gaze is directed straight at the camera. The dress, with its various articles and images printed on the paper, creates a striking and unique texture. The overall scene is well-lit, giving a clear and vibrant appearance to the image. The atmosphere is artistic and intriguing, blending elements of fashion and journalism in a contemporary and avant-garde way.",
+  "subject": "A woman wearing a newspaper dress, standing with her arms raised near her hair, against a wall covered in newspaper clippings.",
+  "style": "Digital art, photorealistic with a contemporary and avant-garde aesthetic.",
+  "composition": "The subject is centered in the frame, with the camera angle slightly above eye level, creating a direct and engaging perspective. The composition is balanced with the subject and the background equally prominent.",
+  "lighting": "Well-lit, with soft lighting highlighting the subject and the texture of the newspaper dress, creating a clear and vibrant image.",
+  "colors": "Neutral tones of the newspaper, with whites, grays, and occasional color images from the clippings, creating a monochromatic yet visually interesting palette.",
+  "mood": "Artistic, intriguing, and contemporary, blending elements of fashion and journalism in a unique and avant-garde way.",
+  "textures": "Notable textures include the crumpled and layered newspaper, the smooth skin of the subject, and the various printed images and text from the newspaper clippings.",
+  "quality_tags": [
+    "photorealistic",
+    "contemporary",
+    "avant-garde",
+    "textured",
+    "monochromatic"
+  ],
+  "negative_prompt": "abstract art, classic art, cartoon, blurry, cartoon-like, children's art, children's drawing"
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=34ec0ea0-5a3c-483d-a4ff-54dd8ee78230)** | Likes: 4
 
 ---
 
