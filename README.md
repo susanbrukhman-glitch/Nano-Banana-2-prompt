@@ -178,7 +178,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 29
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 32
 
 ---
 
@@ -269,7 +269,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=57cb9da3-6b2e-4ce2-8634-46e50dc5ebb5)** | Likes: 17
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=57cb9da3-6b2e-4ce2-8634-46e50dc5ebb5)** | Likes: 18
 
 ---
 
@@ -370,7 +370,126 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a7621a21-89cf-4ccc-9c21-f5a4be970650)** | Likes: 14
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a7621a21-89cf-4ccc-9c21-f5a4be970650)** | Likes: 16
+
+---
+
+#### oung woman with a fit, curvy physique taking a mirror selfie
+
+<img src="https://cdn.bestnanobananaprompt.com/3aha5y5av7u_1766889416875.jpg" width="400" alt="oung woman with a fit, curvy physique taking a mirror selfie">
+
+**Prompt:**
+```
+{
+"subject": {
+"description": "Young woman with a fit, curvy physique taking a mirror selfie",
+"hair": "Dark brown hair styled in a messy, high bun with loose strands and wispy bangs framing the face",
+"clothing": "Black racerback sports bra, tight black booty shorts with a Halloween pattern featuring orange jack-o'-lantern pumpkins and small purple stars",
+"physique": "Athletic and voluptuous build, prominent glutes, slim waist, visible back musculature, tan skin tone",
+"accessories": "Gold ring on right hand, small earrings",
+"phone": "Gold or champagne-colored iPhone with a textured, puffy 'puffer' style case held in the right hand"
+},
+"pose": {
+"stance": "Standing with back towards the mirror, torso twisted slightly to the left",
+"head_orientation": "Head turned over the left shoulder, looking directly into the mirror/camera",
+"limbs": "Right arm raised holding the phone, left arm down by side, legs standing straight with weight slightly shifted",
+"focus": "Emphasis on the posterior view and profile curve"
+},
+"environment": {
+"setting": "Modern apartment interior seen through a mirror reflection",
+"details": "Large floor-to-ceiling window on the left revealing a city skyline and blue sky, white door frame on the right, glimpse of a living area in the background with a couch and ceiling light",
+"surface": "Clean mirror surface reflecting the subject and room"
+},
+"camera": {
+"shot_type": "Mirror selfie, medium shot capturing from knees to top of head",
+"perspective": "Reflection view, camera positioned at shoulder height",
+"focal_length": "26mm equivalent (smartphone main camera)",
+"depth_of_field": "Deep depth of field, background slightly softer but visible"
+},
+"lighting": {
+"source": "Strong natural daylight entering from the large window on the left, mixed with soft indoor ambient lighting",
+"characteristics": "Directional side lighting creating highlights on the left arm, hair, and profile, casting soft shadows on the right side of the back and legs",
+"quality": "Realistic, high-contrast daylight balance"
+},
+"mood_and_expression": {
+"emotion": "Confident, sultry, casual",
+"facial_expression": "Neutral to slight pout, focused gaze on the phone screen/mirror reflection",
+"atmosphere": "Casual lifestyle, influencer aesthetic, morning or afternoon vibe"
+},
+"style_and_realism": {
+"aesthetic": "Raw smartphone photography, unpolished social media snapshot",
+"rendering": "Photorealistic, 8k resolution, texture-rich",
+"details": "Visible skin texture, natural fabric folds in clothing, realistic light falloff"
+},
+"colors_and_tone": {
+"palette": "Natural skin tones (tan), deep blacks (clothing), bright oranges (pumpkins), cool whites and blues (background/window)",
+"contrast": "Medium-high contrast due to window light",
+"saturation": "Natural to slightly vibrant"
+},
+"quality_and_technical_details": {
+"resolution": "Best quality, ultra-detailed",
+"sharpness": "Sharp focus on the subject, no motion blur",
+"noise": "Subtle digital noise characteristic of smartphone sensors"
+},
+"aspect_ratio_and_output": {
+"ratio": "3:4",
+"framing": "Vertical portrait orientation"
+},
+"controlnet": {
+"pose_control": {
+"model_type": "DWPose",
+"purpose": "Exact skeletal and pose lock",
+"constraints": [
+"preserve shoulder width",
+"preserve hip angle",
+"preserve spine curvature",
+"preserve limb placement"
+],
+"recommended_weight": 1.0
+},
+"depth_control": {
+"model_type": "ZoeDepth",
+"purpose": "Depth, volume, and camera-to-body spatial lock",
+"constraints": [
+"preserve glute foreground dominance",
+"prevent flat or compressed depth",
+"maintain clear torso-to-background separation"
+],
+"recommended_weight": 0.8
+}
+},
+"negative_prompt": {
+"forbidden_elements": [
+"anatomy normalization",
+"body proportion averaging",
+"reduced glute volume",
+"flattened curves",
+"slimmed torso",
+"aesthetic proportion correction",
+"beauty standard enforcement",
+"dataset-average female anatomy",
+"camera angles that reduce volume",
+"wide-angle distortion not in reference",
+"cropping that removes volume",
+"depth flattening",
+"beautification filters",
+"skin smoothing",
+"plastic skin",
+"airbrushed texture",
+"stylized realism",
+"cartoonish",
+"sketch",
+"painting",
+"blur",
+"low quality",
+"distorted hands",
+"missing phone"
+]
+}
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=02d3fc22-6342-49f8-a178-f2c13e5005c2)** | Likes: 15
 
 ---
 
@@ -571,138 +690,6 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
-#### oung woman with a fit, curvy physique taking a mirror selfie
-
-<img src="https://cdn.bestnanobananaprompt.com/3aha5y5av7u_1766889416875.jpg" width="400" alt="oung woman with a fit, curvy physique taking a mirror selfie">
-
-**Prompt:**
-```
-{
-"subject": {
-"description": "Young woman with a fit, curvy physique taking a mirror selfie",
-"hair": "Dark brown hair styled in a messy, high bun with loose strands and wispy bangs framing the face",
-"clothing": "Black racerback sports bra, tight black booty shorts with a Halloween pattern featuring orange jack-o'-lantern pumpkins and small purple stars",
-"physique": "Athletic and voluptuous build, prominent glutes, slim waist, visible back musculature, tan skin tone",
-"accessories": "Gold ring on right hand, small earrings",
-"phone": "Gold or champagne-colored iPhone with a textured, puffy 'puffer' style case held in the right hand"
-},
-"pose": {
-"stance": "Standing with back towards the mirror, torso twisted slightly to the left",
-"head_orientation": "Head turned over the left shoulder, looking directly into the mirror/camera",
-"limbs": "Right arm raised holding the phone, left arm down by side, legs standing straight with weight slightly shifted",
-"focus": "Emphasis on the posterior view and profile curve"
-},
-"environment": {
-"setting": "Modern apartment interior seen through a mirror reflection",
-"details": "Large floor-to-ceiling window on the left revealing a city skyline and blue sky, white door frame on the right, glimpse of a living area in the background with a couch and ceiling light",
-"surface": "Clean mirror surface reflecting the subject and room"
-},
-"camera": {
-"shot_type": "Mirror selfie, medium shot capturing from knees to top of head",
-"perspective": "Reflection view, camera positioned at shoulder height",
-"focal_length": "26mm equivalent (smartphone main camera)",
-"depth_of_field": "Deep depth of field, background slightly softer but visible"
-},
-"lighting": {
-"source": "Strong natural daylight entering from the large window on the left, mixed with soft indoor ambient lighting",
-"characteristics": "Directional side lighting creating highlights on the left arm, hair, and profile, casting soft shadows on the right side of the back and legs",
-"quality": "Realistic, high-contrast daylight balance"
-},
-"mood_and_expression": {
-"emotion": "Confident, sultry, casual",
-"facial_expression": "Neutral to slight pout, focused gaze on the phone screen/mirror reflection",
-"atmosphere": "Casual lifestyle, influencer aesthetic, morning or afternoon vibe"
-},
-"style_and_realism": {
-"aesthetic": "Raw smartphone photography, unpolished social media snapshot",
-"rendering": "Photorealistic, 8k resolution, texture-rich",
-"details": "Visible skin texture, natural fabric folds in clothing, realistic light falloff"
-},
-"colors_and_tone": {
-"palette": "Natural skin tones (tan), deep blacks (clothing), bright oranges (pumpkins), cool whites and blues (background/window)",
-"contrast": "Medium-high contrast due to window light",
-"saturation": "Natural to slightly vibrant"
-},
-"quality_and_technical_details": {
-"resolution": "Best quality, ultra-detailed",
-"sharpness": "Sharp focus on the subject, no motion blur",
-"noise": "Subtle digital noise characteristic of smartphone sensors"
-},
-"aspect_ratio_and_output": {
-"ratio": "3:4",
-"framing": "Vertical portrait orientation"
-},
-"controlnet": {
-"pose_control": {
-"model_type": "DWPose",
-"purpose": "Exact skeletal and pose lock",
-"constraints": [
-"preserve shoulder width",
-"preserve hip angle",
-"preserve spine curvature",
-"preserve limb placement"
-],
-"recommended_weight": 1.0
-},
-"depth_control": {
-"model_type": "ZoeDepth",
-"purpose": "Depth, volume, and camera-to-body spatial lock",
-"constraints": [
-"preserve glute foreground dominance",
-"prevent flat or compressed depth",
-"maintain clear torso-to-background separation"
-],
-"recommended_weight": 0.8
-}
-},
-"negative_prompt": {
-"forbidden_elements": [
-"anatomy normalization",
-"body proportion averaging",
-"reduced glute volume",
-"flattened curves",
-"slimmed torso",
-"aesthetic proportion correction",
-"beauty standard enforcement",
-"dataset-average female anatomy",
-"camera angles that reduce volume",
-"wide-angle distortion not in reference",
-"cropping that removes volume",
-"depth flattening",
-"beautification filters",
-"skin smoothing",
-"plastic skin",
-"airbrushed texture",
-"stylized realism",
-"cartoonish",
-"sketch",
-"painting",
-"blur",
-"low quality",
-"distorted hands",
-"missing phone"
-]
-}
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=02d3fc22-6342-49f8-a178-f2c13e5005c2)** | Likes: 14
-
----
-
-#### Korean Instagram Goddess style
-
-<img src="https://cdn.bestnanobananaprompt.com/7tm27vofx3t_1766559859490.jpg" width="400" alt="Korean Instagram Goddess style">
-
-**Prompt:**
-```
-A full-body photograph taken deep within a snow-covered forest in Sapporo at night under clear, cold blue moonlight. A stunning Korean Instagram goddess with a heavily heavily edited, exaggerated hourglass figure (especially wide hips and tiny waist) is posing. She wears the same warm fur hat and a very short, cropped faux shearling (yangmal) jacket that barely covers her midriff (above the belly button). Her tight light blue camisole, short mink hotpants, and Ugg boots are visible. Fresh snow dusted on her and clothes; pinkish blush on knees/elbows from cold. She is posing with one hand touching the snowy branch of a pine tree, looking up at the night sky with a mystical expression. The background is a dense, snow-laden pine forest lit by magical, deep blue moonlight, with a clear night sky full of stars visible above the trees. The ground is deep, untouched snow. The photo has a slightly grainy, natural smartphone quality. --ar 9:21 --v 6.0
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=473f0e0d-3897-4978-a985-6f9f66603248)** | Likes: 13
-
----
-
 #### A fashionable, elegant woman seated at a Parisian café
 
 <img src="https://cdn.bestnanobananaprompt.com/fjj9wloxmp4_1766890181839.jpg" width="400" alt="A fashionable, elegant woman seated at a Parisian café">
@@ -812,6 +799,19 @@ A full-body photograph taken deep within a snow-covered forest in Sapporo at nig
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=8b0e49f0-d4e1-4bc5-b385-6ad015ca46a6)** | Likes: 13
+
+---
+
+#### Korean Instagram Goddess style
+
+<img src="https://cdn.bestnanobananaprompt.com/7tm27vofx3t_1766559859490.jpg" width="400" alt="Korean Instagram Goddess style">
+
+**Prompt:**
+```
+A full-body photograph taken deep within a snow-covered forest in Sapporo at night under clear, cold blue moonlight. A stunning Korean Instagram goddess with a heavily heavily edited, exaggerated hourglass figure (especially wide hips and tiny waist) is posing. She wears the same warm fur hat and a very short, cropped faux shearling (yangmal) jacket that barely covers her midriff (above the belly button). Her tight light blue camisole, short mink hotpants, and Ugg boots are visible. Fresh snow dusted on her and clothes; pinkish blush on knees/elbows from cold. She is posing with one hand touching the snowy branch of a pine tree, looking up at the night sky with a mystical expression. The background is a dense, snow-laden pine forest lit by magical, deep blue moonlight, with a clear night sky full of stars visible above the trees. The ground is deep, untouched snow. The photo has a slightly grainy, natural smartphone quality. --ar 9:21 --v 6.0
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=473f0e0d-3897-4978-a985-6f9f66603248)** | Likes: 13
 
 ---
 
@@ -935,16 +935,92 @@ A full-body photograph taken deep within a snow-covered forest in Sapporo at nig
 
 ---
 
-#### Cinematic Portrait Photography
+#### realistic lifestyle portrait, European café editorial
 
-<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
+<img src="https://cdn.bestnanobananaprompt.com/onidq4ob2nr_1767575567416.jpg" width="400" alt="realistic lifestyle portrait, European café editorial">
 
 **Prompt:**
 ```
-cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
+{
+  "type": "image_generation_prompt",
+  "aspect_ratio": "9:16",
+  "style": "realistic lifestyle portrait, European café editorial",
+  "quality": {
+    "resolution": "high-resolution, large format",
+    "realism": "photorealistic",
+    "detail_level": "sharp, ultra-detailed"
+  },
+  "identity_preservation": {
+    "use_reference_image": true,
+    "strict_identity_lock": true,
+    "alter_face": false,
+ },
+  "subject": {
+    "gender": "female",
+    "ethnicity_style": "European",
+    "body_type": "slim figure",
+    "pose": {
+      "position": "sitting at an outdoor café table",
+      "angle": "slightly angled toward the camera",
+      "hands": "holding a white cup naturally"
+    },
+    "expression": "calm, stylish, confident",
+    "appearance": {
+      "hair": "natural styling as in reference image",
+      "accessories": [
+        "white cat-eye sunglasses resting on top of her head",
+        "gold wristwatch on left wrist"
+      ]
+    },
+    "wardrobe": {
+      "outerwear": "white tweed blazer",
+      "details": [
+        "gold buttons on the front",
+        "gold buttons on the sleeves"
+      ],
+      "style": "elegant, classic Parisian chic"
+    }
+  },
+  "props": {
+    "table_items": [
+      "white coffee cup",
+      "silver teapot",
+      "glass of water",
+      "croissant",
+      "dessert cup topped with a large swirl of whipped cream"
+    ]
+  },
+  "environment": {
+    "location": "outdoor café patio",
+    "cafe_name": "CARETTE",
+    "background": {
+      "scene": "busy café terrace with patrons seated at tables",
+      "architecture": "classic Parisian buildings"
+    },
+    "atmosphere": "lively yet elegant European café setting"
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "quality": "soft, flattering, realistic",
+    "effect": "enhances skin texture and fabric detail without harsh shadows"
+  },
+  "camera": {
+    "shot_type": "portrait",
+    "framing": "medium portrait",
+    "angle": "eye-level",
+    "depth_of_field": "moderate with softly blurred background"
+  },
+  "constraints": [
+    "Do not change or retouch the face",
+    "No artificial filters or glam effects",
+    "No distorted anatomy",
+    "No text overlays or watermarks"
+  ],
+  "output_goal": "Create a realistic, high-resolution 9:16 portrait of a stylish European woman sitting at an outdoor Parisian café table, using the user’s face with 100% accuracy, featuring elegant fashion, café details, and a lively yet refined CARETTE café atmosphere."
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 11
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bd3f87fd-66d9-434f-95f3-034974213bc2)** | Likes: 12
 
 ---
 
@@ -981,19 +1057,6 @@ The final image should feel like a premium holiday advertisement—clean, cozy, 
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=e9a77625-a73b-4c2c-8664-390856f05c4f)** | Likes: 11
-
----
-
-#### Professional Studio Product Photography Of A Product
-
-<img src="https://cdn.bestnanobananaprompt.com/urmd8hj2khd_1767575256717.jpg" width="400" alt="Professional Studio Product Photography Of A Product">
-
-**Prompt:**
-```
-Professional studio product photography of a [PRODUCT], centered. The product is surrounded by dynamic, swirling liquid splashes that wrap around it. The background is a clean, minimalist gradient that perfectly matches the color palette and branding of the [PRODUCT]. High-end commercial lighting, cinematic atmosphere, sharp focus, droplets of water on the surface, 8k resolution, hyper-realistic.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=162b93cf-0768-4c19-a610-13f5ba466294)** | Likes: 6
 
 ---
 
@@ -1283,6 +1346,22 @@ Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion edito
 ---
 
 
+### Comic Art
+
+#### Caricatures --sref
+
+<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
+
+**Prompt:**
+```
+A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 10
+
+---
+
+
 ### Logo Design
 
 #### Spectacular Fireworks Display Photograph Over A Waterfront
@@ -1392,22 +1471,6 @@ Create a spectacular fireworks display photograph over a waterfront cityscape at
 ---
 
 
-### Comic Art
-
-#### Caricatures --sref
-
-<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
-
-**Prompt:**
-```
-A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 10
-
----
-
-
 ### Fashion Photography
 
 #### Time for newspaper
@@ -1456,19 +1519,6 @@ A 2x2 grid featuring four distinct, expressive digital caricatures of male publi
 
 ---
 
-#### Golden hour portrait of a woman in black lace dress
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
-
-**Prompt:**
-```
-Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, using the facial features and hairstyle from the provided photo. She is wearing a luxurious black lace camisole with a stylish cutout design on the sleeves. Her pose is elegant and confident; she glances back over her shoulder, with an elegant and mysterious look in her eyes. She has gray eyes and long jet-black hair cascading down like a waterfall.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 7
-
----
-
 #### Masterpiece
 
 <img src="https://cdn.bestnanobananaprompt.com/84ua3ercc0n_1766326710024.jpg" width="400" alt="Masterpiece">
@@ -1484,30 +1534,34 @@ Environment: Solid studio background in soft pastel red or http://green.Lighting
 
 ---
 
+#### Golden hour portrait of a woman in black lace dress
 
-### Minimalist
-
-#### a couple posing side by side, at mid-height
-
-<img src="https://cdn.bestnanobananaprompt.com/hph5edr6pw8_1766478254629.webp" width="400" alt="a couple posing side by side, at mid-height">
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
 
 **Prompt:**
 ```
-Using the photo as a reference, create an ultra-realistic image, 8K quality, luxury editorial photography, with a dark neutral background and soft, dramatic studio lighting, in a premium fashion campaign style. Show a couple posing side by side, at mid-height.
-Woman: Dark brown, long, wavy hair with highlighted tips. Flawless makeup, illuminated skin, striking eyes, and a serious, elegant, and confident expression. She is wearing a structured black blazer with a deep V-neck, sophisticated tailoring, and high-quality matte fabric. Minimalist gold earrings. Her posture is firm, with relaxed hands by her sides.
-Man: Smooth, illuminated skin, clean-shaven. Dark brown slightly wavy hair, neatly styled. Confident expression with a direct gaze. He is wearing an elegant light blue suit, with a perfectly fitted blazer and a white shirt underneath, with the collar slightly open. He places one hand on the woman’s waist, conveying connection and strong presence.
-
-Setting: Dark studio background with soft lateral lighting creating light shadows and depth. The atmosphere is sophisticated, intimate, and modern, with a refined editorial aesthetic.
-
-Quality: 8K resolution, extreme sharpness, realistic texture of skin and fabrics, deep colors, balanced contrast, cinematic finish, and a campaign-style photo.
+Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, using the facial features and hairstyle from the provided photo. She is wearing a luxurious black lace camisole with a stylish cutout design on the sleeves. Her pose is elegant and confident; she glances back over her shoulder, with an elegant and mysterious look in her eyes. She has gray eyes and long jet-black hair cascading down like a waterfall.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=eec69c42-ab8a-4918-99f7-6ec79522ac99)** | Likes: 7
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 7
 
 ---
 
 
 ### Illustration
+
+#### sugar cookie2
+
+<img src="https://cdn.bestnanobananaprompt.com/n4djhpy0mfg_1766156302495.png" width="400" alt="sugar cookie2">
+
+**Prompt:**
+```
+Using the provided image as reference, create a tasty, perfectly formed sugar cookie decorated with smooth royal icing based on the subject or image. If the image contains a person, render a simplified icing likeness of their face that clearly resembles them while remaining non-photorealistic; if the image contains an object, animal, or scene, translate its most recognizable features into a friendly royal-icing design using the same logic. The cookie should be stamped in a simple, easy-to-cut silhouette, with the design piped entirely in feasible royal-icing shapes—chunky, smooth lines rather than fine illustration detail, minimal shading, and clean, confident outlines like those used by a skilled cookie artist. Colors should be vibrant, playful, and holiday-friendly without needing to follow real-world color accuracy. Add small, simplified seasonal accents such as holly, snowflakes, sparkles, a scarf, or a beanie rendered as basic piped shapes, avoiding anything overtly religious or denominational. The final result should feel cute, approachable, and clearly edible, emphasizing handcrafted charm, clarity, and a strong resemblance achieved through simplified, piped decoration rather than realism.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a9e9093-7966-447d-95e7-33bbc7c62c44)** | Likes: 7
+
+---
 
 #### interesting image effects
 
@@ -1754,16 +1808,25 @@ Quality: 8K resolution, extreme sharpness, realistic texture of skin and fabrics
 
 ---
 
-#### sugar cookie2
 
-<img src="https://cdn.bestnanobananaprompt.com/n4djhpy0mfg_1766156302495.png" width="400" alt="sugar cookie2">
+### Minimalist
+
+#### a couple posing side by side, at mid-height
+
+<img src="https://cdn.bestnanobananaprompt.com/hph5edr6pw8_1766478254629.webp" width="400" alt="a couple posing side by side, at mid-height">
 
 **Prompt:**
 ```
-Using the provided image as reference, create a tasty, perfectly formed sugar cookie decorated with smooth royal icing based on the subject or image. If the image contains a person, render a simplified icing likeness of their face that clearly resembles them while remaining non-photorealistic; if the image contains an object, animal, or scene, translate its most recognizable features into a friendly royal-icing design using the same logic. The cookie should be stamped in a simple, easy-to-cut silhouette, with the design piped entirely in feasible royal-icing shapes—chunky, smooth lines rather than fine illustration detail, minimal shading, and clean, confident outlines like those used by a skilled cookie artist. Colors should be vibrant, playful, and holiday-friendly without needing to follow real-world color accuracy. Add small, simplified seasonal accents such as holly, snowflakes, sparkles, a scarf, or a beanie rendered as basic piped shapes, avoiding anything overtly religious or denominational. The final result should feel cute, approachable, and clearly edible, emphasizing handcrafted charm, clarity, and a strong resemblance achieved through simplified, piped decoration rather than realism.
+Using the photo as a reference, create an ultra-realistic image, 8K quality, luxury editorial photography, with a dark neutral background and soft, dramatic studio lighting, in a premium fashion campaign style. Show a couple posing side by side, at mid-height.
+Woman: Dark brown, long, wavy hair with highlighted tips. Flawless makeup, illuminated skin, striking eyes, and a serious, elegant, and confident expression. She is wearing a structured black blazer with a deep V-neck, sophisticated tailoring, and high-quality matte fabric. Minimalist gold earrings. Her posture is firm, with relaxed hands by her sides.
+Man: Smooth, illuminated skin, clean-shaven. Dark brown slightly wavy hair, neatly styled. Confident expression with a direct gaze. He is wearing an elegant light blue suit, with a perfectly fitted blazer and a white shirt underneath, with the collar slightly open. He places one hand on the woman’s waist, conveying connection and strong presence.
+
+Setting: Dark studio background with soft lateral lighting creating light shadows and depth. The atmosphere is sophisticated, intimate, and modern, with a refined editorial aesthetic.
+
+Quality: 8K resolution, extreme sharpness, realistic texture of skin and fabrics, deep colors, balanced contrast, cinematic finish, and a campaign-style photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a9e9093-7966-447d-95e7-33bbc7c62c44)** | Likes: 7
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=eec69c42-ab8a-4918-99f7-6ec79522ac99)** | Likes: 7
 
 ---
 
