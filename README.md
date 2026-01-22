@@ -142,7 +142,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 33
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 37
 
 ---
 
@@ -307,6 +307,21 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
+#### Transform The Uploaded Image Into An Ultra-high-resolution
+
+<img src="https://cdn.bestnanobananaprompt.com/6zlqv98mfpk_1768541419734.jpg" width="400" alt="Transform The Uploaded Image Into An Ultra-high-resolution">
+
+**Prompt:**
+```
+Transform the uploaded image into an ultra-high-resolution mixed-reality street portrait. A young woman (same face as the uploaded image) sits on urban steps beside her cartoon illustrated twin. The setting is outdoors against a textured concrete wall with a tall window reflecting trees and soft indoor light. Worn steps with chipped paint add realism.
+The real woman wears relaxed Y2K-inspired streetwear: an oversized cropped hoodie, baggy dark jeans, chunky sneakers, and a beanie. She sits casually with one knee raised, looking slightly away with a calm, confident expression.
+Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, drawn in a bold flat graphic style with thick black outlines and vibrant colors. The cartoon arm aligns with the real arm, creating a playful interaction. Natural daylight lights both figures evenly, blending realistic textures with clean cartoon shading for a cool, nostalgic, creative mixed-media look.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 24
+
+---
+
 #### Young woman with a faired complexion
 
 <img src="https://cdn.bestnanobananaprompt.com/ha7j9ax5rmv_1768541578682.jpg" width="400" alt="Young woman with a faired complexion">
@@ -366,18 +381,133 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
-#### Transform The Uploaded Image Into An Ultra-high-resolution
+#### A young woman with an athletic
 
-<img src="https://cdn.bestnanobananaprompt.com/6zlqv98mfpk_1768541419734.jpg" width="400" alt="Transform The Uploaded Image Into An Ultra-high-resolution">
+<img src="https://cdn.bestnanobananaprompt.com/zxoofxr4hs_1768322708892.jpg" width="400" alt="A young woman with an athletic">
 
 **Prompt:**
 ```
-Transform the uploaded image into an ultra-high-resolution mixed-reality street portrait. A young woman (same face as the uploaded image) sits on urban steps beside her cartoon illustrated twin. The setting is outdoors against a textured concrete wall with a tall window reflecting trees and soft indoor light. Worn steps with chipped paint add realism.
-The real woman wears relaxed Y2K-inspired streetwear: an oversized cropped hoodie, baggy dark jeans, chunky sneakers, and a beanie. She sits casually with one knee raised, looking slightly away with a calm, confident expression.
-Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, drawn in a bold flat graphic style with thick black outlines and vibrant colors. The cartoon arm aligns with the real arm, creating a playful interaction. Natural daylight lights both figures evenly, blending realistic textures with clean cartoon shading for a cool, nostalgic, creative mixed-media look.
+{
+"subject": {
+"description": "A young woman with an athletic, hourglass physique and tan skin tone taking a mirror selfie. She has long, wavy, layered dirty blonde hair with sun-kissed highlights and darker roots, parted in the middle and tousled by her left hand. Her face is partially obscured by a pink iPhone she is holding, but her expression is neutral and focused on the screen.",
+"body_details": {
+"build": "Fit and toned with distinct hourglass proportions, wide curvy hips, a narrow defined waist, and a flat stomach.",
+"bust": "Natural, full bust clearly defined under a tight top, with accurate volume and gravitational weight, not flattened or minimized.",
+"skin": "Tan to olive complexion with realistic texture, slight shine on the forehead and collarbones, and visible navel piercing details.",
+"features": "Visible belly button with a silver piercing stud, soft jawline, arched eyebrows."
+},
+"clothing": {
+"top": "Solid black, tight-fitting long-sleeve crop top that ends just below the bust line, hugging the torso contours.",
+"bottom": "Black high-cut bikini bottoms worn high on the hips, exposing the upper thighs and emphasizing the hip curve."
+},
+"accessories": {
+"jewelry": "A large gold watch on the left wrist (visible on the right side of the image), multiple gold rings on the fingers of the raised hand, and a delicate gold chain necklace with a small pendant.",
+"tech": "A light pink iPhone Pro with three camera lenses, held in the right hand."
+}
+},
+"pose": {
+"stance": "Standing upright facing the mirror, weight distributed evenly but with hips slightly swayed to accentuate curves.",
+"arms": "Left arm (image right) is raised with the elbow bent, hand resting on top of the head running fingers through hair. Right arm (image left) is bent at the elbow, holding the phone at chest/neck level to take the photo.",
+"head": "Head tilted slightly forward, gaze directed at the phone screen in the mirror."
+},
+"environment": {
+"setting": "A modern, bright domestic bathroom.",
+"background": "Behind her is a glass shower enclosure with chrome hinges and handle, and a wall tiled in large, neutral gray or beige rectangular tiles.",
+"foreground": "A white bathroom countertop is visible at the bottom of the frame.",
+"objects": "On the counter, there is a pink hairbrush, a bottle of serum with a dropper, a pink tube of lotion, and other indistinct toiletries."
+},
+"camera": {
+"perspective": "Mirror selfie perspective, eye-level relative to the reflection.",
+"framing": "Medium shot capturing the subject from the upper thighs to the top of the head, framed centrally within the mirror.",
+"focal_length": "Equivalent to a smartphone main camera (approx 26mm), strictly maintaining the geometry and depth seen in the reference without wide-angle distortion."
+},
+"lighting": {
+"source": "Indoor ambient lighting, likely overhead recessed ceiling lights.",
+"quality": "Soft and diffused, creating gentle shadows under the jaw and bust, highlighting the contours of the stomach and collarbones.",
+"tone": "Natural indoor white balance, slightly cool due to the bathroom tiles."
+},
+"mood_and_expression": {
+"mood": "Casual, confident, self-documentation, relaxed.",
+"expression": "Composed and neutral, focused on the reflection."
+},
+"style_and_realism": {
+"style": "Photorealistic smartphone photography, unstyled snapshot aesthetic.",
+"fidelity": "High-fidelity texture reproduction of skin, hair, and fabric. No artistic stylization or painterly effects."
+},
+"colors_and_tone": {
+"palette": "Dominant neutrals (black outfit, gray/beige tiles, white counter) contrasted with the subject's tan skin, blonde hair, and the pop of pink from the phone case and hairbrush.",
+"contrast": "Moderate contrast with deep blacks in the clothing and bright highlights on the skin and hair."
+},
+"quality_and_technical_details": {
+"resolution": "High resolution, sharp focus on the subject, slightly softer focus on the background elements.",
+"texture": "Grain consistent with smartphone photography in indoor lighting."
+},
+"aspect_ratio_and_output": {
+"ratio": "3:4",
+"orientation": "Portrait"
+},
+"controlnet": {
+"pose_control": {
+"model_type": "OpenPose",
+"purpose": "Exact skeletal and pose lock",
+"constraints": [
+"preserve shoulder width",
+"preserve hip angle",
+"preserve spine curvature",
+"preserve limb placement"
+],
+"recommended_weight": 1.0
+},
+"depth_control": {
+"model_type": "MiDaS",
+"purpose": "Depth, volume, and camera-to-body spatial lock",
+"constraints": [
+"preserve chest foreground dominance",
+"prevent flat or compressed depth",
+"maintain clear torso-to-background separation"
+],
+"recommended_weight": 0.8
+}
+},
+"negative_prompt": {
+"forbidden_elements": [
+"anatomy normalization",
+"body proportion averaging",
+"smaller bust than reference",
+"reduced chest volume",
+"flattened or compressed breasts",
+"tightened or lifted breasts",
+"slimmed torso",
+"aesthetic proportion correction",
+"beauty standard enforcement",
+"dataset-average female anatomy",
+"wide-angle distortion not in reference",
+"lens compression not in reference",
+"cropping that removes volume",
+"depth flattening",
+"beautification filters",
+"skin smoothing",
+"plastic skin",
+"airbrushed texture",
+"stylized realism",
+"editorial fashion proportions",
+"more realistic reinterpretation",
+"naturalization of prominent features",
+"cartoon",
+"painting",
+"sketch",
+"illustration",
+"low quality",
+"bad anatomy",
+"deformed hands",
+"missing fingers",
+"extra fingers"
+]
+}
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 20
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=727b6786-4d46-4b08-8872-953e7fd48eac)** | Likes: 18
 
 ---
 
@@ -669,133 +799,46 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 
 ---
 
-#### A young woman with an athletic
+#### Ultra-realistic Candid Smartphone Photograph
 
-<img src="https://cdn.bestnanobananaprompt.com/zxoofxr4hs_1768322708892.jpg" width="400" alt="A young woman with an athletic">
+<img src="https://cdn.bestnanobananaprompt.com/l4pntpb3k89_1768541395380.jpg" width="400" alt="Ultra-realistic Candid Smartphone Photograph">
 
 **Prompt:**
 ```
-{
-"subject": {
-"description": "A young woman with an athletic, hourglass physique and tan skin tone taking a mirror selfie. She has long, wavy, layered dirty blonde hair with sun-kissed highlights and darker roots, parted in the middle and tousled by her left hand. Her face is partially obscured by a pink iPhone she is holding, but her expression is neutral and focused on the screen.",
-"body_details": {
-"build": "Fit and toned with distinct hourglass proportions, wide curvy hips, a narrow defined waist, and a flat stomach.",
-"bust": "Natural, full bust clearly defined under a tight top, with accurate volume and gravitational weight, not flattened or minimized.",
-"skin": "Tan to olive complexion with realistic texture, slight shine on the forehead and collarbones, and visible navel piercing details.",
-"features": "Visible belly button with a silver piercing stud, soft jawline, arched eyebrows."
-},
-"clothing": {
-"top": "Solid black, tight-fitting long-sleeve crop top that ends just below the bust line, hugging the torso contours.",
-"bottom": "Black high-cut bikini bottoms worn high on the hips, exposing the upper thighs and emphasizing the hip curve."
-},
-"accessories": {
-"jewelry": "A large gold watch on the left wrist (visible on the right side of the image), multiple gold rings on the fingers of the raised hand, and a delicate gold chain necklace with a small pendant.",
-"tech": "A light pink iPhone Pro with three camera lenses, held in the right hand."
-}
-},
-"pose": {
-"stance": "Standing upright facing the mirror, weight distributed evenly but with hips slightly swayed to accentuate curves.",
-"arms": "Left arm (image right) is raised with the elbow bent, hand resting on top of the head running fingers through hair. Right arm (image left) is bent at the elbow, holding the phone at chest/neck level to take the photo.",
-"head": "Head tilted slightly forward, gaze directed at the phone screen in the mirror."
-},
-"environment": {
-"setting": "A modern, bright domestic bathroom.",
-"background": "Behind her is a glass shower enclosure with chrome hinges and handle, and a wall tiled in large, neutral gray or beige rectangular tiles.",
-"foreground": "A white bathroom countertop is visible at the bottom of the frame.",
-"objects": "On the counter, there is a pink hairbrush, a bottle of serum with a dropper, a pink tube of lotion, and other indistinct toiletries."
-},
-"camera": {
-"perspective": "Mirror selfie perspective, eye-level relative to the reflection.",
-"framing": "Medium shot capturing the subject from the upper thighs to the top of the head, framed centrally within the mirror.",
-"focal_length": "Equivalent to a smartphone main camera (approx 26mm), strictly maintaining the geometry and depth seen in the reference without wide-angle distortion."
-},
-"lighting": {
-"source": "Indoor ambient lighting, likely overhead recessed ceiling lights.",
-"quality": "Soft and diffused, creating gentle shadows under the jaw and bust, highlighting the contours of the stomach and collarbones.",
-"tone": "Natural indoor white balance, slightly cool due to the bathroom tiles."
-},
-"mood_and_expression": {
-"mood": "Casual, confident, self-documentation, relaxed.",
-"expression": "Composed and neutral, focused on the reflection."
-},
-"style_and_realism": {
-"style": "Photorealistic smartphone photography, unstyled snapshot aesthetic.",
-"fidelity": "High-fidelity texture reproduction of skin, hair, and fabric. No artistic stylization or painterly effects."
-},
-"colors_and_tone": {
-"palette": "Dominant neutrals (black outfit, gray/beige tiles, white counter) contrasted with the subject's tan skin, blonde hair, and the pop of pink from the phone case and hairbrush.",
-"contrast": "Moderate contrast with deep blacks in the clothing and bright highlights on the skin and hair."
-},
-"quality_and_technical_details": {
-"resolution": "High resolution, sharp focus on the subject, slightly softer focus on the background elements.",
-"texture": "Grain consistent with smartphone photography in indoor lighting."
-},
-"aspect_ratio_and_output": {
-"ratio": "3:4",
-"orientation": "Portrait"
-},
-"controlnet": {
-"pose_control": {
-"model_type": "OpenPose",
-"purpose": "Exact skeletal and pose lock",
-"constraints": [
-"preserve shoulder width",
-"preserve hip angle",
-"preserve spine curvature",
-"preserve limb placement"
-],
-"recommended_weight": 1.0
-},
-"depth_control": {
-"model_type": "MiDaS",
-"purpose": "Depth, volume, and camera-to-body spatial lock",
-"constraints": [
-"preserve chest foreground dominance",
-"prevent flat or compressed depth",
-"maintain clear torso-to-background separation"
-],
-"recommended_weight": 0.8
-}
-},
-"negative_prompt": {
-"forbidden_elements": [
-"anatomy normalization",
-"body proportion averaging",
-"smaller bust than reference",
-"reduced chest volume",
-"flattened or compressed breasts",
-"tightened or lifted breasts",
-"slimmed torso",
-"aesthetic proportion correction",
-"beauty standard enforcement",
-"dataset-average female anatomy",
-"wide-angle distortion not in reference",
-"lens compression not in reference",
-"cropping that removes volume",
-"depth flattening",
-"beautification filters",
-"skin smoothing",
-"plastic skin",
-"airbrushed texture",
-"stylized realism",
-"editorial fashion proportions",
-"more realistic reinterpretation",
-"naturalization of prominent features",
-"cartoon",
-"painting",
-"sketch",
-"illustration",
-"low quality",
-"bad anatomy",
-"deformed hands",
-"missing fingers",
-"extra fingers"
-]
-}
-}
+Ultra-realistic candid smartphone photograph, 9:16 vertical.
+Use the attached image only as a strong visual inspiration for general facial proportions and vibe,
+while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
+Scene
+Nighttime on a quiet Tokyo city sidewalk beside a building with white ceramic tile walls.
+The subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.
+Poses & Gestures (combined naturally)
+The subject reacts instinctively to being photographed:
+turning her head back mid-walk as if surprised,
+raising one hand close to the lens to partially block the camera,
+shy, restrained smile forming as she suppresses laughter,
+body angled in half-profile while continuing to walk forward,
+motion carries her slightly out of frame, imperfect framing.
+Expressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.
+Camera & Motion
+Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.
+Lighting
+Flash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.
+Background
+White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
+Mood
+Candid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.
+Image Quality
+Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
+Negative Prompt
+anime, illustration, painting, stylized,
+studio lighting, beauty lighting, soft portrait,
+sharp focus, clean face, perfect anatomy, smooth skin,
+fashion editorial, posed portrait, cinematic grading, film still,
+tripod shot, professional photography,
+identity match, face copy, real person replication
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=727b6786-4d46-4b08-8872-953e7fd48eac)** | Likes: 17
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=730ed534-5c8e-42df-a350-e5daa02b02c9)** | Likes: 16
 
 ---
 
@@ -918,217 +961,82 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 
 ---
 
-#### Ultra-Realistic Paragliding Selfie
+#### Luxury Mirror Selfie
 
-<img src="https://cdn.bestnanobananaprompt.com/shqdmmsw52_1766559895961.png" width="400" alt="Ultra-Realistic Paragliding Selfie">
+<img src="https://cdn.bestnanobananaprompt.com/x95ts66hgbg_1767958094875.jpg" width="400" alt="Luxury Mirror Selfie">
 
 **Prompt:**
 ```
 {
-
-"generation_request": {
-
-"reference_image": {
-
-"type": "uploaded_image",
-
-"priority": "absolute",
-
-"instructions": "Use the uploaded reference image as the ONLY face source. Do not change facial structure, proportions, eyes, nose, lips, jawline, or identity. This must be the exact same person."
-
-},
-
-"subject": {
-
-"gender": "Female",
-
-"age_range": "20s",
-
-"identity_lock": true,
-
-"facial_preservation": {
-
-"mode": "strict",
-
-"level": "maximum",
-
-"no_stylization": true,
-
-"no_beautification": true,
-
-"no_face_merge": true,
-
-"no_face_variation": true
-
-}
-
-},
-
-"prompts": {
-
-"positive_prompt": "Ultra high-resolution, hyper-realistic action photography featuring the EXACT SAME woman from the uploaded reference image, with identical face, identity, and facial proportions. Low-angle wide-angle selfie shot captured using a selfie stick held in her LEFT hand. She is paragliding high above a tropical coastline, suspended in a professional paragliding harness with legs freely dangling. She wears a black bikini and simple flip-flops. Her RIGHT hand firmly grips the paragliding control handle. Bright hard natural daylight, clear blue sky, deep turquoise ocean below. Sharp focus, cinematic composition, realistic skin texture, natural facial expression matching the reference image. Real photography look, true-to-life anatomy, dynamic motion, no artistic interpretation.",
-
-"negative_prompt": "any face change, different person, altered identity, face stylization, beauty filter, AI face, CG, 3D render, anime, cartoon, illustration, painting, doll face, smooth skin, overbeautified face, distorted anatomy, bad hands, extra fingers, missing fingers, helmet, sunglasses, wetsuit, sneakers, cloudy weather, dark lighting, blur, noise, grain, low resolution"
-
-},
-
-"scene_details": {
-
-"camera_angle": "Low perspective, wide-angle, looking up from selfie stick",
-
-"lighting": "Bright natural daylight, hard sunlight",
-
-"attire": [
-
-"Black bikini",
-
-"Simple flip-flops"
-
-],
-
-"pose_constraints": {
-
-"left_hand": "Holding selfie stick pointed toward self",
-
-"right_hand": "Holding paragliding control handle",
-
-"legs": "Dangling freely"
-
-}
-
-},
-
-"technical_settings": {
-
-"aspect_ratio": "9:16",
-
-"style": "Ultra-realistic RAW photography",
-
-"detail_level": "maximum",
-
-"identity_strength": 1.0
-
-}
-
-}
-
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a7621a21-89cf-4ccc-9c21-f5a4be970650)** | Likes: 16
-
----
-
-#### Generation_parameters
-
-<img src="https://cdn.bestnanobananaprompt.com/4wb7q0j2jm_1765870636448.jpg" width="400" alt="Generation_parameters">
-
-**Prompt:**
-```
-"generation_parameters": {
-    "meta_instructions": {
-      "consistency_directive": "Crucial: Maintain 100% identical face and body details relative to previous generations or reference identity.",
-      "overall_mood": "Playful, energetic, mischievous"
+  "image_configuration": {
+    "version": "5.0-ULTRA",
+    "composition": {
+      "type": "Luxury Mirror Selfie",
+      "framing": "Waist-up medium shot",
+      "aspect_ratio": "4:5",
+      "focal_point": "Subject reflection in premium glass"
     },
-    "scene_composition": {
-      "shot_type": "Mirror selfie",
-      "framing": "Full-body view",
-      "camera_angle": "Slightly high angle looking down into the mirror (implied by kneeling pose)" full screen 8k resolution 
-      "focus": "Sharp focus on the subject and her reflection"
-    },
-    "subject_analysis": {
-      "demographics": {
-        "gender": "Woman",
-        "age_group": "Young",
-        "body_type": "Curvy"
-      },
-      "pose_and_action": {
-        "posture": "Kneeling upright",
-        "location": "On the floor, positioned on a rug",
-        "primary_action": "Taking a photograph of reflection",
-        "hand_placement": {
-          "right_hand": "Holding smartphone, actively taking photo"
-        }
-      },
-      "facial_expression": {
-        "emotion": "Energetic, mischievous",
-        "specific_gesture": "Tongue sticking out playfully",
-        "gaze": "Looking towards the phone screen/mirror reflection"
-      }
-    },
-    "styling_details": {
-      "hair": {
-        "color": "silver grey",
-        "length": "Long",
-        "style": "Two high pigtails"
-      },
-      "apparel": {
-        "outfit_type": "Matching two-piece loungewear set",
-        "color_palette": "white",
-        "garment_top": {
-          "type": "Henley top",
-          "fit": "Cropped",
-          "sleeve_length": "Long-sleeved",
-          "details": [
-            "Small placket buttons visible"
-          ]
-        },
-        "garment_bottom": {
-          "type": "Briefs/Shorts hybrid",
-          "fit": "High-waisted"
-        }
-      }
-    },
-    "props_and_devices": {
-      "primary_device": {
-        "type": "Smartphone",
-        "model_specification": "iPhone 17 Pro Max (Fictional futuristic model)",
-        "color_finish": "Silver",
-        "state": "Screen active (taking photo)"
-      }
-    },
-    "environmental_context": {
-      "setting_type": "Modern indoor living space",
-      "atmosphere": "Bright, clean, contemporary",
-      "architectural_elements": {
-        "walls": {
-          "color": "White",
-          "texture": "Smooth"
-        },
-        "flooring": {
-          "material": "Wood",
-          "tone": "Light wood grain"
-        }
-      },
-      "key_fixtures_and_furniture": {
-        "primary_mirror": {
-          "shape": "Large circular",
-          "placement": "Prominently visible on the left side of the frame",
-          "lighting_feature": "Integrated warm backlighting (halo effect)"
-        },
-        "floor_covering": {
-          "type": "Rug",
-          "texture": "Fluffy/High-pile",
-          "color": "White",
-          "placement": "Directly beneath the kneeling subject"
-        }
-      },
-      "background_decor": {
-        "botanical": {
-          "type": "Subtle plant",
-          "placement": "In background, slightly out of focus"
-        }
-      },
-      "lighting_scheme": {
-        "primary_source": "Bright ambient indoor light",
-        "accent_lighting": "Warm glow emanating from behind the circular mirror on the left"
-      }
+    "technical_engine": {
+      "device_emulation": "iPhone 16 Pro Max",
+      "sensor": "Silver Gray Titanium Chassis, 48MP ProRAW mode",
+      "optics": "24mm equivalent, f/1.78 aperture, sharp focus on skin texture",
+      "rendering": "8K UHD, Ray-traced reflections, Subsurface scattering for skin"
     }
+  },
+  "subject_logic": {
+    "identity": {
+      "origin": "Young American / Chicago-based high-fashion model",
+      "vibe": "Clean Girl Aesthetic, Post-Shower Refresh",
+      "physique": "Slim-athletic frame with enhanced curvy proportions, voluminous bust, slender waist"
+    },
+    "hair_specification": {
+      "color": "True Bright Blonde (Vibrant, high-pigment, no golden/dark undertones)",
+      "styling": "High messy ponytail, slicked back from temples",
+      "status": "Damp and fresh, glistening with water droplets, individual clumped strands"
+    },
+    "facial_detail": {
+      "complexion": "Dewy, hyper-realistic skin, visible pores, natural freckles, no makeup",
+      "eyes": "Striking crystal blue, sharp catchlights from vanity bulbs",
+      "expression": "Sultry soft pout, relaxed eyes looking at the device screen"
+    }
+  },
+  "wardrobe_material": {
+    "primary": "White Terry Cloth Hotel Bathrobe",
+    "fabric_physics": {
+      "texture": "Deep pile, plush, soft cotton loops, heavyweight fabric",
+      "fit": "Oversized, cinched at the waist with a heavy belt",
+      "styling": "Off-shoulder drape, Deep V-neckline exposing decolletage and cleavage"
+    }
+  },
+  "environment_architecture": {
+    "setting": "Ultra-luxury five-star hotel bathroom",
+    "surfaces": {
+      "walls": "Calacatta marble tiles, high-gloss finish, intricate gray veining",
+      "accent": "Horizontal black obsidian marble stripe at shoulder level",
+      "fixtures": "Polished chrome, minimalist designer faucets"
+    },
+    "lighting_design": {
+      "primary": "High-CRI Cool-white LED vanity perimeter lights",
+      "shadows": "Soft, diffused, zero harsh directional light",
+      "reflections": "Perfectly clear mirror surface, no smudges, sharp double-image depth"
+    }
+  },
+  "post_processing": {
+    "color_grading": "Clean luxury palette, bright whites, high-contrast black accents, neutral skin tones",
+    "sharpness": "100% texture fidelity on wet hair and towel fibers",
+    "negative_parameters": [
+      "unnatural skin smoothing",
+      "yellow hair tones",
+      "plastic textures",
+      "motion blur",
+      "distorted fingers",
+      "poorly rendered marble"
+    ]
   }
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=e5704067-d12c-46e0-b633-f5cbbe33d723)** | Likes: 15
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a2a98830-980b-4a4f-9541-8fa6945e48ee)** | Likes: 16
 
 ---
 
@@ -1144,20 +1052,7 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 12
-
----
-
-#### Golden hour portrait of a woman in black lace dress
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400411169_6mokcl.jpg" width="400" alt="Golden hour portrait of a woman in black lace dress">
-
-**Prompt:**
-```
-Shoot a portrait in warm golden-hour lighting. The model is a beautiful woman, using the facial features and hairstyle from the provided photo. She is wearing a luxurious black lace camisole with a stylish cutout design on the sleeves. Her pose is elegant and confident; she glances back over her shoulder, with an elegant and mysterious look in her eyes. She has gray eyes and long jet-black hair cascading down like a waterfall.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=dd9d706e-b046-4644-a064-f5b0db810de4)** | Likes: 8
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 13
 
 ---
 
@@ -1383,6 +1278,270 @@ A captivating black and white close-up portrait of a beautiful young Asian woman
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=34ec0ea0-5a3c-483d-a4ff-54dd8ee78230)** | Likes: 9
+
+---
+
+
+### Illustration
+
+#### interesting image effects
+
+<img src="https://cdn.bestnanobananaprompt.com/bqout7hd9n5_1766326061646.jpg" width="400" alt="interesting image effects">
+
+**Prompt:**
+```
+{
+
+"subject": {
+
+"description": "A hyper-realistic optical illusion photograph. A young Caucasian woman appears to be stepping out of a smartphone screen held in a hand. The screen displays the camera interface, capturing her boots, while her real upper body extends out of the phone into reality.",
+
+"mirror_rules": "Ensure the phone screen clearly shows the iOS Camera UI (shutter button, mode text). Handwritten annotations must be legible and not mirrored.",
+
+"age": "20s",
+
+"expression": {
+
+"eyes": {
+
+"look": "Alluring and playful",
+
+"energy": "Confident, direct",
+
+"direction": "Looking at the viewer"
+
+},
+
+"mouth": {
+
+"position": "Blowing a kiss or pouting",
+
+"energy": "Chic and charming"
+
+},
+
+"overall": "Lifelike, engaging interaction"
+
+},
+
+"face": {
+
+"preserve_original": "false",
+
+"makeup": "Natural glam, matte foundation, defined European features",
+
+"features": "High nose bridge, double eyelids, defined jawline"
+
+},
+
+"hair": {
+
+"color": "Dark brown",
+
+"style": "Long, loose waves, voluminous",
+
+"effect": "Realistic shine, wind-blown effect"
+
+},
+
+"body": {
+
+"frame": "Petite but proportionally realistic",
+
+"waist": "Defined",
+
+"chest": "Covered by turtleneck",
+
+"legs": "Visible INSIDE the phone screen interface wearing boots",
+
+"skin": {
+
+"visible_areas": "Face, hands",
+
+"tone": "Fair Caucasian skin",
+
+"texture": "Ultra-realistic skin texture, visible pores, natural imperfections",
+
+"lighting_effect": "Soft daylight"
+
+}
+
+},
+
+"pose": {
+
+"position": "Torso and head emerging vertically from the phone, legs displayed on the screen",
+
+"base": "Dynamic standing pose",
+
+"overall": "充满活力的随机姿势，让人感觉生命力满满"
+
+},
+
+"clothing": {
+
+"top": {
+
+"effect": "精致的穿搭，High-quality textile photography"
+
+},
+
+"bottom": {
+
+"type": "Mini Skirt and Leather Boots",
+
+"color": "Dark Grey (skirt), Brown (boots)",
+
+"details": "Boots visible on the screen beneath the UI elements"
+
+}
+
+}
+
+},
+
+"accessories": {
+
+"jewelry": "Gold rings on the photographer's hand (foreground)",
+
+"device": "Smartphone with burgundy case. The screen is ACTIVE and DETAILED: it displays the IOS Camera App Interface (white circular shutter button at bottom, 'PHOTO' text).",
+
+"prop": "On the phone screen: White handwritten-style text overlays with arrows pointing to the outfit elements (e.g., text 'suede jacket' with arrow, 'leather boots' with arrow)."
+
+},
+
+"photography": {
+
+"camera_style": "DSLR photography, Macro lens for phone details",
+
+"angle": "POV, High angle looking down at hand",
+
+"shot_type": "Composite photography",
+
+"aspect_ratio": "3:4",
+
+"texture": "Sharp screen pixels, fingerprint smudges on screen, realistic fabric texture",
+
+"lighting": "Overcast soft natural light",
+
+"depth_of_field": "Background bench blurred (Bokeh), Phone screen UI and subject sharp"
+
+},
+
+"background": {
+
+"setting": "Parisian Park in Autumn",
+
+"wall_color": "Green bench, grey ground",
+
+"elements": [
+
+"Green park bench with text 'Le silence'",
+
+"Autumn leaves"
+
+],
+
+"atmosphere": "Cinematic, realistic",
+
+"lighting": "Natural ambient light"
+
+},
+
+"the_vibe": {
+
+"energy": "Sophisticated, viral social media content",
+
+"mood": "Fashion forward",
+
+"aesthetic": "OOTD breakdown, creative edit",
+
+"authenticity": "Photorealistic texture, not CGI",
+
+"intimacy": "POV",
+
+"story": "Fashion styling breakdown",
+
+"caption_energy": "Styling brown suede & leather"
+
+},
+
+"constraints": {
+
+"must_keep": [
+
+"Caucasian ethnicity",
+
+"Photorealistic skin",
+
+"Camera UI elements on screen (shutter button)",
+
+"Handwritten text annotations on screen",
+
+"Pop-out effect"
+
+],
+
+"avoid": [
+
+"Transparent phone screen",
+
+"Blank screen",
+
+"3D render style",
+
+"Cartoon",
+
+"Plastic skin"
+
+]
+
+},
+
+"negative_prompt": [
+
+"transparent screen",
+
+"blank screen",
+
+"glass phone",
+
+"3d",
+
+"render",
+
+"cartoon",
+
+"anime",
+
+"plastic",
+
+"drawing",
+
+"illustration"
+
+]
+
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8418c54a-967a-4a4a-aaca-470f868413c4)** | Likes: 8
+
+---
+
+
+### Creative
+
+#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+
+<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+
+**Prompt:**
+```
+Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 8
 
 ---
 
