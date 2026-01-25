@@ -21,6 +21,19 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ### Portrait
 
+#### Snow Field Aura Farm
+
+<img src="https://cdn.bestnanobananaprompt.com/78d2298u8u_1768987416641.jpg" width="400" alt="Snow Field Aura Farm">
+
+**Prompt:**
+```
+16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 72
+
+---
+
 #### Main character..
 
 <img src="https://cdn.bestnanobananaprompt.com/0ry15emv78ud_1768541545498.jpg" width="400" alt="Main character..">
@@ -142,20 +155,177 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 44
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 53
 
 ---
 
-#### Snow Field Aura Farm
+#### yellow open-toe sandals with ankle strap
 
-<img src="https://cdn.bestnanobananaprompt.com/78d2298u8u_1768987416641.jpg" width="400" alt="Snow Field Aura Farm">
+<img src="https://cdn.bestnanobananaprompt.com/59qlxpt4hd_1768874900695.jpg" width="400" alt="yellow open-toe sandals with ankle strap">
 
 **Prompt:**
 ```
-16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
+{
+  "metadata": {
+    "task_type": "image_generation",
+    "reference_lock": "strict",
+    "output_quality": "photorealistic",
+    "constraints": {
+      "allow_face_change": false,
+      "allow_body_change": false,
+      "match_reference": true
+    }
+  },
+  "technical_specs": {
+    "layout_type": "collage",
+    "grid_format": "2x2",
+    "total_panels": 4,
+    "aspect_ratio": "9:16",
+    "visual_style": "mirror selfie"
+  },
+  "character_model": {
+    "complexion": {
+      "tone": "light–medium warm tan",
+      "texture": "smooth",
+      "finish": "slight sheen"
+    },
+    "facial_features": {
+      "shape": "soft oval",
+      "cheeks": "naturally full",
+      "nose": "straight bridge, rounded tip",
+      "lips": "full with cupid bow",
+      "eyes": {
+        "shape": "almond",
+        "makeup": "winged liner, warm shadow",
+        "lashes": "long"
+      },
+      "brows": "arched, medium-full"
+    },
+    "hair": {
+      "color": "medium brown",
+      "style": "two braided pigtails",
+      "bangs": "straight fringe",
+      "accessory": "black sunglasses resting on head"
+    }
+  },
+  "wardrobe": {
+    "swimwear": {
+      "type": "bikini",
+      "cut": "triangle top, low-rise bottom",
+      "pattern": "blue with white floral print",
+      "details": "yellow edging and ties"
+    },
+    "footwear": "yellow open-toe sandals with ankle strap",
+    "jewelry": [
+      "large gold hoop earrings"
+    ],
+    "handheld_props": {
+      "phone": {
+        "case_color": "light pink",
+        "features": "square dual-camera bump"
+      }
+    }
+  },
+  "environment": {
+    "setting": "indoor dressing room / bedroom",
+    "elements": {
+      "background": "white louvered closet doors",
+      "floor": "beige carpet",
+      "mirror": "full-length with thin gold frame"
+    },
+    "lighting": {
+      "type": "soft indoor",
+      "tone": "neutral-warm",
+      "shadows": "minimal"
+    }
+  },
+  "composition_panels": [
+    {
+      "panel_id": 1,
+      "pose_description": "deep squat, chin resting on fist",
+      "expression": "pout"
+    },
+    {
+      "panel_id": 2,
+      "pose_description": "low sit",
+      "action": "holding sunglasses near mouth",
+      "expression": "neutral"
+    },
+    {
+      "panel_id": 3,
+      "pose_description": "standing, one leg raised toward mirror",
+      "action": "holding one braid",
+      "expression": "playful"
+    },
+    {
+      "panel_id": 4,
+      "pose_description": "leaning forward, knees bent",
+      "expression": "soft pout"
+    }
+  ]
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 43
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 40
+
+---
+
+#### Young woman with a faired complexion
+
+<img src="https://cdn.bestnanobananaprompt.com/ha7j9ax5rmv_1768541578682.jpg" width="400" alt="Young woman with a faired complexion">
+
+**Prompt:**
+```
+{
+  "prompt_details": {
+    "subject": {
+      "description": "Young woman with a faired complexion and voluminous, layered brunette hair featuring honey-blonde highlights styled in loose, glamorous waves.",
+      "features": "Soft facial features, full lips, neutral expression, gazing off-camera to the right.",
+      "skin_texture": "Smooth, sun-kissed skin with realistic texture and subtle sheen."
+    },
+    "outfit": {
+      "garment": "White semi-sheer lace mini dress with a delicate floral pattern.",
+      "details": "Spaghetti straps tied in bows at the shoulders, sweetheart neckline, fitted bodice, flowy skirt with a scalloped raw-edge hem.",
+      "style": "Coquette aesthetic, summer resort wear, romantic and feminine."
+    },
+    "accessories": {
+      "item": "Woven straw market basket or tote bag placed on the ledge behind the subject.",
+      "texture": "Natural dried palm leaf texture."
+    },
+    "pose": {
+      "action": "Sitting gracefully on a textured stone garden wall.",
+      "body_language": "One leg bent at the knee, hands resting gently on the stone surface, posture upright but relaxed."
+    },
+    "environment": {
+      "setting": "Luxurious Mediterranean-style estate or villa garden.",
+      "foreground": "Rough-hewn beige stone wall/ledge.",
+      "background": "Manicured green lawn, sculpted hedges, large estate building with Spanish colonial architecture (stucco walls, tiled roof, tower), bright blue sky with fluffy white cumulus clouds.",
+      "atmosphere": "High-end vacation, tranquil, affluent summer day."
+    },
+    "lighting": {
+      "type": "Bright natural daylight.",
+      "quality": "Sun-drenched illumination, soft but distinct shadows indicating overhead sun, realistic global illumination."
+    },
+    "mood": {
+      "vibe": "Elegant, dreamy, serene, sophisticated, 'old money' aesthetic.",
+      "tone": "Warm, bright, and airy."
+    },
+    "camera_settings": {
+      "lens": "50mm portrait lens.",
+      "aperture": "f/2.8 for slight background separation while keeping the subject sharp.",
+      "shutter_speed": "1/250s.",
+      "iso": "100.",
+      "perspective": "Eye-level shot capturing the subject and the estate background."
+    },
+    "technical_specs": {
+      "quality": "Ultra-photorealistic, 8k resolution, raw photo style, highly detailed textures (lace, stone, hair), masterpiece, cinematic composition.",
+      "engine": "Unreal Engine 5 render style or high-end DSLR photography."
+    }
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 33
 
 ---
 
@@ -320,117 +490,6 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ---
 
-#### yellow open-toe sandals with ankle strap
-
-<img src="https://cdn.bestnanobananaprompt.com/59qlxpt4hd_1768874900695.jpg" width="400" alt="yellow open-toe sandals with ankle strap">
-
-**Prompt:**
-```
-{
-  "metadata": {
-    "task_type": "image_generation",
-    "reference_lock": "strict",
-    "output_quality": "photorealistic",
-    "constraints": {
-      "allow_face_change": false,
-      "allow_body_change": false,
-      "match_reference": true
-    }
-  },
-  "technical_specs": {
-    "layout_type": "collage",
-    "grid_format": "2x2",
-    "total_panels": 4,
-    "aspect_ratio": "9:16",
-    "visual_style": "mirror selfie"
-  },
-  "character_model": {
-    "complexion": {
-      "tone": "light–medium warm tan",
-      "texture": "smooth",
-      "finish": "slight sheen"
-    },
-    "facial_features": {
-      "shape": "soft oval",
-      "cheeks": "naturally full",
-      "nose": "straight bridge, rounded tip",
-      "lips": "full with cupid bow",
-      "eyes": {
-        "shape": "almond",
-        "makeup": "winged liner, warm shadow",
-        "lashes": "long"
-      },
-      "brows": "arched, medium-full"
-    },
-    "hair": {
-      "color": "medium brown",
-      "style": "two braided pigtails",
-      "bangs": "straight fringe",
-      "accessory": "black sunglasses resting on head"
-    }
-  },
-  "wardrobe": {
-    "swimwear": {
-      "type": "bikini",
-      "cut": "triangle top, low-rise bottom",
-      "pattern": "blue with white floral print",
-      "details": "yellow edging and ties"
-    },
-    "footwear": "yellow open-toe sandals with ankle strap",
-    "jewelry": [
-      "large gold hoop earrings"
-    ],
-    "handheld_props": {
-      "phone": {
-        "case_color": "light pink",
-        "features": "square dual-camera bump"
-      }
-    }
-  },
-  "environment": {
-    "setting": "indoor dressing room / bedroom",
-    "elements": {
-      "background": "white louvered closet doors",
-      "floor": "beige carpet",
-      "mirror": "full-length with thin gold frame"
-    },
-    "lighting": {
-      "type": "soft indoor",
-      "tone": "neutral-warm",
-      "shadows": "minimal"
-    }
-  },
-  "composition_panels": [
-    {
-      "panel_id": 1,
-      "pose_description": "deep squat, chin resting on fist",
-      "expression": "pout"
-    },
-    {
-      "panel_id": 2,
-      "pose_description": "low sit",
-      "action": "holding sunglasses near mouth",
-      "expression": "neutral"
-    },
-    {
-      "panel_id": 3,
-      "pose_description": "standing, one leg raised toward mirror",
-      "action": "holding one braid",
-      "expression": "playful"
-    },
-    {
-      "panel_id": 4,
-      "pose_description": "leaning forward, knees bent",
-      "expression": "soft pout"
-    }
-  ]
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 33
-
----
-
 #### Transform The Uploaded Image Into An Ultra-high-resolution
 
 <img src="https://cdn.bestnanobananaprompt.com/6zlqv98mfpk_1768541419734.jpg" width="400" alt="Transform The Uploaded Image Into An Ultra-high-resolution">
@@ -442,66 +501,404 @@ The real woman wears relaxed Y2K-inspired streetwear: an oversized cropped hoodi
 Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, drawn in a bold flat graphic style with thick black outlines and vibrant colors. The cartoon arm aligns with the real arm, creating a playful interaction. Natural daylight lights both figures evenly, blending realistic textures with clean cartoon shading for a cool, nostalgic, creative mixed-media look.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 28
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 31
 
 ---
 
-#### Young woman with a faired complexion
+#### Luxury Mirror Selfie
 
-<img src="https://cdn.bestnanobananaprompt.com/ha7j9ax5rmv_1768541578682.jpg" width="400" alt="Young woman with a faired complexion">
+<img src="https://cdn.bestnanobananaprompt.com/x95ts66hgbg_1767958094875.jpg" width="400" alt="Luxury Mirror Selfie">
 
 **Prompt:**
 ```
 {
-  "prompt_details": {
-    "subject": {
-      "description": "Young woman with a faired complexion and voluminous, layered brunette hair featuring honey-blonde highlights styled in loose, glamorous waves.",
-      "features": "Soft facial features, full lips, neutral expression, gazing off-camera to the right.",
-      "skin_texture": "Smooth, sun-kissed skin with realistic texture and subtle sheen."
+  "image_configuration": {
+    "version": "5.0-ULTRA",
+    "composition": {
+      "type": "Luxury Mirror Selfie",
+      "framing": "Waist-up medium shot",
+      "aspect_ratio": "4:5",
+      "focal_point": "Subject reflection in premium glass"
     },
-    "outfit": {
-      "garment": "White semi-sheer lace mini dress with a delicate floral pattern.",
-      "details": "Spaghetti straps tied in bows at the shoulders, sweetheart neckline, fitted bodice, flowy skirt with a scalloped raw-edge hem.",
-      "style": "Coquette aesthetic, summer resort wear, romantic and feminine."
-    },
-    "accessories": {
-      "item": "Woven straw market basket or tote bag placed on the ledge behind the subject.",
-      "texture": "Natural dried palm leaf texture."
-    },
-    "pose": {
-      "action": "Sitting gracefully on a textured stone garden wall.",
-      "body_language": "One leg bent at the knee, hands resting gently on the stone surface, posture upright but relaxed."
-    },
-    "environment": {
-      "setting": "Luxurious Mediterranean-style estate or villa garden.",
-      "foreground": "Rough-hewn beige stone wall/ledge.",
-      "background": "Manicured green lawn, sculpted hedges, large estate building with Spanish colonial architecture (stucco walls, tiled roof, tower), bright blue sky with fluffy white cumulus clouds.",
-      "atmosphere": "High-end vacation, tranquil, affluent summer day."
-    },
-    "lighting": {
-      "type": "Bright natural daylight.",
-      "quality": "Sun-drenched illumination, soft but distinct shadows indicating overhead sun, realistic global illumination."
-    },
-    "mood": {
-      "vibe": "Elegant, dreamy, serene, sophisticated, 'old money' aesthetic.",
-      "tone": "Warm, bright, and airy."
-    },
-    "camera_settings": {
-      "lens": "50mm portrait lens.",
-      "aperture": "f/2.8 for slight background separation while keeping the subject sharp.",
-      "shutter_speed": "1/250s.",
-      "iso": "100.",
-      "perspective": "Eye-level shot capturing the subject and the estate background."
-    },
-    "technical_specs": {
-      "quality": "Ultra-photorealistic, 8k resolution, raw photo style, highly detailed textures (lace, stone, hair), masterpiece, cinematic composition.",
-      "engine": "Unreal Engine 5 render style or high-end DSLR photography."
+    "technical_engine": {
+      "device_emulation": "iPhone 16 Pro Max",
+      "sensor": "Silver Gray Titanium Chassis, 48MP ProRAW mode",
+      "optics": "24mm equivalent, f/1.78 aperture, sharp focus on skin texture",
+      "rendering": "8K UHD, Ray-traced reflections, Subsurface scattering for skin"
     }
+  },
+  "subject_logic": {
+    "identity": {
+      "origin": "Young American / Chicago-based high-fashion model",
+      "vibe": "Clean Girl Aesthetic, Post-Shower Refresh",
+      "physique": "Slim-athletic frame with enhanced curvy proportions, voluminous bust, slender waist"
+    },
+    "hair_specification": {
+      "color": "True Bright Blonde (Vibrant, high-pigment, no golden/dark undertones)",
+      "styling": "High messy ponytail, slicked back from temples",
+      "status": "Damp and fresh, glistening with water droplets, individual clumped strands"
+    },
+    "facial_detail": {
+      "complexion": "Dewy, hyper-realistic skin, visible pores, natural freckles, no makeup",
+      "eyes": "Striking crystal blue, sharp catchlights from vanity bulbs",
+      "expression": "Sultry soft pout, relaxed eyes looking at the device screen"
+    }
+  },
+  "wardrobe_material": {
+    "primary": "White Terry Cloth Hotel Bathrobe",
+    "fabric_physics": {
+      "texture": "Deep pile, plush, soft cotton loops, heavyweight fabric",
+      "fit": "Oversized, cinched at the waist with a heavy belt",
+      "styling": "Off-shoulder drape, Deep V-neckline exposing decolletage and cleavage"
+    }
+  },
+  "environment_architecture": {
+    "setting": "Ultra-luxury five-star hotel bathroom",
+    "surfaces": {
+      "walls": "Calacatta marble tiles, high-gloss finish, intricate gray veining",
+      "accent": "Horizontal black obsidian marble stripe at shoulder level",
+      "fixtures": "Polished chrome, minimalist designer faucets"
+    },
+    "lighting_design": {
+      "primary": "High-CRI Cool-white LED vanity perimeter lights",
+      "shadows": "Soft, diffused, zero harsh directional light",
+      "reflections": "Perfectly clear mirror surface, no smudges, sharp double-image depth"
+    }
+  },
+  "post_processing": {
+    "color_grading": "Clean luxury palette, bright whites, high-contrast black accents, neutral skin tones",
+    "sharpness": "100% texture fidelity on wet hair and towel fibers",
+    "negative_parameters": [
+      "unnatural skin smoothing",
+      "yellow hair tones",
+      "plastic textures",
+      "motion blur",
+      "distorted fingers",
+      "poorly rendered marble"
+    ]
   }
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 25
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a2a98830-980b-4a4f-9541-8fa6945e48ee)** | Likes: 30
+
+---
+
+#### cabin crew cross check
+
+<img src="https://cdn.bestnanobananaprompt.com/1upgnat86rk_1768957629907.jpg" width="400" alt="cabin crew cross check">
+
+**Prompt:**
+```
+{
+  "scene_type": "airplane cabin galley, flight attendant uniform, playful tongue-out, seated on storage unit",
+
+  "camera_perspective": {
+    "pov": "passenger or colleague standing in aisle",
+    "angle": "slightly below eye level, shooting up at her seated position",
+    "distance": "medium shot - full seated body visible with cabin context",
+    "framing": "4:5 vertical, she fills center, airplane interior surrounds",
+    "lens": "standard, slight wide angle to capture cabin environment"
+  },
+
+  "subject": {
+    "action": "sitting on galley storage unit in airplane, legs crossed, sticking tongue out playfully at camera",
+    
+    "pose": {
+      "overall_position": "SEATED on grey galley storage cabinet, casual but posed",
+      
+      "seating": {
+        "surface": "grey metal galley storage unit/cabinet",
+        "position": "perched on top, weight on hips",
+        "height": "elevated, above standing eye level"
+      },
+      
+      "legs": {
+        "position": "CROSSED - one leg over the other, elegant",
+        "arrangement": "right leg crossed over left (or vice versa)",
+        "angle": "angled toward camera, showing full leg length",
+        "effect": "elongates legs, classic seated pose, shows off stockings"
+      },
+      
+      "upper_body": {
+        "torso": "upright, slight lean back, relaxed",
+        "shoulders": "relaxed, natural",
+        "posture": "casual confidence"
+      },
+      
+      "arms": {
+        "position": "relaxed, hands resting on thighs/lap",
+        "arrangement": "one hand on knee area, natural placement",
+        "effect": "casual, comfortable"
+      },
+      
+      "head": {
+        "position": "facing camera directly",
+        "angle": "straight on, slight playful tilt",
+        "expression_action": "TONGUE OUT - playful, silly"
+      },
+      
+      "overall": "playful flight attendant on break, casual but photogenic"
+    },
+    
+    "expression": {
+      "eyes": {
+        "color": "BLUE - light blue, bright, sparkling",
+        "direction": "direct at camera",
+        "state": "bright, happy, playful, slightly squinted from smiling",
+        "energy": "fun, mischievous, 'caught being silly'"
+      },
+      "mouth": {
+        "action": "TONGUE STICKING OUT - playful, silly gesture",
+        "lips": "natural pink, smiling around tongue",
+        "expression": "big genuine smile with tongue out",
+        "vibe": "goofy, playful, not taking herself seriously"
+      },
+      "overall": "genuinely happy and playful, fun personality showing"
+    },
+
+    "physical": {
+      "age": "early-mid 20s",
+      
+      "face": {
+        "structure": "pretty, feminine, approachable features",
+        "shape": "oval, youthful",
+        "skin": "fair, clear, natural, healthy glow",
+        "makeup": "natural/work-appropriate - light, professional"
+      },
+      
+      "body": {
+        "type": "slim, feminine, fit",
+        "legs": "long, toned, prominent in pose",
+        "overall": "flight attendant physique"
+      },
+      
+      "hair": {
+        "color": "PLATINUM BLONDE - very light blonde, almost white-blonde",
+        "style": "pulled back - PONYTAIL or LOW BUN for work",
+        "details": {
+          "front": "some pieces loose around face, wispy",
+          "back": "secured back, professional but slightly undone",
+          "texture": "natural, slightly textured"
+        },
+        "state": "work hairstyle but with some pieces escaping",
+        "vibe": "professional required style but naturally messy around face"
+      },
+      
+      "skin": {
+        "tone": "fair, light, natural",
+        "state": "healthy, natural glow"
+      }
+    },
+
+    "outfit": {
+      "uniform_dress": {
+        "type": "FLIGHT ATTENDANT UNIFORM DRESS - polo style",
+        "color": "NAVY BLUE / DARK PURPLE - deep blue-purple",
+        "style": {
+          "neckline": "POLO COLLAR - folded collar with buttons",
+          "collar_trim": "RED/PINK piping/trim on collar edges",
+          "sleeves": "short sleeves with STRIPED TRIM at cuffs",
+          "sleeve_detail": "white and red/pink stripes at sleeve hem",
+          "buttons": "button placket at front with red/pink trim",
+          "fit": "fitted, professional, flattering",
+          "length": "SHORT - mini length, above knee, shows legs"
+        },
+        "badge": {
+          "type": "WINGS PIN - flight attendant wings badge",
+          "position": "on chest/breast area",
+          "color": "silver/metallic"
+        },
+        "material": "polyester uniform fabric"
+      },
+      
+      "hosiery": {
+        "type": "SHEER PANTYHOSE / STOCKINGS",
+        "color": "BLACK - sheer black",
+        "opacity": "sheer/semi-sheer - skin visible through",
+        "coverage": "full leg coverage",
+        "state": "professional, standard flight attendant requirement"
+      },
+      
+      "shoes": {
+        "type": "POINTED-TOE PUMPS / HEELS",
+        "color": "BLACK - matching hosiery",
+        "style": {
+          "toe": "pointed toe",
+          "heel": "medium heel, professional height",
+          "type": "classic pump style"
+        },
+        "material": "leather or patent"
+      },
+      
+      "uniform_concept": "classic airline flight attendant uniform - professional with vintage airline aesthetic"
+    }
+  },
+
+  "environment": {
+    "setting": "COMMERCIAL AIRPLANE CABIN - galley/service area near exit",
+    "location": "near emergency exit door, galley area",
+    
+    "aircraft_interior": {
+      "walls": {
+        "color": "GREY - standard aircraft grey plastic panels",
+        "material": "aircraft interior plastic/composite"
+      },
+      "storage": {
+        "type": "galley storage unit/cabinet",
+        "color": "grey metal",
+        "style": "standard airline galley equipment with drawers"
+      },
+      "seats": {
+        "type": "passenger seats visible on right side",
+        "color": "NAVY BLUE leather",
+        "style": "standard commercial aircraft seats"
+      }
+    },
+    
+    "signage": {
+      "exit_sign": {
+        "type": "illuminated EXIT sign",
+        "color": "red text on white/grey background",
+        "position": "behind her on wall"
+      },
+      "other_signs": {
+        "type": "various airline safety/information placards",
+        "content": "safety information, airline branding",
+        "position": "on walls around galley area"
+      }
+    },
+    
+    "windows": {
+      "visibility": "aircraft window visible on right side",
+      "light": "natural daylight coming through"
+    },
+    
+    "overhead": {
+      "type": "overhead bins and panels",
+      "color": "grey, standard aircraft"
+    },
+    
+    "lighting": {
+      "type": "mixed - aircraft interior lighting + natural window light",
+      "quality": "bright, even, slightly cool",
+      "sources": "overhead cabin lights + daylight from windows",
+      "on_subject": {
+        "skin": "well-lit, natural",
+        "uniform": "colors accurate",
+        "stockings": "sheer quality visible"
+      }
+    },
+    
+    "atmosphere": "commercial aircraft cabin, between flights or quiet moment"
+  },
+
+  "color_story": {
+    "palette_name": "Airline Cabin - navy, grey, red accent",
+    
+    "dominant": {
+      "grey": "aircraft interior - walls, storage, overhead - 50%",
+      "navy_blue": "uniform, seats - deep blue tones"
+    },
+    
+    "accents": {
+      "red_pink": "uniform trim on collar and sleeves - pop of color",
+      "white": "stripe details on sleeves",
+      "black": "hosiery, shoes"
+    },
+    
+    "her_colors": {
+      "platinum_hair": "light blonde, bright against dark uniform",
+      "fair_skin": "natural, healthy",
+      "blue_eyes": "matching cool tones"
+    },
+    
+    "signage_colors": "red EXIT sign adding accent",
+    "temperature": "cool overall - aircraft interior tones",
+    "harmony": "professional airline color scheme throughout"
+  },
+
+  "photography_technical": {
+    "type": "candid/casual portrait in aircraft setting",
+    "style": "fun, casual, behind-the-scenes flight crew content",
+    
+    "aspect_ratio": "4:5 vertical",
+    
+    "composition": {
+      "subject": "centered, seated, filling middle of frame",
+      "environment": "aircraft cabin context surrounding",
+      "depth": "galley equipment in front, cabin behind"
+    },
+    
+    "focus": {
+      "focal_point": "sharp on face and body",
+      "depth_of_field": "moderate, background readable but slightly soft"
+    },
+    
+    "exposure": {
+      "style": "well-exposed, bright, clear",
+      "lighting": "even, flattering"
+    }
+  },
+
+  "narrative": {
+    "story": "flight attendant on break or between flights, being playful",
+    "mood": "fun, light-hearted, personality showing through uniform",
+    "context": "the candid moment crew members share, not the professional face",
+    "vibe": "the real person behind the uniform"
+  },
+
+  "vibe": {
+    "core": "platinum blonde flight attendant, tongue out playful, seated in aircraft galley",
+    "energy": "fun, playful, not taking herself seriously, genuine happiness",
+    "mood": "light-hearted, behind-the-scenes, real moment",
+    "aesthetic": "flight crew content, airline life, uniform but human",
+    "temperature": "cool aircraft tones, warm personality",
+    "caption_energy": "'✈️' or 'work mode' or 'cabin crew life' or '😜'"
+  },
+
+  "what_makes_it_hit": {
+    "the_tongue_out": "playful, unexpected, shows real personality",
+    "the_uniform": "professional context makes playfulness more striking",
+    "the_legs": "crossed legs in sheer stockings = classic flight attendant aesthetic",
+    "the_setting": "real aircraft interior = authentic, not costume",
+    "the_contrast": "serious uniform + silly expression = the hook",
+    "the_hair": "platinum blonde adds glamour to uniform",
+    "the_pose": "casual but flattering, shows off the whole look",
+    "the_exit_sign": "adds authenticity, real airplane location"
+  },
+
+  "recreation_critical_requirements": {
+    "MUST_HAVE": [
+      "PLATINUM BLONDE hair - very light, pulled back in work style",
+      "Some loose pieces around face",
+      "BLUE EYES - bright, happy",
+      "TONGUE STICKING OUT - playful expression, big smile",
+      "NAVY/DARK PURPLE flight attendant UNIFORM DRESS",
+      "POLO COLLAR with RED/PINK trim",
+      "SHORT SLEEVES with STRIPED TRIM (white and red/pink)",
+      "WINGS PIN badge on chest",
+      "Mini/short length dress showing legs",
+      "SHEER BLACK PANTYHOSE/STOCKINGS",
+      "BLACK POINTED-TOE PUMPS/HEELS",
+      "SEATED on grey galley storage cabinet",
+      "LEGS CROSSED elegantly",
+      "AIRCRAFT CABIN interior - grey walls, blue seats",
+      "EXIT SIGN visible in background",
+      "Bright, even cabin lighting",
+      "4:5 vertical aspect ratio"
+    ],
+    
+    "pose_exact": "seated on galley cabinet, legs crossed, hands on lap/thighs, facing camera, tongue out",
+    "expression_exact": "big genuine smile with tongue sticking out, playful, happy eyes",
+    "uniform_exact": "navy/dark purple polo-style uniform dress with red collar trim, striped sleeve cuffs, wings pin, mini length",
+    "setting_exact": "commercial aircraft galley area, grey interior, blue seats visible, exit sign behind",
+    "hosiery_exact": "sheer black pantyhose with black pointed-toe pumps"
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 28
 
 ---
 
@@ -698,259 +1095,20 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8d893c1f-1078-4167-b878-76c1206d31b2)** | Likes: 23
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8d893c1f-1078-4167-b878-76c1206d31b2)** | Likes: 26
 
 ---
 
-#### A young woman with an athletic
+#### Cinematic Portrait Photography
 
-<img src="https://cdn.bestnanobananaprompt.com/zxoofxr4hs_1768322708892.jpg" width="400" alt="A young woman with an athletic">
-
-**Prompt:**
-```
-{
-"subject": {
-"description": "A young woman with an athletic, hourglass physique and tan skin tone taking a mirror selfie. She has long, wavy, layered dirty blonde hair with sun-kissed highlights and darker roots, parted in the middle and tousled by her left hand. Her face is partially obscured by a pink iPhone she is holding, but her expression is neutral and focused on the screen.",
-"body_details": {
-"build": "Fit and toned with distinct hourglass proportions, wide curvy hips, a narrow defined waist, and a flat stomach.",
-"bust": "Natural, full bust clearly defined under a tight top, with accurate volume and gravitational weight, not flattened or minimized.",
-"skin": "Tan to olive complexion with realistic texture, slight shine on the forehead and collarbones, and visible navel piercing details.",
-"features": "Visible belly button with a silver piercing stud, soft jawline, arched eyebrows."
-},
-"clothing": {
-"top": "Solid black, tight-fitting long-sleeve crop top that ends just below the bust line, hugging the torso contours.",
-"bottom": "Black high-cut bikini bottoms worn high on the hips, exposing the upper thighs and emphasizing the hip curve."
-},
-"accessories": {
-"jewelry": "A large gold watch on the left wrist (visible on the right side of the image), multiple gold rings on the fingers of the raised hand, and a delicate gold chain necklace with a small pendant.",
-"tech": "A light pink iPhone Pro with three camera lenses, held in the right hand."
-}
-},
-"pose": {
-"stance": "Standing upright facing the mirror, weight distributed evenly but with hips slightly swayed to accentuate curves.",
-"arms": "Left arm (image right) is raised with the elbow bent, hand resting on top of the head running fingers through hair. Right arm (image left) is bent at the elbow, holding the phone at chest/neck level to take the photo.",
-"head": "Head tilted slightly forward, gaze directed at the phone screen in the mirror."
-},
-"environment": {
-"setting": "A modern, bright domestic bathroom.",
-"background": "Behind her is a glass shower enclosure with chrome hinges and handle, and a wall tiled in large, neutral gray or beige rectangular tiles.",
-"foreground": "A white bathroom countertop is visible at the bottom of the frame.",
-"objects": "On the counter, there is a pink hairbrush, a bottle of serum with a dropper, a pink tube of lotion, and other indistinct toiletries."
-},
-"camera": {
-"perspective": "Mirror selfie perspective, eye-level relative to the reflection.",
-"framing": "Medium shot capturing the subject from the upper thighs to the top of the head, framed centrally within the mirror.",
-"focal_length": "Equivalent to a smartphone main camera (approx 26mm), strictly maintaining the geometry and depth seen in the reference without wide-angle distortion."
-},
-"lighting": {
-"source": "Indoor ambient lighting, likely overhead recessed ceiling lights.",
-"quality": "Soft and diffused, creating gentle shadows under the jaw and bust, highlighting the contours of the stomach and collarbones.",
-"tone": "Natural indoor white balance, slightly cool due to the bathroom tiles."
-},
-"mood_and_expression": {
-"mood": "Casual, confident, self-documentation, relaxed.",
-"expression": "Composed and neutral, focused on the reflection."
-},
-"style_and_realism": {
-"style": "Photorealistic smartphone photography, unstyled snapshot aesthetic.",
-"fidelity": "High-fidelity texture reproduction of skin, hair, and fabric. No artistic stylization or painterly effects."
-},
-"colors_and_tone": {
-"palette": "Dominant neutrals (black outfit, gray/beige tiles, white counter) contrasted with the subject's tan skin, blonde hair, and the pop of pink from the phone case and hairbrush.",
-"contrast": "Moderate contrast with deep blacks in the clothing and bright highlights on the skin and hair."
-},
-"quality_and_technical_details": {
-"resolution": "High resolution, sharp focus on the subject, slightly softer focus on the background elements.",
-"texture": "Grain consistent with smartphone photography in indoor lighting."
-},
-"aspect_ratio_and_output": {
-"ratio": "3:4",
-"orientation": "Portrait"
-},
-"controlnet": {
-"pose_control": {
-"model_type": "OpenPose",
-"purpose": "Exact skeletal and pose lock",
-"constraints": [
-"preserve shoulder width",
-"preserve hip angle",
-"preserve spine curvature",
-"preserve limb placement"
-],
-"recommended_weight": 1.0
-},
-"depth_control": {
-"model_type": "MiDaS",
-"purpose": "Depth, volume, and camera-to-body spatial lock",
-"constraints": [
-"preserve chest foreground dominance",
-"prevent flat or compressed depth",
-"maintain clear torso-to-background separation"
-],
-"recommended_weight": 0.8
-}
-},
-"negative_prompt": {
-"forbidden_elements": [
-"anatomy normalization",
-"body proportion averaging",
-"smaller bust than reference",
-"reduced chest volume",
-"flattened or compressed breasts",
-"tightened or lifted breasts",
-"slimmed torso",
-"aesthetic proportion correction",
-"beauty standard enforcement",
-"dataset-average female anatomy",
-"wide-angle distortion not in reference",
-"lens compression not in reference",
-"cropping that removes volume",
-"depth flattening",
-"beautification filters",
-"skin smoothing",
-"plastic skin",
-"airbrushed texture",
-"stylized realism",
-"editorial fashion proportions",
-"more realistic reinterpretation",
-"naturalization of prominent features",
-"cartoon",
-"painting",
-"sketch",
-"illustration",
-"low quality",
-"bad anatomy",
-"deformed hands",
-"missing fingers",
-"extra fingers"
-]
-}
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=727b6786-4d46-4b08-8872-953e7fd48eac)** | Likes: 22
-
----
-
-#### Luxury Mirror Selfie
-
-<img src="https://cdn.bestnanobananaprompt.com/x95ts66hgbg_1767958094875.jpg" width="400" alt="Luxury Mirror Selfie">
+<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
 
 **Prompt:**
 ```
-{
-  "image_configuration": {
-    "version": "5.0-ULTRA",
-    "composition": {
-      "type": "Luxury Mirror Selfie",
-      "framing": "Waist-up medium shot",
-      "aspect_ratio": "4:5",
-      "focal_point": "Subject reflection in premium glass"
-    },
-    "technical_engine": {
-      "device_emulation": "iPhone 16 Pro Max",
-      "sensor": "Silver Gray Titanium Chassis, 48MP ProRAW mode",
-      "optics": "24mm equivalent, f/1.78 aperture, sharp focus on skin texture",
-      "rendering": "8K UHD, Ray-traced reflections, Subsurface scattering for skin"
-    }
-  },
-  "subject_logic": {
-    "identity": {
-      "origin": "Young American / Chicago-based high-fashion model",
-      "vibe": "Clean Girl Aesthetic, Post-Shower Refresh",
-      "physique": "Slim-athletic frame with enhanced curvy proportions, voluminous bust, slender waist"
-    },
-    "hair_specification": {
-      "color": "True Bright Blonde (Vibrant, high-pigment, no golden/dark undertones)",
-      "styling": "High messy ponytail, slicked back from temples",
-      "status": "Damp and fresh, glistening with water droplets, individual clumped strands"
-    },
-    "facial_detail": {
-      "complexion": "Dewy, hyper-realistic skin, visible pores, natural freckles, no makeup",
-      "eyes": "Striking crystal blue, sharp catchlights from vanity bulbs",
-      "expression": "Sultry soft pout, relaxed eyes looking at the device screen"
-    }
-  },
-  "wardrobe_material": {
-    "primary": "White Terry Cloth Hotel Bathrobe",
-    "fabric_physics": {
-      "texture": "Deep pile, plush, soft cotton loops, heavyweight fabric",
-      "fit": "Oversized, cinched at the waist with a heavy belt",
-      "styling": "Off-shoulder drape, Deep V-neckline exposing decolletage and cleavage"
-    }
-  },
-  "environment_architecture": {
-    "setting": "Ultra-luxury five-star hotel bathroom",
-    "surfaces": {
-      "walls": "Calacatta marble tiles, high-gloss finish, intricate gray veining",
-      "accent": "Horizontal black obsidian marble stripe at shoulder level",
-      "fixtures": "Polished chrome, minimalist designer faucets"
-    },
-    "lighting_design": {
-      "primary": "High-CRI Cool-white LED vanity perimeter lights",
-      "shadows": "Soft, diffused, zero harsh directional light",
-      "reflections": "Perfectly clear mirror surface, no smudges, sharp double-image depth"
-    }
-  },
-  "post_processing": {
-    "color_grading": "Clean luxury palette, bright whites, high-contrast black accents, neutral skin tones",
-    "sharpness": "100% texture fidelity on wet hair and towel fibers",
-    "negative_parameters": [
-      "unnatural skin smoothing",
-      "yellow hair tones",
-      "plastic textures",
-      "motion blur",
-      "distorted fingers",
-      "poorly rendered marble"
-    ]
-  }
-}
+cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a2a98830-980b-4a4f-9541-8fa6945e48ee)** | Likes: 22
-
----
-
-#### Ultra-realistic Candid Smartphone Photograph
-
-<img src="https://cdn.bestnanobananaprompt.com/l4pntpb3k89_1768541395380.jpg" width="400" alt="Ultra-realistic Candid Smartphone Photograph">
-
-**Prompt:**
-```
-Ultra-realistic candid smartphone photograph, 9:16 vertical.
-Use the attached image only as a strong visual inspiration for general facial proportions and vibe,
-while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
-Scene
-Nighttime on a quiet Tokyo city sidewalk beside a building with white ceramic tile walls.
-The subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.
-Poses & Gestures (combined naturally)
-The subject reacts instinctively to being photographed:
-turning her head back mid-walk as if surprised,
-raising one hand close to the lens to partially block the camera,
-shy, restrained smile forming as she suppresses laughter,
-body angled in half-profile while continuing to walk forward,
-motion carries her slightly out of frame, imperfect framing.
-Expressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.
-Camera & Motion
-Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.
-Lighting
-Flash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.
-Background
-White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
-Mood
-Candid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.
-Image Quality
-Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
-Negative Prompt
-anime, illustration, painting, stylized,
-studio lighting, beauty lighting, soft portrait,
-sharp focus, clean face, perfect anatomy, smooth skin,
-fashion editorial, posed portrait, cinematic grading, film still,
-tripod shot, professional photography,
-identity match, face copy, real person replication
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=730ed534-5c8e-42df-a350-e5daa02b02c9)** | Likes: 21
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 25
 
 ---
 
@@ -966,7 +1124,7 @@ identity match, face copy, real person replication
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 28
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 43
 
 ---
 
@@ -1067,7 +1225,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 21
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 28
 
 ---
 
@@ -1160,20 +1318,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 12
-
----
-
-#### Spectacular Fireworks Display Photograph Over A Waterfront
-
-<img src="https://cdn.bestnanobananaprompt.com/2hb7j3yhflm_1766889918066.jpg" width="400" alt="Spectacular Fireworks Display Photograph Over A Waterfront">
-
-**Prompt:**
-```
-Create a spectacular fireworks display photograph over a waterfront cityscape at night. The fireworks should burst in the exact shape and form of the uploaded logo, perfectly replicating its distinctive design, proportions, colors, and silhouette. Match every color from the logo precisely in the fireworks - placing each color exactly where it appears in the original logo design. The logo shape should be clearly recognizable and detailed in the fireworks formation against the dark sky. The scene should include a city silhouette in the background, smoke trails from the fireworks, and colorful reflections dancing on the water below. Photorealistic style with professional long exposure photography techniques, sharp focus on the fireworks burst, cinematic composition, 4K quality.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=7f484896-d083-45ee-a356-c00a2fb05602)** | Likes: 10
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 13
 
 ---
 
@@ -1189,7 +1334,7 @@ Create a spectacular fireworks display photograph over a waterfront cityscape at
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 17
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 19
 
 ---
 
@@ -1231,7 +1376,48 @@ Create a spectacular fireworks display photograph over a waterfront cityscape at
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 13
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 16
+
+---
+
+
+### Illustration
+
+#### N Infographic Image Of Object
+
+<img src="https://cdn.bestnanobananaprompt.com/1oolkub5ffm_1768957380830.jpg" width="400" alt="N Infographic Image Of Object">
+
+**Prompt:**
+```
+Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+•Key component labels
+•Internal cutaway or exploded-view outlines
+•Measurements, dimensions, and scale markers
+•Material callouts and quantities
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+•Simple schematic or sectional diagrams where relevant
+
+Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+•The real object remains clearly visible beneath the annotations
+•Annotations feel sketched, technical, and architectural
+•Clean composition with balanced negative space
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+White background, black annotation lines and text only. No colors.
+
+Output:
+1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 14
 
 ---
 
@@ -1284,6 +1470,22 @@ The final image should feel like a premium holiday advertisement—clean, cozy, 
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=e9a77625-a73b-4c2c-8664-390856f05c4f)** | Likes: 11
+
+---
+
+
+### Comic Art
+
+#### Caricatures --sref
+
+<img src="https://cdn.bestnanobananaprompt.com/g0dh4ifel76_1764811434966.jpg" width="400" alt="Caricatures --sref">
+
+**Prompt:**
+```
+A 2x2 grid featuring four distinct, expressive digital caricatures of male public figures. The art style is a vibrant fusion of bold line art, dynamic brushstrokes, and digital painting with a hand-drawn, inky sketch aesthetic, complete with subtle watercolor washes and ink splatters. Exaggerated features and lively expressions dominate, rendered with a rich, slightly muted color palette including earthy tones and cool grays. Soft, diffused studio lighting creates clear forms and gentle shadows against a minimalist, textured background. The composition is a bust shot for each, conveying a humorous and energetic mood in high-detail, professional 4K illustration quality.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a4d4eb2b-3ba9-4b68-a3f4-601319d10982)** | Likes: 11
 
 ---
 
