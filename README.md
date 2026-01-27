@@ -30,132 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 112
-
----
-
-#### Main character..
-
-<img src="https://cdn.bestnanobananaprompt.com/0ry15emv78ud_1768541545498.jpg" width="400" alt="Main character..">
-
-**Prompt:**
-```
-{
-  "subject": {
-    "type": "adult woman",
-    "age": "mid-20s",
-    "face": {
-      "shape": "soft feminine face with a defined jawline and high cheekbones",
-      "eyes": "almond-shaped hazel-green eyes with clean catchlights, looking at the phone screen in the mirror",
-      "brows": "full natural brows with a clean arch (slightly darker than hair)",
-      "nose": "straight slim bridge with a soft rounded tip",
-      "lips": "natural full lips with a light nude gloss, slightly parted",
-      "skin": "real skin texture with visible pores and faint freckles (no smoothing)"
-    },
-    "hair": {
-      "color": "platinum blonde",
-      "style": "long loose waves with soft volume",
-      "part": "slightly off-center part",
-      "detail": "a few flyaways, hair flowing down the back and over one shoulder"
-    },
-    "body": "athletic gym-trained silhouette (toned shoulders, subtle abs, strong legs and glutes), natural realistic proportions",
-    "expression": "neutral confident mirror-selfie look"
-  },
-  "wardrobe": {
-    "top": {
-      "type": "cropped raglan baseball tee",
-      "colors": "white torso with heather-gray 3/4 sleeves",
-      "fit": "tight fitted crop exposing waist/upper hip",
-      "details": "small printed text on chest but NOT readable, no logos"
-    },
-    "bottom": {
-      "type": "black tie-side bikini bottoms",
-      "style": "minimal coverage with thin side ties",
-      "ties": "right-side tie clearly visible with a small bow and dangling strings",
-      "fabric": "matte swim fabric, clean stitching, no logos"
-    }
-  },
-  "pose_action": {
-    "shot": "full-body mirror selfie",
-    "stance": "standing in a strong three-quarter back angle to the mirror",
-    "legs": "one leg extended back and slightly out; the other leg planted closer to the mirror, knees straight",
-    "hips": "hips pushed back, subtle back arch",
-    "torso": "torso twisted slightly toward the mirror so waist and side profile are visible",
-    "arms": {
-      "phone_arm": {
-        "hand": "right hand holding the phone",
-        "position": "phone held to the right side of the face (viewer perspective) at cheek/temple height, slightly away from the face",
-        "angle": "angled outward so the mirror captures the entire face unobstructed",
-        "rule": "phone must NOT cover eyes, nose, or lips; full face clearly visible"
-      },
-      "shirt_hand": {
-        "hand": "left hand",
-        "action": "gripping/pinching the hem/side of the cropped shirt near the waist and lifting it slightly to reveal the midriff"
-      }
-    },
-    "head": "head turned toward the mirror, chin neutral",
-    "eye_contact": "eyes directed to the phone screen via mirror"
-  },
-  "scene": {
-    "location": "casual studio/room with gym-mat flooring",
-    "floor": "dark interlocking rubber/gym mats with visible seams and texture",
-    "mirror": "large wall mirror with faint haze/smudges and light streaks for realism",
-    "left_background": [
-      "large glass door/window letting in daylight",
-      "bright outdoor light spilling across the floor"
-    ],
-    "right_background": [
-      "black clothing rack with hangers",
-      "maroon/burgundy sweatpants hanging clearly",
-      "a white cropped tee hanging on the rack",
-      "dark jacket/garment draped on the rack"
-    ],
-    "foreground_clutter": [
-      "light denim clothing pieces on the floor",
-      "shoes/sneakers near the rack",
-      "a soft bag/duffel and small items near the mirror edge",
-      "a light-colored hard suitcase in the lower-right corner"
-    ],
-    "extra_elements": [
-      "round woven rattan/wicker item leaning mid-left background"
-    ],
-    "rules": "no readable text/logos, no duplicated limbs, keep clothing rack and door frame straight (no warping), natural anatomy"
-  },
-  "lighting": {
-    "type": "natural daylight",
-    "direction": "strong window light from the left side",
-    "look": "clean realistic daylight with soft shadows, slightly brighter left side and gentle falloff on the right, no filters or stylized grading"
-  },
-  "camera": {
-    "device_vibe": "iPhone 16 Pro",
-    "look": "unretouched smartphone photo, low HDR, subtle grain, minimal sharpening",
-    "shot_type": "mirror photo (rear camera look)",
-    "orientation": "vertical 9:16",
-    "lens_feel": {
-      "camera": "1x main camera",
-      "focal_length_equiv": "24mm",
-      "distortion": "controlled; straight lines stay straight (mirror edges, rack poles, door frame)"
-    },
-    "composition": {
-      "framing": "full body from head to feet visible in the mirror; subject centered; clothing rack prominent on the right; bright door/window on the left",
-      "tilt": "very slight handheld tilt (1–2 degrees)"
-    },
-    "focus": {
-      "af_mode": "subject priority",
-      "detail_rule": "face and skin texture sharp; fabric texture visible; background slightly softer but readable"
-    },
-    "exposure": {
-      "metering": "balanced to preserve window highlights while keeping skin tones natural",
-      "ev_comp": 0.0,
-      "iso_hint": "50–200",
-      "shutter_hint": "1/200–1/800",
-      "white_balance": "daylight 5200–6000K"
-    }
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 60
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 163
 
 ---
 
@@ -266,7 +141,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 56
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 83
 
 ---
 
@@ -584,7 +459,151 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 50
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 69
+
+---
+
+#### Main character..
+
+<img src="https://cdn.bestnanobananaprompt.com/0ry15emv78ud_1768541545498.jpg" width="400" alt="Main character..">
+
+**Prompt:**
+```
+{
+  "subject": {
+    "type": "adult woman",
+    "age": "mid-20s",
+    "face": {
+      "shape": "soft feminine face with a defined jawline and high cheekbones",
+      "eyes": "almond-shaped hazel-green eyes with clean catchlights, looking at the phone screen in the mirror",
+      "brows": "full natural brows with a clean arch (slightly darker than hair)",
+      "nose": "straight slim bridge with a soft rounded tip",
+      "lips": "natural full lips with a light nude gloss, slightly parted",
+      "skin": "real skin texture with visible pores and faint freckles (no smoothing)"
+    },
+    "hair": {
+      "color": "platinum blonde",
+      "style": "long loose waves with soft volume",
+      "part": "slightly off-center part",
+      "detail": "a few flyaways, hair flowing down the back and over one shoulder"
+    },
+    "body": "athletic gym-trained silhouette (toned shoulders, subtle abs, strong legs and glutes), natural realistic proportions",
+    "expression": "neutral confident mirror-selfie look"
+  },
+  "wardrobe": {
+    "top": {
+      "type": "cropped raglan baseball tee",
+      "colors": "white torso with heather-gray 3/4 sleeves",
+      "fit": "tight fitted crop exposing waist/upper hip",
+      "details": "small printed text on chest but NOT readable, no logos"
+    },
+    "bottom": {
+      "type": "black tie-side bikini bottoms",
+      "style": "minimal coverage with thin side ties",
+      "ties": "right-side tie clearly visible with a small bow and dangling strings",
+      "fabric": "matte swim fabric, clean stitching, no logos"
+    }
+  },
+  "pose_action": {
+    "shot": "full-body mirror selfie",
+    "stance": "standing in a strong three-quarter back angle to the mirror",
+    "legs": "one leg extended back and slightly out; the other leg planted closer to the mirror, knees straight",
+    "hips": "hips pushed back, subtle back arch",
+    "torso": "torso twisted slightly toward the mirror so waist and side profile are visible",
+    "arms": {
+      "phone_arm": {
+        "hand": "right hand holding the phone",
+        "position": "phone held to the right side of the face (viewer perspective) at cheek/temple height, slightly away from the face",
+        "angle": "angled outward so the mirror captures the entire face unobstructed",
+        "rule": "phone must NOT cover eyes, nose, or lips; full face clearly visible"
+      },
+      "shirt_hand": {
+        "hand": "left hand",
+        "action": "gripping/pinching the hem/side of the cropped shirt near the waist and lifting it slightly to reveal the midriff"
+      }
+    },
+    "head": "head turned toward the mirror, chin neutral",
+    "eye_contact": "eyes directed to the phone screen via mirror"
+  },
+  "scene": {
+    "location": "casual studio/room with gym-mat flooring",
+    "floor": "dark interlocking rubber/gym mats with visible seams and texture",
+    "mirror": "large wall mirror with faint haze/smudges and light streaks for realism",
+    "left_background": [
+      "large glass door/window letting in daylight",
+      "bright outdoor light spilling across the floor"
+    ],
+    "right_background": [
+      "black clothing rack with hangers",
+      "maroon/burgundy sweatpants hanging clearly",
+      "a white cropped tee hanging on the rack",
+      "dark jacket/garment draped on the rack"
+    ],
+    "foreground_clutter": [
+      "light denim clothing pieces on the floor",
+      "shoes/sneakers near the rack",
+      "a soft bag/duffel and small items near the mirror edge",
+      "a light-colored hard suitcase in the lower-right corner"
+    ],
+    "extra_elements": [
+      "round woven rattan/wicker item leaning mid-left background"
+    ],
+    "rules": "no readable text/logos, no duplicated limbs, keep clothing rack and door frame straight (no warping), natural anatomy"
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "direction": "strong window light from the left side",
+    "look": "clean realistic daylight with soft shadows, slightly brighter left side and gentle falloff on the right, no filters or stylized grading"
+  },
+  "camera": {
+    "device_vibe": "iPhone 16 Pro",
+    "look": "unretouched smartphone photo, low HDR, subtle grain, minimal sharpening",
+    "shot_type": "mirror photo (rear camera look)",
+    "orientation": "vertical 9:16",
+    "lens_feel": {
+      "camera": "1x main camera",
+      "focal_length_equiv": "24mm",
+      "distortion": "controlled; straight lines stay straight (mirror edges, rack poles, door frame)"
+    },
+    "composition": {
+      "framing": "full body from head to feet visible in the mirror; subject centered; clothing rack prominent on the right; bright door/window on the left",
+      "tilt": "very slight handheld tilt (1–2 degrees)"
+    },
+    "focus": {
+      "af_mode": "subject priority",
+      "detail_rule": "face and skin texture sharp; fabric texture visible; background slightly softer but readable"
+    },
+    "exposure": {
+      "metering": "balanced to preserve window highlights while keeping skin tones natural",
+      "ev_comp": 0.0,
+      "iso_hint": "50–200",
+      "shutter_hint": "1/200–1/800",
+      "white_balance": "daylight 5200–6000K"
+    }
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 64
+
+---
+
+#### Authentic Smartphone Wide-angle Selfie Inside A Beige-interior
+
+<img src="https://cdn.bestnanobananaprompt.com/f9zmwgrrsyu_1767575232306.jpg" width="400" alt="Authentic Smartphone Wide-angle Selfie Inside A Beige-interior">
+
+**Prompt:**
+```
+Authentic smartphone Wide-angle selfie inside a beige-interior car with sunroof. Young man seated front left, left arm stretched toward camera, camera slightly above and in front, arm closest to lens. Beige roof fills top frame with sun visor and overhead console visible; sunroof shows trees, sky, power lines. Hair: medium-length wavy texture voluminous.
+
+copy the uploaded reference image 1:1, reflective sunglasses, earbuds, relaxed confident expression, head slightly tilted right. Wearing loose textured grey-brown short-sleeve shirt slightly unbuttoned and light blue jeans. Left arm appears larger from perspective with visible skin texture.
+
+Car interior matches exactly: beige seats, rear headrests, seatbelt line, partial right front seat, rear window with washed-out street.
+
+Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 40
 
 ---
 
@@ -643,7 +662,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 33
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 38
 
 ---
 
@@ -658,168 +677,179 @@ The real woman wears relaxed Y2K-inspired streetwear: an oversized cropped hoodi
 Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, drawn in a bold flat graphic style with thick black outlines and vibrant colors. The cartoon arm aligns with the real arm, creating a playful interaction. Natural daylight lights both figures evenly, blending realistic textures with clean cartoon shading for a cool, nostalgic, creative mixed-media look.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 33
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 37
 
 ---
 
-#### Night-Out Instagram Story
+#### Ana de Armas looks so realistic in these Photos
 
-<img src="https://cdn.bestnanobananaprompt.com/p3px089tl5_1766560124933.png" width="400" alt="Night-Out Instagram Story">
+<img src="https://cdn.bestnanobananaprompt.com/o7aeskci8f_1768875048052.jpg" width="400" alt="Ana de Armas looks so realistic in these Photos">
 
 **Prompt:**
 ```
 {
-
-"scene_type": "Instagram Story – Night Out",
-
-"aspect_ratio": "9:16",
-
-"description": "An elegant Instagram story mirror selfie of the woman from the reference image during a special night out, styled for a premium social media look with subtle UI overlays.",
-
-"scene": {
-
-"setting": "modern_restaurant_bathroom_night",
-
-"lighting": {
-
-"style": "soft_warm_overhead_and_side_lighting",
-
-"effects": [
-
-"subtle_glow_on_skin",
-
-"mirror_reflections",
-
-"ambient_bathroom_light"
-
-],
-
-"mood": "night_out_elegance"
-
-},
-
-"background": {
-
-"elements": [
-
-"large_mirror",
-
-"dark_tile_walls",
-
-"soft_wall_sconces",
-
-"minimalist_sink"
-
-],
-
-"palette": "deep_neutrals_with_gold_accents"
-
+  "type": "image_generation_prompt",
+  "concept": {
+    "description": "Hyper-realistic, magazine-cover-quality close-up portrait of a beautiful woman with features inspired by Ana de Armas",
+    "intent": "High-fashion editorial photography with cinematic realism",
+    "originality_note": "The subject is a look-alike inspired by Ana de Armas, not an exact replica"
+  },
+  "subject": {
+    "gender": "female",
+    "age_range": "early 30s",
+    "ethnicity": "Latina / Cuban-Spanish inspired",
+    "facial_features": {
+      "structure": "soft oval face, elegant cheekbones, delicate jawline",
+      "eyes": "large almond-shaped eyes, warm brown tone, relaxed eyelids",
+      "lips": "full, natural lips slightly parted",
+      "expression": "languid, calm, subtly seductive, relaxed confidence"
+    },
+    "body_visibility": {
+      "framing": "close-up portrait extending below the waist",
+      "posture": "upright but relaxed, natural editorial pose"
+    }
+  },
+  "wardrobe": {
+    "outfit_type": "two-piece outfit",
+    "color": "deep vivid red",
+    "top": {
+      "style": "fitted, minimal, fashion-forward",
+      "fabric": "smooth, slightly reflective material"
+    },
+    "bottom": {
+      "style": "mini skirt",
+      "fit": "form-fitting, modern cut",
+      "visibility": "clearly visible below the waist"
+    }
+  },
+  "skin_and_texture": {
+    "skin_quality": "highly detailed, natural pores visible",
+    "finish": "glossy, luminous",
+    "effect": "subtle sweat or oil sheen on torso and chest, enhancing realism",
+    "tone": "warm, healthy glow"
+  },
+  "hair_and_makeup": {
+    "hair": {
+      "style": "softly styled, loose waves",
+      "color": "deep brown",
+      "texture": "natural shine with slight movement"
+    },
+    "makeup": {
+      "style": "editorial glamour",
+      "details": "dewy skin, softly defined eyes, natural lips with slight gloss"
+    }
+  },
+  "background": {
+    "environment": "indoor setting",
+    "primary_elements": [
+      "desk or table surface",
+      "stacks of papers"
+    ],
+    "paper_details": {
+      "brightness": "partially bright white",
+      "arrangement": "slightly messy, layered stacks",
+      "focus": "softly blurred to maintain subject dominance"
+    },
+    "depth_of_field": "shallow, cinematic bokeh"
+  },
+  "lighting": {
+    "style": "studio cinematic lighting",
+    "key_light": "soft but directional, highlighting facial structure",
+    "fill_light": "gentle fill to preserve skin detail",
+    "highlights": "accentuated on glossy skin areas",
+    "shadows": "soft, controlled, magazine-style contrast"
+  },
+  "camera": {
+    "shot_type": "close-up portrait",
+    "lens": "85mm prime lens",
+    "aperture": "f/1.8",
+    "focus": "tack-sharp on eyes",
+    "sensor_quality": "full-frame, ultra-high resolution"
+  },
+  "style_and_quality": {
+    "visual_style": [
+      "hyper-realistic",
+      "cinematic",
+      "luxury fashion editorial",
+      "modern magazine cover"
+    ],
+    "realism_level": "photorealistic",
+    "detail_priority": "extreme facial and skin detail"
+  },
+  "post_processing": {
+    "color_grading": "warm cinematic tones",
+    "retouching": "minimal, natural, high-end editorial polish",
+    "sharpness": "high micro-contrast without over-sharpening"
+  },
+  "composition": {
+    "framing": "centered subject with balanced negative space",
+    "rule_of_thirds": "eyes positioned near upper third",
+    "crop_intent": "magazine cover ready"
+  },
+  "aspect_ratio": "3:4",
+  "resolution": "ultra-high resolution, 8K quality",
+  "negative_prompt": [
+    "cartoon",
+    "anime",
+    "illustration",
+    "low resolution",
+    "blurry",
+    "over-retouched skin",
+    "plastic skin",
+    "distorted anatomy",
+    "harsh shadows",
+    "oversaturated colors",
+    "text",
+    "watermarks",
+    "logos"
+  ]
 }
-
-},
-
-"subject": {
-
-"reference_image": "uploaded_image",
-
-"description": "Extremely elegant and stylish person (from reference image) enjoying a special night out",
-
-"pose": "mirror_selfie_with_phone_in_right_hand",
-
-"expression": "soft_confident_night_out_look, as seen in reference image",
-
-"appearance": {
-
-"hair": "loose_natural_shiny_waves, blonde, as seen in reference image",
-
-"makeup": "subtle_glam_evening_style_with_warm_highlights",
-
-"skin": "warm_even_skin_tone_with_soft_glow"
-
-},
-
-"outfit": {
-
-"type": "black_evening_dress",
-
-"style": "sleek_minimalist_elegant",
-
-"details": "deep neckline with tasteful cleavage, clean silhouette, high-end fabric",
-
-"accessories": [
-
-"silver_heart_hoop_earrings_as_seen_in_reference_image",
-
-"thin_gold_necklace",
-
-"subtle_rings"
-
-]
-
-}
-
-},
-
-"camera": {
-
-"perspective": "mirror_selfie_portrait",
-
-"framing": "medium_close_up_showing_upper_body_and_outfit",
-
-"phone": {
-
-"model": "modern_smartphone",
-
-"finish": "gold",
-
-"reflections": "visible_in_glass"
-
-},
-
-"focus": "sharp_on_subject_face_soft_background",
-
-"lens": "standard_35mm_look"
-
-},
-
-"instagram_ui": {
-
-"top_left_profile": {
-
-"profile_image": "mini_circular_profile_photo_of_subject",
-
-"username": "sydney"
-
-},
-
-"story_text": {
-
-"content": "A Special night <3",
-
-"placement": "middle_top_left",
-
-"style": "clean_instagram_story_font_white"
-
-}
-
-},
-
-"visual_style": {
-
-"render": "ultra_realistic_evening_photography",
-
-"color_grade": "rich_warm_tones_with_subtle_contrast",
-
-"detail_level": "high_skin_texture_hair_strands_fabric_detail",
-
-"vibe": "luxury_night_out_elegance",
-
-"quality": "high-end Instagram story, polished and viral-ready"
-
-}}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f561ec32-b462-4b19-ad7d-b3fdd4518e66)** | Likes: 33
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b92c47db-63b2-4ebd-9f6e-452c860a676e)** | Likes: 36
+
+---
+
+#### Ultra-realistic Candid Smartphone Photograph
+
+<img src="https://cdn.bestnanobananaprompt.com/l4pntpb3k89_1768541395380.jpg" width="400" alt="Ultra-realistic Candid Smartphone Photograph">
+
+**Prompt:**
+```
+Ultra-realistic candid smartphone photograph, 9:16 vertical.
+Use the attached image only as a strong visual inspiration for general facial proportions and vibe,
+while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
+Scene
+Nighttime on a quiet Tokyo city sidewalk beside a building with white ceramic tile walls.
+The subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.
+Poses & Gestures (combined naturally)
+The subject reacts instinctively to being photographed:
+turning her head back mid-walk as if surprised,
+raising one hand close to the lens to partially block the camera,
+shy, restrained smile forming as she suppresses laughter,
+body angled in half-profile while continuing to walk forward,
+motion carries her slightly out of frame, imperfect framing.
+Expressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.
+Camera & Motion
+Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.
+Lighting
+Flash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.
+Background
+White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
+Mood
+Candid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.
+Image Quality
+Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
+Negative Prompt
+anime, illustration, painting, stylized,
+studio lighting, beauty lighting, soft portrait,
+sharp focus, clean face, perfect anatomy, smooth skin,
+fashion editorial, posed portrait, cinematic grading, film still,
+tripod shot, professional photography,
+identity match, face copy, real person replication
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=730ed534-5c8e-42df-a350-e5daa02b02c9)** | Likes: 35
 
 ---
 
@@ -898,63 +928,7 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a2a98830-980b-4a4f-9541-8fa6945e48ee)** | Likes: 33
-
----
-
-#### Cinematic Portrait Photography
-
-<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
-
-**Prompt:**
-```
-cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 31
-
----
-
-#### Ultra-realistic Candid Smartphone Photograph
-
-<img src="https://cdn.bestnanobananaprompt.com/l4pntpb3k89_1768541395380.jpg" width="400" alt="Ultra-realistic Candid Smartphone Photograph">
-
-**Prompt:**
-```
-Ultra-realistic candid smartphone photograph, 9:16 vertical.
-Use the attached image only as a strong visual inspiration for general facial proportions and vibe,
-while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
-Scene
-Nighttime on a quiet Tokyo city sidewalk beside a building with white ceramic tile walls.
-The subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.
-Poses & Gestures (combined naturally)
-The subject reacts instinctively to being photographed:
-turning her head back mid-walk as if surprised,
-raising one hand close to the lens to partially block the camera,
-shy, restrained smile forming as she suppresses laughter,
-body angled in half-profile while continuing to walk forward,
-motion carries her slightly out of frame, imperfect framing.
-Expressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.
-Camera & Motion
-Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.
-Lighting
-Flash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.
-Background
-White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
-Mood
-Candid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.
-Image Quality
-Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
-Negative Prompt
-anime, illustration, painting, stylized,
-studio lighting, beauty lighting, soft portrait,
-sharp focus, clean face, perfect anatomy, smooth skin,
-fashion editorial, posed portrait, cinematic grading, film still,
-tripod shot, professional photography,
-identity match, face copy, real person replication
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=730ed534-5c8e-42df-a350-e5daa02b02c9)** | Likes: 31
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a2a98830-980b-4a4f-9541-8fa6945e48ee)** | Likes: 35
 
 ---
 
@@ -970,7 +944,7 @@ identity match, face copy, real person replication
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 65
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 100
 
 ---
 
@@ -1071,7 +1045,20 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 42
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 67
+
+---
+
+#### Casual Mirror Selfie In A Modern Bedroom
+
+<img src="https://cdn.bestnanobananaprompt.com/ssv5inpypnd_1766582811332.webp" width="400" alt="Casual Mirror Selfie In A Modern Bedroom">
+
+**Prompt:**
+```
+Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sitting relaxed on a bed or patterned cushion, body slightly leaning back with hand support, right hand holding a light-colored smartphone, looking at the screen. Keep the uploaded face exactly the same: identical identity, structure, proportions, no reshaping or beautification. Natural skin texture with glass-skin glow, visible pores, subtle under-eye shadows. Hair: curly, Outfit: white shirt rolled sleves with same colour engraved lolipop logo at middle of chest, light blue baggy denim jeans, silver watch (left wrist), silver bracelet (right wrist), indoor glasses worn. White-grey sneakers visible. Environment: minimal modern bedroom, black wardrobe doors, grey background. Lighting: soft natural indoor light, realistic shadows, side window with sheer curtain, mild golden-hour highlights. Style: realistic smartphone photo, natural colors, no HDR, high-detail textures, High Resulation image.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 19
 
 ---
 
@@ -1209,7 +1196,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 28
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 36
 
 ---
 
@@ -1222,7 +1209,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 24
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 25
 
 ---
 
@@ -1237,7 +1224,7 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 16
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 21
 
 ---
 
@@ -1278,7 +1265,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 22
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 29
 
 ---
 
@@ -1298,67 +1285,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 15
-
----
-
-
-### Other
-
-#### 超现实主义哥特式兔子工作室肖像
-
-<img src="https://cdn.bestnanobananaprompt.com/gpt4o_370_1764401244664.jpg" width="400" alt="超现实主义哥特式兔子工作室肖像">
-
-**Prompt:**
-```
-{
-"prompt_title": "Hyperrealistic Gothic Bunny Studio Portrait",
-"image_description": "An ultra-photorealistic, high-resolution studio portrait of a female subject in a gothic-inspired bunny costume, featuring intricate lace ears, a structured corset, and delicate hosiery. The subject is posed on the floor, exuding an alluring and sophisticated aura under precise studio lighting.",
-"subject": {
-"gender": "female",
-"appearance": "Young adult with a flawless, luminous complexion. **Extreme micro-detail rendering on skin, showing subtle pores, fine vellus hairs, accurate light interaction (sub-surface scattering), and realistic skin texture.**",
-"facial_features": "Smooth, clear skin. Her eyes are large, dark, and captivating, looking directly into the camera with a **confident and slightly seductive expression**. Lips are full, with a matte red or deep berry lipstick that shows micro-creases. Defined eyebrows and subtle contouring.",
-"hair_style": "Long, flowing, wavy black hair, cascading over her shoulders and back. **Hair must show individual strands, realistic volume, high-gloss reflections, and subtle flyaways.**",
-"makeup": "Dramatic and precise. Sharp, winged black eyeliner, full, dark eyelashes (possibly individual lash extensions), subtle glitter or shimmer on eyelids. Contoured cheeks. Flawless foundation and blush.",
-"attire": {
-"headwear": "Intricate **black lace bunny ears headband**. The lace should have visible patterns, delicate wire structure, and possibly small faux floral or ribbon accents. Realistic light interaction with the lace.",
-"neck_accessories": "A simple, fitted black velvet or leather choker necklace.",
-"main_outfit": "A highly detailed **black strapless corset dress or top and skirt ensemble**. The corset should be structured, showing **visible boning and lacing details** (possibly satin or leather laces). Fabric should be a mix of matte black leather/faux leather and textured, ruffled black tulle or chiffon for the skirt. **Emphasis on realistic fabric folds, textures, and subtle sheen.**",
-"hosiery": "Sheer black thigh-high stockings with a delicate lace top band, clearly visible on her upper thigh. **Stockings must show realistic transparency and fabric stretch over skin.**",
-"footwear": "Black pointed-toe high heels with ankle straps. The material should be a realistic matte or patent leather, showing accurate reflections and shoe construction."
-}
-},
-"pose": {
-"description": "The subject is kneeling on a flat, light-colored studio floor, leaning slightly forward. Her left hand is placed on the floor beside her left knee, fingers slightly spread. Her right arm is gently resting on her right thigh. Her body is slightly twisted, creating an alluring silhouette. **Exact replication of the confident and poised pose.**",
-"camera_angle": "Medium shot, eye-level angle, slightly looking down at the subject. The camera is positioned to capture her full body from the mid-thigh up, with enough space around her to establish the studio environment.",
-"composition": "Centered composition, vertical orientation. The subject fills approximately 70-80% of the frame, with subtle negative space around her. **Sharp focus on the subject, with a very shallow depth of field creating a soft bokeh in the background.**"
-},
-"setting": {
-"location": "Professional indoor photo studio.",
-"background_elements": "Seamless, plain light gray or off-white backdrop, extending from the floor to the wall, creating a clean, infinite background. **Subtle, soft gradient in the background due to lighting falloff.**"
-},
-"lighting_and_atmosphere": {
-"key_light_source": "Softbox or parabolic diffuser from the front-left, creating soft, even illumination with subtle directional shadows to define contours.",
-"fill_light": "Subtle fill light from the front-right to reduce harsh shadows on the right side of her face and body.",
-"back_light": "A subtle hair light or rim light from the rear-right to create separation from the background and add definition to her hair and shoulders.",
-"highlights_shadows": "Soft, creamy highlights on skin, hair, and corset material. Deep but soft shadows defining facial structure and body contours. **Accurate light falloff and realistic specular reflections on materials.**",
-"photographic_realism": "Extreme micro-detail, sub-surface scattering on skin, realistic fabric textures (lace, leather, tulle), **cinematic studio lighting**, crisp focus on eyes, perfect white balance, neutral color grading, **ultra-realistic material rendering (PBR - Physically Based Rendering).**"
-},
-"style_and_camera": {
-"photographic_style": "High-fashion portraiture, hyperrealistic studio photography, fine art glamour.",
-"camera_type": "High-end full-frame mirrorless camera (e.g., Sony A1, Canon R5) with a fast prime lens (e.g., 50mm f/1.2 or 85mm f/1.4).",
-"camera_values": "ISO 100, f/1.8, 1/160 sec. **These values contribute to shallow depth of field, sharp detail, and clean image quality.**",
-"resolution_quality": "8K resolution, ultra-photorealistic, extreme detail on all elements. **Masterpiece quality render, production quality image.**"
-},
-"negative_prompt_suggestions": [
-"blurry", "low resolution", "deformed", "harsh lighting", "flat background", "bad anatomy",
-"cartoon", "illustration", "painting", "text", "watermark", "oversaturated", "poor composition",
-"unrealistic skin", "plastic texture", "missing details"
-]
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9bb77a04-71ac-45d0-8b13-73f52ecec2d3)** | Likes: 12
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 22
 
 ---
 
