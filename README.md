@@ -30,7 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 176
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 190
 
 ---
 
@@ -141,7 +141,56 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 91
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 98
+
+---
+
+#### you didn't look enough
+
+<img src="https://cdn.bestnanobananaprompt.com/xz7e5d3c70l_1769389418833.jpg" width="400" alt="you didn't look enough">
+
+**Prompt:**
+```
+{
+  "subject": {
+    "body": {
+      "physique": "Voluptuous hourglass figure with significantly enlarged breasts that fill the bikini top. Broad shoulders and defined waist leading to wider hips and glutes. Muscle tone visible in core and legs.",
+      "anatomy": {
+        "shoulders": "Broad, defined.",
+        "waist": "Narrow, defined waist.",
+        "hips": "Wide hips with prominent glutes.",
+        "breasts": "Extremely large, very full breasts causing cleavage and stretching the bikini fabric.",
+        "waist-to-hip_ratio": "Pronounced hourglass."
+      }
+    },
+    "wardrobe": {
+      "hat": "Red baseball cap with yellow embroidered McDonald's Golden Arches logo.",
+      "bikini_top": "Red triangle bikini top with yellow McDonald's Golden Arches logo on left cup, stretched over very large breasts.",
+      "bikini_bottom": "Matching red string bikini bottoms.",
+      "jewelry": "Small silver necklace."
+    },
+    "pose": "Leaning forward slightly towards the mirror, holding a blue iPhone to take a selfie, winking and making a kissy face."
+  },
+  "scene": {
+    "location": "Bedroom, seen through a large mirror.",
+    "background": "Unmade white bedding, dresser with items, window with bright daylight, white walls, wooden floor.",
+    "lighting": {
+      "type": "Natural daylight from window, casting strong sunlight and shadows across the room and subject.",
+      "quality": "Bright, warm, directional light.",
+      "shadows": "Defined sunlight patterns and shadows on walls, floor, and body."
+    }
+  },
+  "camera": {
+    "type": "Smartphone camera mirror selfie.",
+    "lens": "Wide-angle smartphone lens.",
+    "focus": "Sharp focus on the woman.",
+    "composition": "Vertical portrait (9:16 aspect ratio), full body shot in mirror.",
+    "style": "Realistic, candid photo style."
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 78
 
 ---
 
@@ -459,7 +508,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 71
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 72
 
 ---
 
@@ -584,75 +633,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 66
-
----
-
-#### you didn't look enough
-
-<img src="https://cdn.bestnanobananaprompt.com/xz7e5d3c70l_1769389418833.jpg" width="400" alt="you didn't look enough">
-
-**Prompt:**
-```
-{
-  "subject": {
-    "body": {
-      "physique": "Voluptuous hourglass figure with significantly enlarged breasts that fill the bikini top. Broad shoulders and defined waist leading to wider hips and glutes. Muscle tone visible in core and legs.",
-      "anatomy": {
-        "shoulders": "Broad, defined.",
-        "waist": "Narrow, defined waist.",
-        "hips": "Wide hips with prominent glutes.",
-        "breasts": "Extremely large, very full breasts causing cleavage and stretching the bikini fabric.",
-        "waist-to-hip_ratio": "Pronounced hourglass."
-      }
-    },
-    "wardrobe": {
-      "hat": "Red baseball cap with yellow embroidered McDonald's Golden Arches logo.",
-      "bikini_top": "Red triangle bikini top with yellow McDonald's Golden Arches logo on left cup, stretched over very large breasts.",
-      "bikini_bottom": "Matching red string bikini bottoms.",
-      "jewelry": "Small silver necklace."
-    },
-    "pose": "Leaning forward slightly towards the mirror, holding a blue iPhone to take a selfie, winking and making a kissy face."
-  },
-  "scene": {
-    "location": "Bedroom, seen through a large mirror.",
-    "background": "Unmade white bedding, dresser with items, window with bright daylight, white walls, wooden floor.",
-    "lighting": {
-      "type": "Natural daylight from window, casting strong sunlight and shadows across the room and subject.",
-      "quality": "Bright, warm, directional light.",
-      "shadows": "Defined sunlight patterns and shadows on walls, floor, and body."
-    }
-  },
-  "camera": {
-    "type": "Smartphone camera mirror selfie.",
-    "lens": "Wide-angle smartphone lens.",
-    "focus": "Sharp focus on the woman.",
-    "composition": "Vertical portrait (9:16 aspect ratio), full body shot in mirror.",
-    "style": "Realistic, candid photo style."
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 58
-
----
-
-#### Authentic Smartphone Wide-angle Selfie Inside A Beige-interior
-
-<img src="https://cdn.bestnanobananaprompt.com/f9zmwgrrsyu_1767575232306.jpg" width="400" alt="Authentic Smartphone Wide-angle Selfie Inside A Beige-interior">
-
-**Prompt:**
-```
-Authentic smartphone Wide-angle selfie inside a beige-interior car with sunroof. Young man seated front left, left arm stretched toward camera, camera slightly above and in front, arm closest to lens. Beige roof fills top frame with sun visor and overhead console visible; sunroof shows trees, sky, power lines. Hair: medium-length wavy texture voluminous.
-
-copy the uploaded reference image 1:1, reflective sunglasses, earbuds, relaxed confident expression, head slightly tilted right. Wearing loose textured grey-brown short-sleeve shirt slightly unbuttoned and light blue jeans. Left arm appears larger from perspective with visible skin texture.
-
-Car interior matches exactly: beige seats, rear headrests, seatbelt line, partial right front seat, rear window with washed-out street.
-
-Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 45
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 68
 
 ---
 
@@ -779,136 +760,26 @@ Lighting: strong midday sunlight from above/front, natural shadows. Style: sligh
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 41
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 50
 
 ---
 
-#### Ana de Armas looks so realistic in these Photos
+#### Authentic Smartphone Wide-angle Selfie Inside A Beige-interior
 
-<img src="https://cdn.bestnanobananaprompt.com/o7aeskci8f_1768875048052.jpg" width="400" alt="Ana de Armas looks so realistic in these Photos">
+<img src="https://cdn.bestnanobananaprompt.com/f9zmwgrrsyu_1767575232306.jpg" width="400" alt="Authentic Smartphone Wide-angle Selfie Inside A Beige-interior">
 
 **Prompt:**
 ```
-{
-  "type": "image_generation_prompt",
-  "concept": {
-    "description": "Hyper-realistic, magazine-cover-quality close-up portrait of a beautiful woman with features inspired by Ana de Armas",
-    "intent": "High-fashion editorial photography with cinematic realism",
-    "originality_note": "The subject is a look-alike inspired by Ana de Armas, not an exact replica"
-  },
-  "subject": {
-    "gender": "female",
-    "age_range": "early 30s",
-    "ethnicity": "Latina / Cuban-Spanish inspired",
-    "facial_features": {
-      "structure": "soft oval face, elegant cheekbones, delicate jawline",
-      "eyes": "large almond-shaped eyes, warm brown tone, relaxed eyelids",
-      "lips": "full, natural lips slightly parted",
-      "expression": "languid, calm, subtly seductive, relaxed confidence"
-    },
-    "body_visibility": {
-      "framing": "close-up portrait extending below the waist",
-      "posture": "upright but relaxed, natural editorial pose"
-    }
-  },
-  "wardrobe": {
-    "outfit_type": "two-piece outfit",
-    "color": "deep vivid red",
-    "top": {
-      "style": "fitted, minimal, fashion-forward",
-      "fabric": "smooth, slightly reflective material"
-    },
-    "bottom": {
-      "style": "mini skirt",
-      "fit": "form-fitting, modern cut",
-      "visibility": "clearly visible below the waist"
-    }
-  },
-  "skin_and_texture": {
-    "skin_quality": "highly detailed, natural pores visible",
-    "finish": "glossy, luminous",
-    "effect": "subtle sweat or oil sheen on torso and chest, enhancing realism",
-    "tone": "warm, healthy glow"
-  },
-  "hair_and_makeup": {
-    "hair": {
-      "style": "softly styled, loose waves",
-      "color": "deep brown",
-      "texture": "natural shine with slight movement"
-    },
-    "makeup": {
-      "style": "editorial glamour",
-      "details": "dewy skin, softly defined eyes, natural lips with slight gloss"
-    }
-  },
-  "background": {
-    "environment": "indoor setting",
-    "primary_elements": [
-      "desk or table surface",
-      "stacks of papers"
-    ],
-    "paper_details": {
-      "brightness": "partially bright white",
-      "arrangement": "slightly messy, layered stacks",
-      "focus": "softly blurred to maintain subject dominance"
-    },
-    "depth_of_field": "shallow, cinematic bokeh"
-  },
-  "lighting": {
-    "style": "studio cinematic lighting",
-    "key_light": "soft but directional, highlighting facial structure",
-    "fill_light": "gentle fill to preserve skin detail",
-    "highlights": "accentuated on glossy skin areas",
-    "shadows": "soft, controlled, magazine-style contrast"
-  },
-  "camera": {
-    "shot_type": "close-up portrait",
-    "lens": "85mm prime lens",
-    "aperture": "f/1.8",
-    "focus": "tack-sharp on eyes",
-    "sensor_quality": "full-frame, ultra-high resolution"
-  },
-  "style_and_quality": {
-    "visual_style": [
-      "hyper-realistic",
-      "cinematic",
-      "luxury fashion editorial",
-      "modern magazine cover"
-    ],
-    "realism_level": "photorealistic",
-    "detail_priority": "extreme facial and skin detail"
-  },
-  "post_processing": {
-    "color_grading": "warm cinematic tones",
-    "retouching": "minimal, natural, high-end editorial polish",
-    "sharpness": "high micro-contrast without over-sharpening"
-  },
-  "composition": {
-    "framing": "centered subject with balanced negative space",
-    "rule_of_thirds": "eyes positioned near upper third",
-    "crop_intent": "magazine cover ready"
-  },
-  "aspect_ratio": "3:4",
-  "resolution": "ultra-high resolution, 8K quality",
-  "negative_prompt": [
-    "cartoon",
-    "anime",
-    "illustration",
-    "low resolution",
-    "blurry",
-    "over-retouched skin",
-    "plastic skin",
-    "distorted anatomy",
-    "harsh shadows",
-    "oversaturated colors",
-    "text",
-    "watermarks",
-    "logos"
-  ]
-}
+Authentic smartphone Wide-angle selfie inside a beige-interior car with sunroof. Young man seated front left, left arm stretched toward camera, camera slightly above and in front, arm closest to lens. Beige roof fills top frame with sun visor and overhead console visible; sunroof shows trees, sky, power lines. Hair: medium-length wavy texture voluminous.
+
+copy the uploaded reference image 1:1, reflective sunglasses, earbuds, relaxed confident expression, head slightly tilted right. Wearing loose textured grey-brown short-sleeve shirt slightly unbuttoned and light blue jeans. Left arm appears larger from perspective with visible skin texture.
+
+Car interior matches exactly: beige seats, rear headrests, seatbelt line, partial right front seat, rear window with washed-out street.
+
+Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b92c47db-63b2-4ebd-9f6e-452c860a676e)** | Likes: 40
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 48
 
 ---
 
@@ -967,50 +838,35 @@ Lighting: strong midday sunlight from above/front, natural shadows. Style: sligh
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 40
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 42
 
 ---
 
-#### Ultra-realistic Candid Smartphone Photograph
+#### Cinematic Portrait Photography
 
-<img src="https://cdn.bestnanobananaprompt.com/l4pntpb3k89_1768541395380.jpg" width="400" alt="Ultra-realistic Candid Smartphone Photograph">
+<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
 
 **Prompt:**
 ```
-Ultra-realistic candid smartphone photograph, 9:16 vertical.
-Use the attached image only as a strong visual inspiration for general facial proportions and vibe,
-while ensuring the generated subject remains fully original, non-identifiable, and not a face copy.
-Scene
-Nighttime on a quiet Tokyo city sidewalk beside a building with white ceramic tile walls.
-The subject is walking past the camera, partially side-on, captured mid-step in a rushed, accidental moment.
-Poses & Gestures (combined naturally)
-The subject reacts instinctively to being photographed:
-turning her head back mid-walk as if surprised,
-raising one hand close to the lens to partially block the camera,
-shy, restrained smile forming as she suppresses laughter,
-body angled in half-profile while continuing to walk forward,
-motion carries her slightly out of frame, imperfect framing.
-Expressions are subtle and spontaneous — embarrassed, playful, fleeting — never posed.
-Camera & Motion
-Shot on a modern smartphone, handheld, rushed capture. Strong uncontrolled camera shake. Heavy directional motion blur across the raised hand, hair, and face. Facial features appear smeared and streaked by movement, faintly recognizable but distorted. Partial ghosting around the body. Imperfect framing, subject nearly leaving the frame.
-Lighting
-Flash-only lighting fired mid-motion. Harsh flash highlights on skin and hand. Deep surrounding darkness. Uneven exposure, blown highlights, hard shadows typical of hurried night phone photography.
-Background
-White ceramic tile wall stretches into streaked light bands due to motion blur. Street surroundings fade into darkness with minimal readable detail.
-Mood
-Candid, shy, slightly playful. Feels intrusive, raw, imperfect, and authentic — like a fleeting memory accidentally captured and never meant to be perfect.
-Image Quality
-Extremely noisy. Heavily blurred. Raw smartphone look. Not cinematic. Not editorial. Not polished.
-Negative Prompt
-anime, illustration, painting, stylized,
-studio lighting, beauty lighting, soft portrait,
-sharp focus, clean face, perfect anatomy, smooth skin,
-fashion editorial, posed portrait, cinematic grading, film still,
-tripod shot, professional photography,
-identity match, face copy, real person replication
+cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=730ed534-5c8e-42df-a350-e5daa02b02c9)** | Likes: 40
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 41
+
+---
+
+#### Transform The Uploaded Image Into An Ultra-high-resolution
+
+<img src="https://cdn.bestnanobananaprompt.com/6zlqv98mfpk_1768541419734.jpg" width="400" alt="Transform The Uploaded Image Into An Ultra-high-resolution">
+
+**Prompt:**
+```
+Transform the uploaded image into an ultra-high-resolution mixed-reality street portrait. A young woman (same face as the uploaded image) sits on urban steps beside her cartoon illustrated twin. The setting is outdoors against a textured concrete wall with a tall window reflecting trees and soft indoor light. Worn steps with chipped paint add realism.
+The real woman wears relaxed Y2K-inspired streetwear: an oversized cropped hoodie, baggy dark jeans, chunky sneakers, and a beanie. She sits casually with one knee raised, looking slightly away with a calm, confident expression.
+Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, drawn in a bold flat graphic style with thick black outlines and vibrant colors. The cartoon arm aligns with the real arm, creating a playful interaction. Natural daylight lights both figures evenly, blending realistic textures with clean cartoon shading for a cool, nostalgic, creative mixed-media look.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 41
 
 ---
 
@@ -1026,7 +882,7 @@ identity match, face copy, real person replication
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 104
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 110
 
 ---
 
@@ -1127,7 +983,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 73
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 76
 
 ---
 
@@ -1141,99 +997,6 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 21
-
----
-
-#### A lifestyle photograph of a young blonde woman
-
-<img src="https://cdn.bestnanobananaprompt.com/hla9sbyvype_1766329309312.jpg" width="400" alt="A lifestyle photograph of a young blonde woman">
-
-**Prompt:**
-```
-"lighting": {
-    "source": "Natural sunlight",
-    "quality": "Golden hour, soft and warm",
-    "shadows": "Soft, well-defined shadows cast by the subject and boat elements",
-    "direction": "From the right, slightly backlit",
-    "highlights": "Bright highlights on the water, boat railing, and subject's hair"
-  },
-  "background": {
-    "details": "Specific buildings, church dome, beach activity are visible",
-    "setting": "Positano, Amalfi Coast, Italy",
-    "distance": "Far",
-    "elements": [
-      "Cliffside town with colorful buildings",
-      "Sandy beach with umbrellas and people",
-      "Dark blue sea",
-      "Other boats",
-      "Lush green vegetation on the cliffs"
-    ],
-    "lighting_interaction": "Sunlight illuminates the town and cliffs, creating warm tones"
-  },
-  "typography": {
-    "color": "#2E4A7D",
-    "location": "On the side of the blue boat in the background right",
-    "font_style": "Sans-serif, uppercase, bold",
-    "description": "Boat name and registration details",
-    "text_content": "BLU RIDE"
-  },
-  "composition": {
-    "balance": "Asymmetrical balance between the subject in the foreground and the town in the background",
-    "framing": "Medium shot",
-    "perspective": "Slightly low angle, looking up towards the subject and background",
-    "leading_lines": "The boat's railing and deck lead the eye towards the subject and the town",
-    "depth_of_field": "Deep, with both subject and background in focus",
-    "rule_of_thirds": "Subject positioned in the lower right intersection"
-  },
-  "color_profile": {
-    "mood": "Warm, vibrant, luxurious",
-    "contrast": "Medium-high",
-    "saturation": "High",
-    "color_scheme": "Analogous blues and greens with warm earth tones",
-    "dominant_colors": [
-      "#2E4A7D",
-      "#F2F2F2",
-      "#C8A17B",
-      "#5A784A",
-      "#D98D6F"
-    ]
-  },
-  "technical_specs": {
-    "iso": "Low",
-    "aperture": "f/8 or smaller for deep depth of field",
-    "lens_type": "Wide-angle lens",
-    "resolution": "High",
-    "camera_type": "DSLR or mirrorless",
-    "aspect_ratio": "4:5",
-    "shutter_speed": "Fast enough to freeze motion"
-  },
-  "subject_analysis": {
-    "hair": "Blonde, wavy, wind-blown",
-    "pose": "Kneeling on the boat deck, body angled towards the camera, right hand holding sunglasses, left hand on the railing",
-    "clothing": "Black one-piece swimsuit with white trim and cutouts",
-    "expression": "Looking over sunglasses with a slight smile",
-    "accessories": "Dark sunglasses, gold bracelet, ring",
-    "subject_type": "Young woman",
-    "hands_gestures": "Right hand adjusting sunglasses, left hand resting on the railing",
-    "location_on_frame": "Foreground, center-right"
-  },
-  "artistic_elements": {
-    "mood": "Relaxed, luxurious, aspirational",
-    "style": "Lifestyle photography, candid",
-    "texture": "Smooth boat deck, textured water, rugged cliffs, fabric of the swimsuit",
-    "narrative": "A woman enjoying a luxurious boat trip along the Amalfi Coast"
-  },
-  "generation_parameters": {
-    "seed": "Random",
-    "prompt": "A lifestyle photograph of a young blonde woman kneeling on the deck of a boat, wearing a black and white swimsuit and sunglasses, looking back at the camera. In the background is the cliffside town of Positano, Italy, with colorful buildings, a beach, and the sea under golden hour sunlight. The boat is moving, with other boats visible. The style is candid and luxurious.",
-    "model_type": "Photorealistic",
-    "guidance_scale": "High",
-    "negative_prompt": "Blurry, low resolution, studio lighting, artificial, indoors, crowded, overcast"
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 16
 
 ---
 
@@ -1278,7 +1041,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 38
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 43
 
 ---
 
@@ -1306,7 +1069,29 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 21
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 24
+
+---
+
+#### Swiss alpine winter portrait of a young man
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
+
+**Prompt:**
+```
+Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+
+Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 17
 
 ---
 
@@ -1367,7 +1152,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 25
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 28
 
 ---
 
