@@ -30,7 +30,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 190
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 200
 
 ---
 
@@ -141,7 +141,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 98
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 103
 
 ---
 
@@ -190,7 +190,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 78
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 95
 
 ---
 
@@ -760,7 +760,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 50
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 60
 
 ---
 
@@ -779,7 +779,118 @@ Car interior matches exactly: beige seats, rear headrests, seatbelt line, partia
 Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 48
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 55
+
+---
+
+#### This Penguin is Everywhere in my feed right now
+
+<img src="https://cdn.bestnanobananaprompt.com/dt0bgwpgxxs_1769389477407.jpg" width="400" alt="This Penguin is Everywhere in my feed right now">
+
+**Prompt:**
+```
+{
+"action": "image_edit",
+"action_input": "Maintain the exact original face, skin texture, features, and expression of the man from the uploaded image. Place him in an ultra-realistic, raw DSLR-style outdoor photograph set in a snowy polar landscape. The man is wearing clear eyeglasses, a luxury black sunglasses tucked in his pocket or worn, a dark blue denim jacket over a white crew-neck t-shirt, blue cargo pants, and white sneakers with snow marks. He is wearing a brown trekking backpack. He is standing on snow-covered ground with huge icy mountains and glaciers under a clear blue sky. He is looking downward with a calm, curious expression at a real emperor penguin standing on the snow in front of him. One hand holds a backpack strap while the other is relaxed. The entire image must be in 100% sharp focus with 0% blur, 0% bokeh, and 0% depth of field. Use pure natural cold daylight with realistic shadows and footprints in the snow. No beauty filters, no skin smoothing, and no cinematic grading. Full-body shot."
+}
+Keep face 100% original and unchanged.
+No face reshaping, no beauty filter, no AI facial modification.
+Preserve real skin texture, facial features, expression, and identity exactly as original.
+
+Ultra-realistic real-life outdoor photograph, looks exactly like a raw DSLR/mobile photo taken in a real snowy location, not AI generated.
+
+IMPORTANT REALISM RULES:
+100% sharp focus everywhere.
+0% blur.
+0% bokeh.
+0% depth of field.
+No cinematic grading.
+No artificial texture.
+Must look completely real and natural.
+
+SUBJECT DETAILS:
+Young Indian male, athletic build.
+Medium brown skin tone with real skin texture.
+Short styled hair with clean fade.
+Trimmed beard.
+Wearing clear eyeglasses.
+Natural calm expression, slightly curious.
+Looking downward naturally.
+
+OUTFIT DETAILS:
+Dark blue denim jacket.
+White crew-neck t-shirt inside.
+Blue  cargo pants.
+White sneakers with snow marks.
+Brown trekking backpack worn on shoulders.
+Luxury black sunglasses 
+Black wristwatch.
+No extra accessories.
+
+POSE DETAILS:
+Standing casually on snow.
+One hand holding backpack strap.
+Other hand relaxed down.
+Body slightly turned.
+Head tilted down, looking at a penguin.
+Very natural candid posture.
+
+EXPRESSION DETAILS:
+Calm, slightly surprised, curious expression.
+No smile, no exaggeration.
+Natural human reaction.
+
+ANIMAL DETAILS:
+One real emperor penguin standing on snow.
+Penguin facing the man.
+Correct realistic size and posture.
+Natural interaction, no cartoon look.
+
+BACKGROUND & ENVIRONMENT:
+Snow-covered ground.
+Huge icy mountains and glaciers in background.
+Clear blue sky.
+Open polar-style landscape.
+Natural footprints visible on snow.
+No fake elements.
+
+LIGHTING DETAILS:
+Pure natural daylight.
+Cold daylight tone.
+Soft natural shadows on snow.
+Realistic highlights on clothes and face.
+No artificial lighting.
+
+CAMERA & COMPOSITION:
+Full-body portrait shot.
+Eye-level camera angle.
+Natural lens perspective.
+Everything crystal clear.
+Absolutely NO blur anywhere.
+
+STYLE & QUALITY:
+Hyper-realistic.
+Raw natural photography.
+No filters.
+No beautification.
+No smoothing.
+Visible fabric texture, snow grains, mountain details.
+Looks 100% real like a travel photo.
+
+NEGATIVE PROMPT (VERY STRICT):
+blur, motion blur, bokeh, depth of field,
+AI look, artificial texture, plastic skin,
+cinematic lighting, dramatic grading,
+beauty filter, smooth skin,
+studio lighting,
+cartoon, anime, illustration, CGI,
+fake snow, fake penguin,
+extra fingers, distorted body,
+changed outfit, changed pose,
+changed background
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 48
 
 ---
 
@@ -838,35 +949,204 @@ Lighting: strong midday sunlight from above/front, natural shadows. Style: sligh
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 42
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 44
 
 ---
 
-#### Cinematic Portrait Photography
+#### face close-up and back reflection
 
-<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
-
-**Prompt:**
-```
-cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 41
-
----
-
-#### Transform The Uploaded Image Into An Ultra-high-resolution
-
-<img src="https://cdn.bestnanobananaprompt.com/6zlqv98mfpk_1768541419734.jpg" width="400" alt="Transform The Uploaded Image Into An Ultra-high-resolution">
+<img src="https://cdn.bestnanobananaprompt.com/prla6hhbra_1766326665571.jpg" width="400" alt="face close-up and back reflection">
 
 **Prompt:**
 ```
-Transform the uploaded image into an ultra-high-resolution mixed-reality street portrait. A young woman (same face as the uploaded image) sits on urban steps beside her cartoon illustrated twin. The setting is outdoors against a textured concrete wall with a tall window reflecting trees and soft indoor light. Worn steps with chipped paint add realism.
-The real woman wears relaxed Y2K-inspired streetwear: an oversized cropped hoodie, baggy dark jeans, chunky sneakers, and a beanie. She sits casually with one knee raised, looking slightly away with a calm, confident expression.
-Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, drawn in a bold flat graphic style with thick black outlines and vibrant colors. The cartoon arm aligns with the real arm, creating a playful interaction. Natural daylight lights both figures evenly, blending realistic textures with clean cartoon shading for a cool, nostalgic, creative mixed-media look.
+{
+  "metadata": {
+    "confidence_score": "high",
+    "image_type": "photograph",
+    "primary_purpose": "social media/portrait"
+  },
+  "composition": {
+    "rule_applied": "multi-layered composition",
+    "aspect_ratio": "3:4 portrait",
+    "layout": "layered/picture-in-picture effect",
+    "focal_points": [
+      "Foreground face (eyes and lips)",
+      "Background mirror reflection of body"
+    ],
+    "visual_hierarchy": "Eye connects first with the foreground face and direct gaze, then moves to the hand/jewelry, then to the mirror reflection showing the back and phone, finally scanning the bathroom details.",
+    "balance": "asymmetric/layered"
+  },
+  "color_profile": {
+    "dominant_colors": [
+      {
+        "color": "Skin Tone (Fair/Tan)",
+        "hex": "#E0C8B3",
+        "percentage": "40%",
+        "role": "primary subject"
+      },
+      {
+        "color": "Bathroom Tile White",
+        "hex": "#F0F0F0",
+        "percentage": "30%",
+        "role": "background"
+      },
+      {
+        "color": "Dark Brown/Black",
+        "hex": "#2A1F1D",
+        "percentage": "15%",
+        "role": "hair/clothing"
+      },
+      {
+        "color": "Teal/Green",
+        "hex": "#5F9EA0",
+        "percentage": "5%",
+        "role": "accent"
+      }
+    ],
+    "color_palette": "neutral with earth tone accents",
+    "temperature": "neutral leaning warm",
+    "saturation": "moderate",
+    "contrast": "medium"
+  },
+  "lighting": {
+    "type": "artificial/bathroom vanity",
+    "source_count": "single source",
+    "direction": "front/top",
+    "directionality": "diffused",
+    "quality": "soft",
+    "intensity": "bright",
+    "mood": "candid/intimate/getting ready",
+    "shadows": {
+      "type": "soft",
+      "placement": "under chin/under nose/behind subject",
+      "length": "short"
+    },
+    "highlights": {
+      "treatment": "specular/dewy",
+      "placement": "forehead/nose bridge/cheekbones/hair"
+    },
+    "ambient_fill": "present",
+    "light_temperature": "neutral white"
+  },
+  "technical_specs": {
+    "medium": "digital photography (smartphone mirror selfie)",
+    "style": "realistic/candid",
+    "texture": "skin texture visible/smooth tile/reflective mirror",
+    "sharpness": "sharp foreground/slightly softer reflection",
+    "grain": "slight digital noise",
+    "depth_of_field": "deep",
+    "perspective": "eye level/mirror reflection"
+  },
+  "artistic_elements": {
+    "genre": "selfie/portrait",
+    "influences": [
+      "Gen Z aesthetic",
+      "Casual Instagram",
+      "Photo realism"
+    ],
+    "mood": "confident/chill/sultry",
+    "atmosphere": "domestic/private/raw",
+    "visual_style": "organic/authentic"
+  },
+  "typography": {
+    "present": true,
+    "fonts": [
+      {
+        "type": "sans-serif",
+        "weight": "bold",
+        "characteristics": "logos on products"
+      }
+    ],
+    "placement": "integrated on objects",
+    "integration": "subtle/environmental"
+  },
+  "subject_analysis": {
+    "primary_subject": "Young woman (dual view: face close-up and back reflection)",
+    "positioning": "foreground right (face) / background left (reflection)",
+    "scale": "close-up with full-body reflection",
+    "interaction": "interacting with mirror and camera",
+    "facial_expression": {
+      "mouth": "closed/relaxed",
+      "eyes": "direct gaze/heavy lidded",
+      "eyebrows": "neutral/slightly raised",
+      "overall_emotion": "cool/confident/introspective",
+      "authenticity": "posed candid"
+    },
+    "hair": {
+      "length": "long (pulled back)",
+      "texture": "straight",
+      "texture_quality": "wet-look at roots",
+      "styling": "slicked back into low bun",
+      "details": "dark brown color, beige scrunchie visible"
+    },
+    "hands_and_gestures": {
+      "left_hand": "reflection: holding smartphone",
+      "right_hand": "foreground: resting under chin showing jewelry",
+      "hand_tension": "relaxed",
+      "interaction": "touching face / holding phone"
+    },
+    "body_positioning": {
+      "posture": "standing, slight twist",
+      "angle": "face 3/4 turn / back to mirror",
+      "shoulders": "right shoulder slightly raised"
+    }
+  },
+  "background": {
+    "setting_type": "indoor/bathroom",
+    "spatial_depth": "medium (mirror depth)",
+    "elements_detailed": [
+      {
+        "item": "Cetaphil Cleanser Bottle",
+        "position": "bottom left",
+        "condition": "used",
+        "specific_features": "blue and white label"
+      },
+      {
+        "item": "JBL Speaker",
+        "position": "bottom center",
+        "specific_features": "teal color"
+      },
+      {
+        "item": "Towel",
+        "position": "left center",
+        "specific_features": "dark brown/maroon"
+      },
+      {
+        "item": "Door",
+        "position": "top left",
+        "specific_features": "white panel door"
+      }
+    ],
+    "wall_surface": {
+      "material": "ceramic tile",
+      "finish": "glossy",
+      "features": "grout lines visible"
+    },
+    "objects_catalog": "Smartphone, toiletries, speaker, towel, scrunchie, jewelry",
+    "background_treatment": "sharp reflection"
+  },
+  "generation_parameters": {
+    "prompts": [
+      "Mirror selfie of a young woman in a bathroom with split composition. Foreground close-up of face with dewy skin and slicked-back wet look hair, chin resting on hand with jewelry. Background reflection shows bare back with tan lines, holding phone high. White tiled bathroom, toiletries and teal speaker on counter. Realistic, candid flash aesthetic.",
+      "Portrait of a woman with slicked back hair, leaning on hand, bathroom mirror reflection showing her back, tan lines, casual domestic setting"
+    ],
+    "keywords": [
+      "mirror selfie",
+      "dewy skin",
+      "slicked back hair",
+      "bathroom aesthetic",
+      "jewelry",
+      "tan lines",
+      "candid",
+      "reflection"
+    ],
+    "technical_settings": "Smartphone camera, f/1.8, ISO 200, indoor lighting",
+    "post_processing": "minimal, slight contrast boost"
+  }
+}
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b90f6423-5644-47da-b980-1a0997252191)** | Likes: 41
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8d893c1f-1078-4167-b878-76c1206d31b2)** | Likes: 43
 
 ---
 
@@ -882,7 +1162,7 @@ Her illustrated counterpart mirrors her pose, outfit, and proportions exactly, d
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 110
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 112
 
 ---
 
@@ -983,7 +1263,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 76
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 78
 
 ---
 
@@ -996,7 +1276,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sitting relaxed on a bed or patterned cushion, body slightly leaning back with hand support, right hand holding a light-colored smartphone, looking at the screen. Keep the uploaded face exactly the same: identical identity, structure, proportions, no reshaping or beautification. Natural skin texture with glass-skin glow, visible pores, subtle under-eye shadows. Hair: curly, Outfit: white shirt rolled sleves with same colour engraved lolipop logo at middle of chest, light blue baggy denim jeans, silver watch (left wrist), silver bracelet (right wrist), indoor glasses worn. White-grey sneakers visible. Environment: minimal modern bedroom, black wardrobe doors, grey background. Lighting: soft natural indoor light, realistic shadows, side window with sheer curtain, mild golden-hour highlights. Style: realistic smartphone photo, natural colors, no HDR, high-detail textures, High Resulation image.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 21
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 22
 
 ---
 
@@ -1054,7 +1334,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 26
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 28
 
 ---
 
@@ -1070,28 +1350,6 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
 ```
 
 **[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 24
-
----
-
-#### Swiss alpine winter portrait of a young man
-
-<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
-
-**Prompt:**
-```
-Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
-
-He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
-
-Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
-
-Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
-
-Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
-Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 17
 
 ---
 
@@ -1132,7 +1390,252 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 32
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 33
+
+---
+
+#### interesting image effects
+
+<img src="https://cdn.bestnanobananaprompt.com/bqout7hd9n5_1766326061646.jpg" width="400" alt="interesting image effects">
+
+**Prompt:**
+```
+{
+
+"subject": {
+
+"description": "A hyper-realistic optical illusion photograph. A young Caucasian woman appears to be stepping out of a smartphone screen held in a hand. The screen displays the camera interface, capturing her boots, while her real upper body extends out of the phone into reality.",
+
+"mirror_rules": "Ensure the phone screen clearly shows the iOS Camera UI (shutter button, mode text). Handwritten annotations must be legible and not mirrored.",
+
+"age": "20s",
+
+"expression": {
+
+"eyes": {
+
+"look": "Alluring and playful",
+
+"energy": "Confident, direct",
+
+"direction": "Looking at the viewer"
+
+},
+
+"mouth": {
+
+"position": "Blowing a kiss or pouting",
+
+"energy": "Chic and charming"
+
+},
+
+"overall": "Lifelike, engaging interaction"
+
+},
+
+"face": {
+
+"preserve_original": "false",
+
+"makeup": "Natural glam, matte foundation, defined European features",
+
+"features": "High nose bridge, double eyelids, defined jawline"
+
+},
+
+"hair": {
+
+"color": "Dark brown",
+
+"style": "Long, loose waves, voluminous",
+
+"effect": "Realistic shine, wind-blown effect"
+
+},
+
+"body": {
+
+"frame": "Petite but proportionally realistic",
+
+"waist": "Defined",
+
+"chest": "Covered by turtleneck",
+
+"legs": "Visible INSIDE the phone screen interface wearing boots",
+
+"skin": {
+
+"visible_areas": "Face, hands",
+
+"tone": "Fair Caucasian skin",
+
+"texture": "Ultra-realistic skin texture, visible pores, natural imperfections",
+
+"lighting_effect": "Soft daylight"
+
+}
+
+},
+
+"pose": {
+
+"position": "Torso and head emerging vertically from the phone, legs displayed on the screen",
+
+"base": "Dynamic standing pose",
+
+"overall": "充满活力的随机姿势，让人感觉生命力满满"
+
+},
+
+"clothing": {
+
+"top": {
+
+"effect": "精致的穿搭，High-quality textile photography"
+
+},
+
+"bottom": {
+
+"type": "Mini Skirt and Leather Boots",
+
+"color": "Dark Grey (skirt), Brown (boots)",
+
+"details": "Boots visible on the screen beneath the UI elements"
+
+}
+
+}
+
+},
+
+"accessories": {
+
+"jewelry": "Gold rings on the photographer's hand (foreground)",
+
+"device": "Smartphone with burgundy case. The screen is ACTIVE and DETAILED: it displays the IOS Camera App Interface (white circular shutter button at bottom, 'PHOTO' text).",
+
+"prop": "On the phone screen: White handwritten-style text overlays with arrows pointing to the outfit elements (e.g., text 'suede jacket' with arrow, 'leather boots' with arrow)."
+
+},
+
+"photography": {
+
+"camera_style": "DSLR photography, Macro lens for phone details",
+
+"angle": "POV, High angle looking down at hand",
+
+"shot_type": "Composite photography",
+
+"aspect_ratio": "3:4",
+
+"texture": "Sharp screen pixels, fingerprint smudges on screen, realistic fabric texture",
+
+"lighting": "Overcast soft natural light",
+
+"depth_of_field": "Background bench blurred (Bokeh), Phone screen UI and subject sharp"
+
+},
+
+"background": {
+
+"setting": "Parisian Park in Autumn",
+
+"wall_color": "Green bench, grey ground",
+
+"elements": [
+
+"Green park bench with text 'Le silence'",
+
+"Autumn leaves"
+
+],
+
+"atmosphere": "Cinematic, realistic",
+
+"lighting": "Natural ambient light"
+
+},
+
+"the_vibe": {
+
+"energy": "Sophisticated, viral social media content",
+
+"mood": "Fashion forward",
+
+"aesthetic": "OOTD breakdown, creative edit",
+
+"authenticity": "Photorealistic texture, not CGI",
+
+"intimacy": "POV",
+
+"story": "Fashion styling breakdown",
+
+"caption_energy": "Styling brown suede & leather"
+
+},
+
+"constraints": {
+
+"must_keep": [
+
+"Caucasian ethnicity",
+
+"Photorealistic skin",
+
+"Camera UI elements on screen (shutter button)",
+
+"Handwritten text annotations on screen",
+
+"Pop-out effect"
+
+],
+
+"avoid": [
+
+"Transparent phone screen",
+
+"Blank screen",
+
+"3D render style",
+
+"Cartoon",
+
+"Plastic skin"
+
+]
+
+},
+
+"negative_prompt": [
+
+"transparent screen",
+
+"blank screen",
+
+"glass phone",
+
+"3d",
+
+"render",
+
+"cartoon",
+
+"anime",
+
+"plastic",
+
+"drawing",
+
+"illustration"
+
+]
+
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8418c54a-967a-4a4a-aaca-470f868413c4)** | Likes: 18
 
 ---
 
@@ -1152,7 +1655,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 28
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 31
 
 ---
 
