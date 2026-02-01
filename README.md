@@ -21,19 +21,6 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 ### Portrait
 
-#### Snow Field Aura Farm
-
-<img src="https://cdn.bestnanobananaprompt.com/78d2298u8u_1768987416641.jpg" width="400" alt="Snow Field Aura Farm">
-
-**Prompt:**
-```
-16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 226
-
----
-
 #### you didn't look enough
 
 <img src="https://cdn.bestnanobananaprompt.com/xz7e5d3c70l_1769389418833.jpg" width="400" alt="you didn't look enough">
@@ -79,118 +66,20 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 164
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 274
 
 ---
 
-#### yellow open-toe sandals with ankle strap
+#### Snow Field Aura Farm
 
-<img src="https://cdn.bestnanobananaprompt.com/59qlxpt4hd_1768874900695.jpg" width="400" alt="yellow open-toe sandals with ankle strap">
+<img src="https://cdn.bestnanobananaprompt.com/78d2298u8u_1768987416641.jpg" width="400" alt="Snow Field Aura Farm">
 
 **Prompt:**
 ```
-{
-  "metadata": {
-    "task_type": "image_generation",
-    "reference_lock": "strict",
-    "output_quality": "photorealistic",
-    "constraints": {
-      "allow_face_change": false,
-      "allow_body_change": false,
-      "match_reference": true
-    }
-  },
-  "technical_specs": {
-    "layout_type": "collage",
-    "grid_format": "2x2",
-    "total_panels": 4,
-    "aspect_ratio": "9:16",
-    "visual_style": "mirror selfie"
-  },
-  "character_model": {
-    "complexion": {
-      "tone": "light–medium warm tan",
-      "texture": "smooth",
-      "finish": "slight sheen"
-    },
-    "facial_features": {
-      "shape": "soft oval",
-      "cheeks": "naturally full",
-      "nose": "straight bridge, rounded tip",
-      "lips": "full with cupid bow",
-      "eyes": {
-        "shape": "almond",
-        "makeup": "winged liner, warm shadow",
-        "lashes": "long"
-      },
-      "brows": "arched, medium-full"
-    },
-    "hair": {
-      "color": "medium brown",
-      "style": "two braided pigtails",
-      "bangs": "straight fringe",
-      "accessory": "black sunglasses resting on head"
-    }
-  },
-  "wardrobe": {
-    "swimwear": {
-      "type": "bikini",
-      "cut": "triangle top, low-rise bottom",
-      "pattern": "blue with white floral print",
-      "details": "yellow edging and ties"
-    },
-    "footwear": "yellow open-toe sandals with ankle strap",
-    "jewelry": [
-      "large gold hoop earrings"
-    ],
-    "handheld_props": {
-      "phone": {
-        "case_color": "light pink",
-        "features": "square dual-camera bump"
-      }
-    }
-  },
-  "environment": {
-    "setting": "indoor dressing room / bedroom",
-    "elements": {
-      "background": "white louvered closet doors",
-      "floor": "beige carpet",
-      "mirror": "full-length with thin gold frame"
-    },
-    "lighting": {
-      "type": "soft indoor",
-      "tone": "neutral-warm",
-      "shadows": "minimal"
-    }
-  },
-  "composition_panels": [
-    {
-      "panel_id": 1,
-      "pose_description": "deep squat, chin resting on fist",
-      "expression": "pout"
-    },
-    {
-      "panel_id": 2,
-      "pose_description": "low sit",
-      "action": "holding sunglasses near mouth",
-      "expression": "neutral"
-    },
-    {
-      "panel_id": 3,
-      "pose_description": "standing, one leg raised toward mirror",
-      "action": "holding one braid",
-      "expression": "playful"
-    },
-    {
-      "panel_id": 4,
-      "pose_description": "leaning forward, knees bent",
-      "expression": "soft pout"
-    }
-  ]
-}
+16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 120
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 244
 
 ---
 
@@ -301,7 +190,245 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 95
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 137
+
+---
+
+#### yellow open-toe sandals with ankle strap
+
+<img src="https://cdn.bestnanobananaprompt.com/59qlxpt4hd_1768874900695.jpg" width="400" alt="yellow open-toe sandals with ankle strap">
+
+**Prompt:**
+```
+{
+  "metadata": {
+    "task_type": "image_generation",
+    "reference_lock": "strict",
+    "output_quality": "photorealistic",
+    "constraints": {
+      "allow_face_change": false,
+      "allow_body_change": false,
+      "match_reference": true
+    }
+  },
+  "technical_specs": {
+    "layout_type": "collage",
+    "grid_format": "2x2",
+    "total_panels": 4,
+    "aspect_ratio": "9:16",
+    "visual_style": "mirror selfie"
+  },
+  "character_model": {
+    "complexion": {
+      "tone": "light–medium warm tan",
+      "texture": "smooth",
+      "finish": "slight sheen"
+    },
+    "facial_features": {
+      "shape": "soft oval",
+      "cheeks": "naturally full",
+      "nose": "straight bridge, rounded tip",
+      "lips": "full with cupid bow",
+      "eyes": {
+        "shape": "almond",
+        "makeup": "winged liner, warm shadow",
+        "lashes": "long"
+      },
+      "brows": "arched, medium-full"
+    },
+    "hair": {
+      "color": "medium brown",
+      "style": "two braided pigtails",
+      "bangs": "straight fringe",
+      "accessory": "black sunglasses resting on head"
+    }
+  },
+  "wardrobe": {
+    "swimwear": {
+      "type": "bikini",
+      "cut": "triangle top, low-rise bottom",
+      "pattern": "blue with white floral print",
+      "details": "yellow edging and ties"
+    },
+    "footwear": "yellow open-toe sandals with ankle strap",
+    "jewelry": [
+      "large gold hoop earrings"
+    ],
+    "handheld_props": {
+      "phone": {
+        "case_color": "light pink",
+        "features": "square dual-camera bump"
+      }
+    }
+  },
+  "environment": {
+    "setting": "indoor dressing room / bedroom",
+    "elements": {
+      "background": "white louvered closet doors",
+      "floor": "beige carpet",
+      "mirror": "full-length with thin gold frame"
+    },
+    "lighting": {
+      "type": "soft indoor",
+      "tone": "neutral-warm",
+      "shadows": "minimal"
+    }
+  },
+  "composition_panels": [
+    {
+      "panel_id": 1,
+      "pose_description": "deep squat, chin resting on fist",
+      "expression": "pout"
+    },
+    {
+      "panel_id": 2,
+      "pose_description": "low sit",
+      "action": "holding sunglasses near mouth",
+      "expression": "neutral"
+    },
+    {
+      "panel_id": 3,
+      "pose_description": "standing, one leg raised toward mirror",
+      "action": "holding one braid",
+      "expression": "playful"
+    },
+    {
+      "panel_id": 4,
+      "pose_description": "leaning forward, knees bent",
+      "expression": "soft pout"
+    }
+  ]
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 135
+
+---
+
+#### Contemplating under neon lights
+
+<img src="https://cdn.bestnanobananaprompt.com/a0g97bz73r_1769389357245.jpg" width="400" alt="Contemplating under neon lights">
+
+**Prompt:**
+```
+{
+  "scene": {
+    "type": "photorealistic cinematic shot",
+    "setting": "dimly lit nightclub lounge",
+    "lighting": {
+      "style": "high contrast, moody atmosphere",
+      "main_light": {
+        "source": "warm yellow floor lamp",
+        "position": "corner of the room",
+        "color": "warm yellow",
+        "intensity": "medium"
+      },
+      "accent_light": {
+        "source": "blue neon LED strip lighting",
+        "position": "along the ceiling",
+        "color": "cool blue",
+        "intensity": "low to medium"
+      },
+      "flash_effect": {
+        "style": "flash photography aesthetic",
+        "characteristics": {
+          "hard_shadows": true,
+          "high_clarity": true,
+          "slightly overexposed highlights": true
+        }
+      }
+    },
+    "background": {
+      "walls": "exposed brick",
+      "decor": {
+        "floor_lamp": {
+          "color": "warm yellow",
+          "position": "corner"
+        },
+        "neon_strip": {
+          "color": "blue",
+          "position": "ceiling edge"
+        }
+      }
+    }
+  },
+  "subject": {
+    "type": "stylish young man",
+    "pose": {
+      "position": "sitting on sofa",
+      "body_language": "leaning forward",
+      "hands": "clasped together near mouth",
+      "expression": "contemplative"
+    },
+    "appearance": {
+      "hair": {
+        "color": "dark",
+        "style": "voluminous quiff"
+      },
+      "facial_hair": "groomed short beard",
+      "accessories": {
+        "sunglasses": {
+          "frame": "metal-rimmed aviator",
+          "lens": "red-tinted"
+        }
+      },
+      "clothing": {
+        "jacket": {
+          "material": "plush faux-fur",
+          "color": "grey"
+        },
+        "shirt": {
+          "type": "t-shirt",
+          "color": "black"
+        },
+        "trousers": {
+          "color": "white"
+        }
+      }
+    }
+  },
+  "furniture": {
+    "sofa": {
+      "type": "Chesterfield",
+      "material": "black leather",
+      "position": "center-left of frame",
+      "style": "classic, deep button tufting"
+    },
+    "table": {
+      "color": "red",
+      "position": "immediate foreground",
+      "focus": "slightly out of focus"
+    }
+  },
+  "foreground": {
+    "object": {
+      "type": "glass with drink",
+      "position": "on red table",
+      "accessory": "purple straw",
+      "focus": "slightly blurred"
+    }
+  },
+  "camera": {
+    "resolution": "8k",
+    "aspect_ratio": "cinematic (2.39:1)",
+    "depth_of_field": {
+      "foreground": "soft focus",
+      "subject": "sharp focus",
+      "background": "slightly blurred"
+    },
+    "lens": {
+      "type": "telephoto",
+      "f_stop": "low (shallow depth of field)"
+    }
+  },
+  "composition": {
+    "framing": "medium shot",
+    "angle": "slightly low angle",
+    "rule_of_thirds": "subject positioned slightly off-center",
+    "atmosphere": "smoky haze, nightclub ambience"
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 127
 
 ---
 
@@ -619,134 +746,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 88
-
----
-
-#### Contemplating under neon lights
-
-<img src="https://cdn.bestnanobananaprompt.com/a0g97bz73r_1769389357245.jpg" width="400" alt="Contemplating under neon lights">
-
-**Prompt:**
-```
-{
-  "scene": {
-    "type": "photorealistic cinematic shot",
-    "setting": "dimly lit nightclub lounge",
-    "lighting": {
-      "style": "high contrast, moody atmosphere",
-      "main_light": {
-        "source": "warm yellow floor lamp",
-        "position": "corner of the room",
-        "color": "warm yellow",
-        "intensity": "medium"
-      },
-      "accent_light": {
-        "source": "blue neon LED strip lighting",
-        "position": "along the ceiling",
-        "color": "cool blue",
-        "intensity": "low to medium"
-      },
-      "flash_effect": {
-        "style": "flash photography aesthetic",
-        "characteristics": {
-          "hard_shadows": true,
-          "high_clarity": true,
-          "slightly overexposed highlights": true
-        }
-      }
-    },
-    "background": {
-      "walls": "exposed brick",
-      "decor": {
-        "floor_lamp": {
-          "color": "warm yellow",
-          "position": "corner"
-        },
-        "neon_strip": {
-          "color": "blue",
-          "position": "ceiling edge"
-        }
-      }
-    }
-  },
-  "subject": {
-    "type": "stylish young man",
-    "pose": {
-      "position": "sitting on sofa",
-      "body_language": "leaning forward",
-      "hands": "clasped together near mouth",
-      "expression": "contemplative"
-    },
-    "appearance": {
-      "hair": {
-        "color": "dark",
-        "style": "voluminous quiff"
-      },
-      "facial_hair": "groomed short beard",
-      "accessories": {
-        "sunglasses": {
-          "frame": "metal-rimmed aviator",
-          "lens": "red-tinted"
-        }
-      },
-      "clothing": {
-        "jacket": {
-          "material": "plush faux-fur",
-          "color": "grey"
-        },
-        "shirt": {
-          "type": "t-shirt",
-          "color": "black"
-        },
-        "trousers": {
-          "color": "white"
-        }
-      }
-    }
-  },
-  "furniture": {
-    "sofa": {
-      "type": "Chesterfield",
-      "material": "black leather",
-      "position": "center-left of frame",
-      "style": "classic, deep button tufting"
-    },
-    "table": {
-      "color": "red",
-      "position": "immediate foreground",
-      "focus": "slightly out of focus"
-    }
-  },
-  "foreground": {
-    "object": {
-      "type": "glass with drink",
-      "position": "on red table",
-      "accessory": "purple straw",
-      "focus": "slightly blurred"
-    }
-  },
-  "camera": {
-    "resolution": "8k",
-    "aspect_ratio": "cinematic (2.39:1)",
-    "depth_of_field": {
-      "foreground": "soft focus",
-      "subject": "sharp focus",
-      "background": "slightly blurred"
-    },
-    "lens": {
-      "type": "telephoto",
-      "f_stop": "low (shallow depth of field)"
-    }
-  },
-  "composition": {
-    "framing": "medium shot",
-    "angle": "slightly low angle",
-    "rule_of_thirds": "subject positioned slightly off-center",
-    "atmosphere": "smoky haze, nightclub ambience"
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 86
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 101
 
 ---
 
@@ -871,7 +871,65 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 76
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 80
+
+---
+
+#### Beautiful girl wearing red dress
+
+<img src="https://cdn.bestnanobananaprompt.com/zsq898cev2_1769389508255.jpg" width="400" alt="Beautiful girl wearing red dress">
+
+**Prompt:**
+```
+{
+  "image_analysis": {
+    "subject": {
+      "identity": "young adult female model (early 20s)",
+      "appearance": {
+        "hair": "Long silver-grey hair, smooth and straight, clean center part",
+        "expression": "Calm, confident gaze with a subtle closed-lip smile",
+        "skin": "Even-toned, natural texture with soft glow"
+      },
+      "accessories": [
+        "Thin gold hoop earrings",
+        "Minimal gold necklace",
+        "Delicate gold rings",
+        "Small nose stud"
+      ]
+    },
+    "attire": {
+      "garment": "Red mini dress",
+      "style": "Modern evening wear",
+      "fabric": "Satin or silk with soft reflective sheen",
+      "design_details": [
+        "Slim straps",
+        "Body-skimming fit",
+        "Clean neckline",
+        "Short hemline"
+      ]
+    },
+    "environment": {
+      "setting": "Urban outdoor location",
+      "scene": "Luxury hotel terrace or city rooftop",
+      "time_of_day": "Night",
+      "background": "Blurred city lights and architectural lines"
+    },
+    "lighting_and_mood": {
+      "lighting": "Directional soft spotlight on subject",
+      "ambient": "Warm city light mixed with cool night tones",
+      "atmosphere": "Editorial, elegant, high-fashion mood"
+    },
+    "composition": {
+      "framing": "Medium portrait shot (waist-up)",
+      "angle": "Slight low angle for confidence",
+      "pose": "Relaxed posture, one arm resting by side, body subtly angled",
+      "focus": "Sharp subject with creamy bokeh background"
+    }
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 67
 
 ---
 
@@ -890,7 +948,7 @@ Car interior matches exactly: beige seats, rear headrests, seatbelt line, partia
 Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 59
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 66
 
 ---
 
@@ -903,66 +961,7 @@ Lighting: strong midday sunlight from above/front, natural shadows. Style: sligh
 cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 50
-
----
-
-#### Young woman with a faired complexion
-
-<img src="https://cdn.bestnanobananaprompt.com/ha7j9ax5rmv_1768541578682.jpg" width="400" alt="Young woman with a faired complexion">
-
-**Prompt:**
-```
-{
-  "prompt_details": {
-    "subject": {
-      "description": "Young woman with a faired complexion and voluminous, layered brunette hair featuring honey-blonde highlights styled in loose, glamorous waves.",
-      "features": "Soft facial features, full lips, neutral expression, gazing off-camera to the right.",
-      "skin_texture": "Smooth, sun-kissed skin with realistic texture and subtle sheen."
-    },
-    "outfit": {
-      "garment": "White semi-sheer lace mini dress with a delicate floral pattern.",
-      "details": "Spaghetti straps tied in bows at the shoulders, sweetheart neckline, fitted bodice, flowy skirt with a scalloped raw-edge hem.",
-      "style": "Coquette aesthetic, summer resort wear, romantic and feminine."
-    },
-    "accessories": {
-      "item": "Woven straw market basket or tote bag placed on the ledge behind the subject.",
-      "texture": "Natural dried palm leaf texture."
-    },
-    "pose": {
-      "action": "Sitting gracefully on a textured stone garden wall.",
-      "body_language": "One leg bent at the knee, hands resting gently on the stone surface, posture upright but relaxed."
-    },
-    "environment": {
-      "setting": "Luxurious Mediterranean-style estate or villa garden.",
-      "foreground": "Rough-hewn beige stone wall/ledge.",
-      "background": "Manicured green lawn, sculpted hedges, large estate building with Spanish colonial architecture (stucco walls, tiled roof, tower), bright blue sky with fluffy white cumulus clouds.",
-      "atmosphere": "High-end vacation, tranquil, affluent summer day."
-    },
-    "lighting": {
-      "type": "Bright natural daylight.",
-      "quality": "Sun-drenched illumination, soft but distinct shadows indicating overhead sun, realistic global illumination."
-    },
-    "mood": {
-      "vibe": "Elegant, dreamy, serene, sophisticated, 'old money' aesthetic.",
-      "tone": "Warm, bright, and airy."
-    },
-    "camera_settings": {
-      "lens": "50mm portrait lens.",
-      "aperture": "f/2.8 for slight background separation while keeping the subject sharp.",
-      "shutter_speed": "1/250s.",
-      "iso": "100.",
-      "perspective": "Eye-level shot capturing the subject and the estate background."
-    },
-    "technical_specs": {
-      "quality": "Ultra-photorealistic, 8k resolution, raw photo style, highly detailed textures (lace, stone, hair), masterpiece, cinematic composition.",
-      "engine": "Unreal Engine 5 render style or high-end DSLR photography."
-    }
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=39cef9c3-1711-4198-812e-19dd20152c2b)** | Likes: 49
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 62
 
 ---
 
@@ -978,7 +977,7 @@ cinematic portrait photography, motion blur crowd effect, urban stillness aesthe
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 127
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 145
 
 ---
 
@@ -1079,7 +1078,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 85
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 93
 
 ---
 
@@ -1092,7 +1091,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sitting relaxed on a bed or patterned cushion, body slightly leaning back with hand support, right hand holding a light-colored smartphone, looking at the screen. Keep the uploaded face exactly the same: identical identity, structure, proportions, no reshaping or beautification. Natural skin texture with glass-skin glow, visible pores, subtle under-eye shadows. Hair: curly, Outfit: white shirt rolled sleves with same colour engraved lolipop logo at middle of chest, light blue baggy denim jeans, silver watch (left wrist), silver bracelet (right wrist), indoor glasses worn. White-grey sneakers visible. Environment: minimal modern bedroom, black wardrobe doors, grey background. Lighting: soft natural indoor light, realistic shadows, side window with sheer curtain, mild golden-hour highlights. Style: realistic smartphone photo, natural colors, no HDR, high-detail textures, High Resulation image.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 24
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 27
 
 ---
 
@@ -1137,7 +1136,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 49
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 62
 
 ---
 
@@ -1150,7 +1149,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 32
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 41
 
 ---
 
@@ -1165,82 +1164,34 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 27
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 30
 
 ---
 
-#### generate personalized wallpapers
+#### Swiss alpine winter portrait of a young man
 
-<img src="https://cdn.bestnanobananaprompt.com/nnfet0bajad_1769389640495.jpg" width="400" alt="generate personalized wallpapers">
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400057459_dlqnss.jpg" width="400" alt="Swiss alpine winter portrait of a young man">
 
 **Prompt:**
 ```
-{
-  "main_prompt": "A vibrant urban sunset in a stylized, cartoonish art style. The scene features a cityscape with iconic skyscrapers, including the Empire State Building, One World Trade Center, and the Chrysler Building, illuminated by warm, golden lights against a gradient sky transitioning from deep purple to soft pinks. A train passes over a bridge in the foreground, while a silhouetted figure with short curly hair stands on a rooftop, gazing at the city. The atmosphere is serene and contemplative, with a mix of urban energy and peaceful solitude.",
-  "subject": "The main subject is a cartoon-style cityscape with prominent skyscrapers, a train crossing a bridge, and a silhouette of a person on a rooftop. The composition includes a mix of architectural elements, transportation, and human presence, creating a dynamic and engaging urban scene.",
-  "style": "Cartoonish, stylized, and vibrant",
-  "composition": "The scene is shot from a slightly elevated angle, capturing the train bridge and the skyline in the background. The framing includes the city buildings, the train, and the silhouetted figure on the rooftop, creating a balanced and immersive composition.",
-  "lighting": "The lighting is warm and golden, with a sunset atmosphere. The buildings are lit up, creating a contrast with the darker foreground and the sky. The overall mood is peaceful and reflective.",
-  "colors": "The color palette includes deep purples, soft pinks, warm golds, and neutral grays of the buildings and bridge. The dominant colors are the warm tones of the sunset and the cool tones of the sky and buildings.",
-  "mood": "Serene and contemplative, with a mix of urban energy and solitude.",
-  "textures": "Notable textures include the smooth surfaces of the buildings, the metallic sheen of the train, and the soft, diffused light of the sunset. The rooftops and silhouettes add a sense of depth and dimension to the scene.",
-  "quality_tags": [
-    "cartoonish",
-    "vibrant",
-    "urban skyline",
-    "sunset",
-    "silhouette",
-    "train",
-    "architecture"
-  ],
-  "negative_prompt": "Avoid realistic details, overly detailed backgrounds, overly bright lighting, and cluttered compositions."
-}
+Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a Swiss alpine village during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+
+Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e4f6a4f-2188-4745-8b38-787ef74d8ef3)** | Likes: 20
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 26
 
 ---
 
 
 ### Illustration
-
-#### N Infographic Image Of Object
-
-<img src="https://cdn.bestnanobananaprompt.com/1oolkub5ffm_1768957380830.jpg" width="400" alt="N Infographic Image Of Object">
-
-**Prompt:**
-```
-Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
-
-Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
-•Key component labels
-•Internal cutaway or exploded-view outlines
-•Measurements, dimensions, and scale markers
-•Material callouts and quantities
-•Arrows indicating function, force, or flow (air, sound, power, pressure)
-•Simple schematic or sectional diagrams where relevant
-
-Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
-
-Style & layout rules:
-•The real object remains clearly visible beneath the annotations
-•Annotations feel sketched, technical, and architectural
-•Clean composition with balanced negative space
-•Educational, museum-exhibit / engineering-manual vibe
-
-Visual style:
-Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
-
-Color palette:
-White background, black annotation lines and text only. No colors.
-
-Output:
-1080×1080, ultra-crisp, social-feed optimized, no watermark.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 37
-
----
 
 #### Food Infographics by Nano Banana Pro
 
@@ -1276,7 +1227,58 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 30
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 46
+
+---
+
+#### N Infographic Image Of Object
+
+<img src="https://cdn.bestnanobananaprompt.com/1oolkub5ffm_1768957380830.jpg" width="400" alt="N Infographic Image Of Object">
+
+**Prompt:**
+```
+Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+•Key component labels
+•Internal cutaway or exploded-view outlines
+•Measurements, dimensions, and scale markers
+•Material callouts and quantities
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+•Simple schematic or sectional diagrams where relevant
+
+Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+•The real object remains clearly visible beneath the annotations
+•Annotations feel sketched, technical, and architectural
+•Clean composition with balanced negative space
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+White background, black annotation lines and text only. No colors.
+
+Output:
+1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 40
+
+---
+
+#### Ultra-clean Modern Recipe Infographic 2
+
+<img src="https://cdn.bestnanobananaprompt.com/fgr2q0p6z4r_1768873550871.jpg" width="400" alt="Ultra-clean Modern Recipe Infographic 2">
+
+**Prompt:**
+```
+“Ultra-clean modern recipe infographic. Showcase [FOOD] in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b33b68d8-98fb-46fa-b740-f30d3af6aeae)** | Likes: 25
 
 ---
 
@@ -1296,23 +1298,43 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 34
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 36
 
 ---
 
 
-### Creative
+### Other
 
-#### reimagines the subject as an ultra-detailed 3D graphite pencil sketch
+#### 坐在巨大光滑的白色岩层上
 
-<img src="https://cdn.bestnanobananaprompt.com/1h0k2guxdtri_1766110068366.jpg" width="400" alt="reimagines the subject as an ultra-detailed 3D graphite pencil sketch">
+<img src="https://cdn.bestnanobananaprompt.com/gpt4o_376_1764401236027.jpg" width="400" alt="坐在巨大光滑的白色岩层上">
 
 **Prompt:**
 ```
-Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject actively drawing, with their hand holding a pencil as the sketch comes to life. Include an eraser, sharpener, and scattered pencil shavings resting on the page. Add realistic shadows, smudges, and fine graphite residue around the working area to reinforce the tactile, hand-drawn feel.
+A hyper-realistic portrait of a young man sitting on large, smooth white rocky formations under natural sunlight. He is wearing a loose, slightly crumpled beige linen shirt with the top buttons open, paired with white trousers. His outfit gives a relaxed, Mediterranean vibe.
+He is leaning back, one arm resting on the rock, and the other hand on his knee, looking slightly to the side. He wears slim black rectangular sunglasses. His hairstyle is short, slightly messy, and the sunlight casts soft shadows across his outfit and the textured rocks.
+The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=0fb03e64-c370-4b35-8bd2-003b77b4c02d)** | Likes: 21
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 24
+
+---
+
+
+### Product Photography
+
+#### First-person Perspective Inside A Brightly Lit Supermarket
+
+<img src="https://cdn.bestnanobananaprompt.com/fv2cfepxvwt_1769389389045.jpg" width="400" alt="First-person Perspective Inside A Brightly Lit Supermarket">
+
+**Prompt:**
+```
+First-person perspective inside a brightly lit supermarket aisle. Realistic human hands are holding a bottle of Fanta soda close to the camera. The vivid orange drink in its iconic branded bottle is surrounded by a multi-layered holographic augmented reality interface displaying nutritional data, including calorie count, sugar content, caffeine level, freshness indicator, expiration date, and recommended refreshing recipes and cocktails based on Fanta.
+The UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where Fanta is highlighted as the currently active selection.
+Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 24
 
 ---
 
