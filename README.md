@@ -66,7 +66,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 357
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 430
 
 ---
 
@@ -79,7 +79,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 261
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 274
 
 ---
 
@@ -190,7 +190,7 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 167
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 203
 
 ---
 
@@ -317,7 +317,7 @@ changed background
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 161
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 196
 
 ---
 
@@ -428,7 +428,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 146
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 156
 
 ---
 
@@ -746,7 +746,65 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 106
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 114
+
+---
+
+#### Beautiful girl wearing red dress
+
+<img src="https://cdn.bestnanobananaprompt.com/zsq898cev2_1769389508255.jpg" width="400" alt="Beautiful girl wearing red dress">
+
+**Prompt:**
+```
+{
+  "image_analysis": {
+    "subject": {
+      "identity": "young adult female model (early 20s)",
+      "appearance": {
+        "hair": "Long silver-grey hair, smooth and straight, clean center part",
+        "expression": "Calm, confident gaze with a subtle closed-lip smile",
+        "skin": "Even-toned, natural texture with soft glow"
+      },
+      "accessories": [
+        "Thin gold hoop earrings",
+        "Minimal gold necklace",
+        "Delicate gold rings",
+        "Small nose stud"
+      ]
+    },
+    "attire": {
+      "garment": "Red mini dress",
+      "style": "Modern evening wear",
+      "fabric": "Satin or silk with soft reflective sheen",
+      "design_details": [
+        "Slim straps",
+        "Body-skimming fit",
+        "Clean neckline",
+        "Short hemline"
+      ]
+    },
+    "environment": {
+      "setting": "Urban outdoor location",
+      "scene": "Luxury hotel terrace or city rooftop",
+      "time_of_day": "Night",
+      "background": "Blurred city lights and architectural lines"
+    },
+    "lighting_and_mood": {
+      "lighting": "Directional soft spotlight on subject",
+      "ambient": "Warm city light mixed with cool night tones",
+      "atmosphere": "Editorial, elegant, high-fashion mood"
+    },
+    "composition": {
+      "framing": "Medium portrait shot (waist-up)",
+      "angle": "Slight low angle for confidence",
+      "pose": "Relaxed posture, one arm resting by side, body subtly angled",
+      "focus": "Sharp subject with creamy bokeh background"
+    }
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 102
 
 ---
 
@@ -871,65 +929,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 87
-
----
-
-#### Beautiful girl wearing red dress
-
-<img src="https://cdn.bestnanobananaprompt.com/zsq898cev2_1769389508255.jpg" width="400" alt="Beautiful girl wearing red dress">
-
-**Prompt:**
-```
-{
-  "image_analysis": {
-    "subject": {
-      "identity": "young adult female model (early 20s)",
-      "appearance": {
-        "hair": "Long silver-grey hair, smooth and straight, clean center part",
-        "expression": "Calm, confident gaze with a subtle closed-lip smile",
-        "skin": "Even-toned, natural texture with soft glow"
-      },
-      "accessories": [
-        "Thin gold hoop earrings",
-        "Minimal gold necklace",
-        "Delicate gold rings",
-        "Small nose stud"
-      ]
-    },
-    "attire": {
-      "garment": "Red mini dress",
-      "style": "Modern evening wear",
-      "fabric": "Satin or silk with soft reflective sheen",
-      "design_details": [
-        "Slim straps",
-        "Body-skimming fit",
-        "Clean neckline",
-        "Short hemline"
-      ]
-    },
-    "environment": {
-      "setting": "Urban outdoor location",
-      "scene": "Luxury hotel terrace or city rooftop",
-      "time_of_day": "Night",
-      "background": "Blurred city lights and architectural lines"
-    },
-    "lighting_and_mood": {
-      "lighting": "Directional soft spotlight on subject",
-      "ambient": "Warm city light mixed with cool night tones",
-      "atmosphere": "Editorial, elegant, high-fashion mood"
-    },
-    "composition": {
-      "framing": "Medium portrait shot (waist-up)",
-      "angle": "Slight low angle for confidence",
-      "pose": "Relaxed posture, one arm resting by side, body subtly angled",
-      "focus": "Sharp subject with creamy bokeh background"
-    }
-  }
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 86
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 93
 
 ---
 
@@ -942,7 +942,7 @@ changed background
 cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 75
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 86
 
 ---
 
@@ -961,7 +961,7 @@ Car interior matches exactly: beige seats, rear headrests, seatbelt line, partia
 Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 71
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 75
 
 ---
 
@@ -977,7 +977,7 @@ Lighting: strong midday sunlight from above/front, natural shadows. Style: sligh
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 158
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 165
 
 ---
 
@@ -1078,7 +1078,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 111
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 120
 
 ---
 
@@ -1091,7 +1091,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sitting relaxed on a bed or patterned cushion, body slightly leaning back with hand support, right hand holding a light-colored smartphone, looking at the screen. Keep the uploaded face exactly the same: identical identity, structure, proportions, no reshaping or beautification. Natural skin texture with glass-skin glow, visible pores, subtle under-eye shadows. Hair: curly, Outfit: white shirt rolled sleves with same colour engraved lolipop logo at middle of chest, light blue baggy denim jeans, silver watch (left wrist), silver bracelet (right wrist), indoor glasses worn. White-grey sneakers visible. Environment: minimal modern bedroom, black wardrobe doors, grey background. Lighting: soft natural indoor light, realistic shadows, side window with sheer curtain, mild golden-hour highlights. Style: realistic smartphone photo, natural colors, no HDR, high-detail textures, High Resulation image.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 36
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 37
 
 ---
 
@@ -1136,7 +1136,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 69
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 73
 
 ---
 
@@ -1149,7 +1149,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 46
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 47
 
 ---
 
@@ -1164,7 +1164,7 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 37
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 38
 
 ---
 
@@ -1186,7 +1186,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 30
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 36
 
 ---
 
@@ -1259,7 +1259,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 56
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 69
 
 ---
 
@@ -1297,7 +1297,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 41
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 44
 
 ---
 
@@ -1317,7 +1317,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 45
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 53
 
 ---
 
@@ -1335,25 +1335,7 @@ The UI elements smoothly shift and reorganize based on the viewer’s gaze direc
 Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 31
-
----
-
-
-### Other
-
-#### 坐在巨大光滑的白色岩层上
-
-<img src="https://cdn.bestnanobananaprompt.com/gpt4o_376_1764401236027.jpg" width="400" alt="坐在巨大光滑的白色岩层上">
-
-**Prompt:**
-```
-A hyper-realistic portrait of a young man sitting on large, smooth white rocky formations under natural sunlight. He is wearing a loose, slightly crumpled beige linen shirt with the top buttons open, paired with white trousers. His outfit gives a relaxed, Mediterranean vibe.
-He is leaning back, one arm resting on the rock, and the other hand on his knee, looking slightly to the side. He wears slim black rectangular sunglasses. His hairstyle is short, slightly messy, and the sunlight casts soft shadows across his outfit and the textured rocks.
-The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 28
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 37
 
 ---
 
