@@ -19,7 +19,167 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 
 <!-- GALLERY_START -->
 
+### Illustration
+
+#### Ultra-clean Modern Recipe Infographic
+
+<img src="https://cdn.bestnanobananaprompt.com/9ica08x9wuo_1768873465070.jpg" width="400" alt="Ultra-clean Modern Recipe Infographic">
+
+**Prompt:**
+```
+“Ultra-clean modern recipe infographic. Showcase briyani in a visually appealing finished form—sliced, plated, or portioned—floating slightly in perspective or angled view. Arrange ingredients, steps, and tips around the dish in a dynamic editorial layout, not restricted to top-down. Ingredients Section: Include icons or mini illustrations for each ingredient with quantities. Arrange them in clusters, lists, or circular flows connected visually to the dish. Steps Section: Show preparation steps with numbered panels, arrows, or lines, forming a logical flow around the main dish. Include small cooking icons (knife, pan, oven, timer) where helpful. Additional Info (optional): Total calories, prep/cook time, servings, spice level—displayed as clean bubbles or badges near the dish. Visual Style: Editorial infographic meets lifestyle food photography. Vibrant, natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels. Accent colors can highlight key info (calories, prep time). Composition Guidelines: Finished meal as hero visual (perspective or angled) Ingredients and steps flow dynamically around the dish Clear visual hierarchy: dish > steps > ingredients > optional stats Enough negative space to keep design airy and readable Lighting & Background: Soft, natural studio lighting, minimal textured or gradient background for premium editorial feel. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=0590d5ad-a63c-4ed2-a963-473f2bdfc815)** | Likes: 1260
+
+---
+
+#### A High-resolution Full-body Mirror Selfie Of A
+
+<img src="https://cdn.bestnanobananaprompt.com/85vlueli8vm_1766889648741.jpg" width="400" alt="A High-resolution Full-body Mirror Selfie Of A">
+
+**Prompt:**
+```
+"A high-resolution full-body mirror selfie of a young woman sitting cross-legged (comfortable pose) on a white bed with black floral print bedding. She has long, straight black hair parted in the middle. She is wearing a white, strappy mini dress with lace trim and bow-tied straps. She is holding a black smartphone with a red cloud pattern case (Akatsuki) in her right hand, covering part of her face, while her left index finger is pressed to her lips in a 'shh' gesture. Visible tattoos on both forearms, upper chest, and right thigh. The background shows a large mirror reflecting a bright window with sheer white curtains and a white metal bed frame with purple flowers. Soft, natural, bright lighting, 8k, ultra-realistic, skin texture.",
+  "negative_prompt": "blurred, low quality, distorted face, extra limbs, deformed hands, bad anatomy, unnatural lighting, cartoon, anime, illustration, painting, text, watermark, multiple people, standing, legs extended, shoes, dark room, harsh shadows",
+  "width": 1024,
+  "height": 1792,
+  "steps": 30,
+  "cfg_scale": 7.5,
+  "sampler_name": "Euler a",
+  "scheduler": "Karras",
+  "denoising_strength": 0.75,
+  "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 772
+
+---
+
+#### Project Nanobanana 3d Travel Suitcase Series
+
+<img src="https://cdn.bestnanobananaprompt.com/rmeas8a2di_1766890139106.jpg" width="400" alt="Project Nanobanana 3d Travel Suitcase Series">
+
+**Prompt:**
+```
+"project": "NanoBanana 3D Travel Suitcase Series",
+  "aspect_ratio": "2:3",
+  "prompts": [
+    {
+      "id": 1,
+      "theme": "Europe (Original Mix)",
+      "prompt_text": "NanoBanana Prompt: Open floating 3D suitcase with travel elements inside, suitcase flying in motion, plane ticket and camera on a solid blue background, world-famous landmarks such as the Eiffel Tower, leaning tower of Pisa, Big Ben and the city of Paris inside it, a hot air balloon flying above, a blue coloured suitcase, a travel concept illustration design for advertising or a social media post template --ar 2:3"
+    }
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 185
+
+---
+
+#### Food Infographics by Nano Banana Pro
+
+<img src="https://cdn.bestnanobananaprompt.com/xejzhwqhw6_1769389572683.jpg" width="400" alt="Food Infographics by Nano Banana Pro">
+
+**Prompt:**
+```
+“Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+•Key component labels
+•Internal cutaway or exploded-view outlines
+•Measurements, dimensions, and scale markers
+•Material callouts and quantities
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+•Simple schematic or sectional diagrams where relevant
+
+Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+•The real object remains clearly visible beneath the annotations
+•Annotations feel sketched, technical, and architectural
+•Clean composition with balanced negative space
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+White background, black annotation lines and text only. No colors.
+
+Output:
+1080×1080, ultra-crisp, social-feed optimized, no watermark.”
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 82
+
+---
+
+#### N Infographic Image Of Object
+
+<img src="https://cdn.bestnanobananaprompt.com/1oolkub5ffm_1768957380830.jpg" width="400" alt="N Infographic Image Of Object">
+
+**Prompt:**
+```
+Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
+
+Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
+•Key component labels
+•Internal cutaway or exploded-view outlines
+•Measurements, dimensions, and scale markers
+•Material callouts and quantities
+•Arrows indicating function, force, or flow (air, sound, power, pressure)
+•Simple schematic or sectional diagrams where relevant
+
+Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
+
+Style & layout rules:
+•The real object remains clearly visible beneath the annotations
+•Annotations feel sketched, technical, and architectural
+•Clean composition with balanced negative space
+•Educational, museum-exhibit / engineering-manual vibe
+
+Visual style:
+Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
+
+Color palette:
+White background, black annotation lines and text only. No colors.
+
+Output:
+1080×1080, ultra-crisp, social-feed optimized, no watermark.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 45
+
+---
+
+
 ### Portrait
+
+#### Ultra-realistic high-speed food photography
+
+<img src="https://cdn.bestnanobananaprompt.com/v0h6prwwv5_1770132496627.jpg" width="400" alt="Ultra-realistic high-speed food photography">
+
+**Prompt:**
+```
+{  "Ultra-realistic high-speed food photography of a transparent glass bowl filled with fresh mixed fruits captured mid-splash. Vivid strawberries, blueberries, raspberries, kiwi slices, and orange wedges erupt upward with crystal-clear water splashes frozen in motion. Individual water droplets suspended in the air, realistic fluid dynamics, sharp splash crowns, and natural refraction through glass. Fruits appear fresh, glossy, and richly textured with visible seeds, pulp, and skin detail. Dramatic studio lighting from above and slightly behind creates specular highlights on water and fruit surfaces. Dark, cinematic background with soft bokeh and strong contrast to enhance color saturation. Shallow depth of field with razor-sharp focus on the central splash and fruits. Premium commercial food photography aesthetic, hyper-realistic, ultra-detailed, cinematic realism, 8K quality.",
+  "style": "photorealistic",
+  "camera": {
+    "lens": "85mm macro",
+    "aperture": "f/4",
+    "iso": 100,
+    "shutter_speed": "1/2000"
+  },
+  "lighting": "high-speed studio lighting with strong backlight and soft fill, specular highlights on water droplets",
+  "background": "dark studio background with subtle bokeh and depth",
+  "composition": "centered glass bowl with vertical splash action and dynamic fruit distribution",
+  "quality": "8K ultra-high resolution",
+  "negative_prompt": "cartoon, illustration, CGI look, low detail, blur, motion smear, artificial colors, plastic texture, text, logo, watermark, hands, utensils, distortion"
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 664
+
+---
 
 #### you didn't look enough
 
@@ -66,7 +226,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 430
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 529
 
 ---
 
@@ -79,7 +239,20 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 274
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 289
+
+---
+
+#### Sunlit Urban Streetwear Portrait Of A Stylish
+
+<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
+
+**Prompt:**
+```
+Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 252
 
 ---
 
@@ -190,7 +363,7 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 203
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 242
 
 ---
 
@@ -317,7 +490,7 @@ changed background
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 196
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 230
 
 ---
 
@@ -428,7 +601,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 156
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 170
 
 ---
 
@@ -746,7 +919,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 114
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 122
 
 ---
 
@@ -804,7 +977,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 102
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 115
 
 ---
 
@@ -929,39 +1102,46 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 93
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=f8bd113b-ebd2-4f71-9173-93f22800a68e)** | Likes: 98
 
 ---
 
-#### Cinematic Portrait Photography
 
-<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
+### Minimalist
 
-**Prompt:**
-```
-cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
-```
+#### Kling Ai Nano Banana Pro
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 86
-
----
-
-#### Authentic Smartphone Wide-angle Selfie Inside A Beige-interior
-
-<img src="https://cdn.bestnanobananaprompt.com/f9zmwgrrsyu_1767575232306.jpg" width="400" alt="Authentic Smartphone Wide-angle Selfie Inside A Beige-interior">
+<img src="https://cdn.bestnanobananaprompt.com/ks2hf2bjzff_1767574810546.jpg" width="400" alt="Kling Ai Nano Banana Pro">
 
 **Prompt:**
 ```
-Authentic smartphone Wide-angle selfie inside a beige-interior car with sunroof. Young man seated front left, left arm stretched toward camera, camera slightly above and in front, arm closest to lens. Beige roof fills top frame with sun visor and overhead console visible; sunroof shows trees, sky, power lines. Hair: medium-length wavy texture voluminous.
+Kling AI + Nano banana pro 
 
-copy the uploaded reference image 1:1, reflective sunglasses, earbuds, relaxed confident expression, head slightly tilted right. Wearing loose textured grey-brown short-sleeve shirt slightly unbuttoned and light blue jeans. Left arm appears larger from perspective with visible skin texture.
+Motion Prompt: The plate start to spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.
 
-Car interior matches exactly: beige seats, rear headrests, seatbelt line, partial right front seat, rear window with washed-out street.
+ IMAGE:—  Using the first salad image as a base, create a clean exploded-view visualization of the same vegetable salad.
 
-Lighting: strong midday sunlight from above/front, natural shadows. Style: slightly desaturated, grainy, high-contrast street look. Keep pose, framing, perspective, and mood identical. No additions or changes
+The salad is separated into exactly the same 5 elements used in the original image, floating gently in a logical vertical or radial order:
+– Leafy greens
+– Cherry tomatoes
+– Cucumber slices
+– Avocado pieces
+– Vinaigrette dressing
+
+Each element is clearly isolated but visually aligned, maintaining realistic proportions and textures.
+
+Add short, readable annotations next to each ingredient, focused on benefits:
+– Leafy greens: “Fresh base, rich in nutrients”
+– Cherry tomatoes: “Natural sweetness and antioxidants”
+– Cucumber: “Crisp texture, refreshing hydration”
+– Avocado: “Healthy fats, creamy balance”
+– Vinaigrette: “Light dressing enhancing natural flavors”
+
+Background remains light, minimal, and consistent, ensuring high readability of annotations and visual continuity.
+Style is technical yet friendly, suitable for commercial explanation and marketing visuals.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=2a83cf05-2555-40dd-a7a1-d700b7cffa88)** | Likes: 75
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=268190a2-25d0-412e-875d-c7a15f3efa00)** | Likes: 393
 
 ---
 
@@ -977,7 +1157,7 @@ Lighting: strong midday sunlight from above/front, natural shadows. Style: sligh
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 165
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 176
 
 ---
 
@@ -1078,7 +1258,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 120
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 126
 
 ---
 
@@ -1091,7 +1271,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sitting relaxed on a bed or patterned cushion, body slightly leaning back with hand support, right hand holding a light-colored smartphone, looking at the screen. Keep the uploaded face exactly the same: identical identity, structure, proportions, no reshaping or beautification. Natural skin texture with glass-skin glow, visible pores, subtle under-eye shadows. Hair: curly, Outfit: white shirt rolled sleves with same colour engraved lolipop logo at middle of chest, light blue baggy denim jeans, silver watch (left wrist), silver bracelet (right wrist), indoor glasses worn. White-grey sneakers visible. Environment: minimal modern bedroom, black wardrobe doors, grey background. Lighting: soft natural indoor light, realistic shadows, side window with sheer curtain, mild golden-hour highlights. Style: realistic smartphone photo, natural colors, no HDR, high-detail textures, High Resulation image.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 37
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b536787c-8860-4e28-8bfa-497c18fb5dae)** | Likes: 38
 
 ---
 
@@ -1136,7 +1316,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 73
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 75
 
 ---
 
@@ -1149,22 +1329,7 @@ Casual mirror selfie in a modern bedroom.(use my face on this image) Subject sit
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 47
-
----
-
-#### Cinematic Series Of Shots Featuring
-
-<img src="https://cdn.bestnanobananaprompt.com/4j9kyaonfxp_1765871727391.jpg" width="400" alt="Cinematic Series Of Shots Featuring">
-
-**Prompt:**
-```
-A cinematic series of shots featuring the same young man outdoors at dusk. A young man wearing a black half shirt stands beside a classic car on a quiet rural road, surrounded by open fields and distant hills. The scene is captured from multiple cinematic angles across separate shots, including extreme close-up, medium shot, over-the-shoulder view, wide shot, high-angle top-down, low-angle perspective, profile view, three-quarter rear view, and full back view.
-
-The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 38
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 50
 
 ---
 
@@ -1186,7 +1351,22 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 36
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 47
+
+---
+
+#### Cinematic Series Of Shots Featuring
+
+<img src="https://cdn.bestnanobananaprompt.com/4j9kyaonfxp_1765871727391.jpg" width="400" alt="Cinematic Series Of Shots Featuring">
+
+**Prompt:**
+```
+A cinematic series of shots featuring the same young man outdoors at dusk. A young man wearing a black half shirt stands beside a classic car on a quiet rural road, surrounded by open fields and distant hills. The scene is captured from multiple cinematic angles across separate shots, including extreme close-up, medium shot, over-the-shoulder view, wide shot, high-angle top-down, low-angle perspective, profile view, three-quarter rear view, and full back view.
+
+The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 41
 
 ---
 
@@ -1218,86 +1398,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e4f6a4f-2188-4745-8b38-787ef74d8ef3)** | Likes: 29
-
----
-
-
-### Illustration
-
-#### Food Infographics by Nano Banana Pro
-
-<img src="https://cdn.bestnanobananaprompt.com/xejzhwqhw6_1769389572683.jpg" width="400" alt="Food Infographics by Nano Banana Pro">
-
-**Prompt:**
-```
-“Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
-
-Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
-•Key component labels
-•Internal cutaway or exploded-view outlines
-•Measurements, dimensions, and scale markers
-•Material callouts and quantities
-•Arrows indicating function, force, or flow (air, sound, power, pressure)
-•Simple schematic or sectional diagrams where relevant
-
-Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
-
-Style & layout rules:
-•The real object remains clearly visible beneath the annotations
-•Annotations feel sketched, technical, and architectural
-•Clean composition with balanced negative space
-•Educational, museum-exhibit / engineering-manual vibe
-
-Visual style:
-Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
-
-Color palette:
-White background, black annotation lines and text only. No colors.
-
-Output:
-1080×1080, ultra-crisp, social-feed optimized, no watermark.”
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 69
-
----
-
-#### N Infographic Image Of Object
-
-<img src="https://cdn.bestnanobananaprompt.com/1oolkub5ffm_1768957380830.jpg" width="400" alt="N Infographic Image Of Object">
-
-**Prompt:**
-```
-Create an infographic image of [OBJECT], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.
-
-Use black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:
-•Key component labels
-•Internal cutaway or exploded-view outlines
-•Measurements, dimensions, and scale markers
-•Material callouts and quantities
-•Arrows indicating function, force, or flow (air, sound, power, pressure)
-•Simple schematic or sectional diagrams where relevant
-
-Place the title [OBJECT] inside a hand-drawn technical annotation box in one corner.
-
-Style & layout rules:
-•The real object remains clearly visible beneath the annotations
-•Annotations feel sketched, technical, and architectural
-•Clean composition with balanced negative space
-•Educational, museum-exhibit / engineering-manual vibe
-
-Visual style:
-Minimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.
-
-Color palette:
-White background, black annotation lines and text only. No colors.
-
-Output:
-1080×1080, ultra-crisp, social-feed optimized, no watermark.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 44
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e4f6a4f-2188-4745-8b38-787ef74d8ef3)** | Likes: 37
 
 ---
 
@@ -1317,7 +1418,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 53
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 56
 
 ---
 
@@ -1335,7 +1436,7 @@ The UI elements smoothly shift and reorganize based on the viewer’s gaze direc
 Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 37
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 45
 
 ---
 
