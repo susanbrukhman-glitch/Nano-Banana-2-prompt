@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 775
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 778
 
 ---
 
@@ -72,7 +72,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
     }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 187
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 190
 
 ---
 
@@ -110,7 +110,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 86
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 88
 
 ---
 
@@ -177,7 +177,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 687
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 693
 
 ---
 
@@ -226,7 +226,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 609
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 626
 
 ---
 
@@ -239,131 +239,7 @@ Output:
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 314
-
----
-
-#### Sunlit Urban Streetwear Portrait Of A Stylish
-
-<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
-
-**Prompt:**
-```
-Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 262
-
----
-
-#### This Penguin is Everywhere in my feed right now
-
-<img src="https://cdn.bestnanobananaprompt.com/dt0bgwpgxxs_1769389477407.jpg" width="400" alt="This Penguin is Everywhere in my feed right now">
-
-**Prompt:**
-```
-{
-"action": "image_edit",
-"action_input": "Maintain the exact original face, skin texture, features, and expression of the man from the uploaded image. Place him in an ultra-realistic, raw DSLR-style outdoor photograph set in a snowy polar landscape. The man is wearing clear eyeglasses, a luxury black sunglasses tucked in his pocket or worn, a dark blue denim jacket over a white crew-neck t-shirt, blue cargo pants, and white sneakers with snow marks. He is wearing a brown trekking backpack. He is standing on snow-covered ground with huge icy mountains and glaciers under a clear blue sky. He is looking downward with a calm, curious expression at a real emperor penguin standing on the snow in front of him. One hand holds a backpack strap while the other is relaxed. The entire image must be in 100% sharp focus with 0% blur, 0% bokeh, and 0% depth of field. Use pure natural cold daylight with realistic shadows and footprints in the snow. No beauty filters, no skin smoothing, and no cinematic grading. Full-body shot."
-}
-Keep face 100% original and unchanged.
-No face reshaping, no beauty filter, no AI facial modification.
-Preserve real skin texture, facial features, expression, and identity exactly as original.
-
-Ultra-realistic real-life outdoor photograph, looks exactly like a raw DSLR/mobile photo taken in a real snowy location, not AI generated.
-
-IMPORTANT REALISM RULES:
-100% sharp focus everywhere.
-0% blur.
-0% bokeh.
-0% depth of field.
-No cinematic grading.
-No artificial texture.
-Must look completely real and natural.
-
-SUBJECT DETAILS:
-Young Indian male, athletic build.
-Medium brown skin tone with real skin texture.
-Short styled hair with clean fade.
-Trimmed beard.
-Wearing clear eyeglasses.
-Natural calm expression, slightly curious.
-Looking downward naturally.
-
-OUTFIT DETAILS:
-Dark blue denim jacket.
-White crew-neck t-shirt inside.
-Blue  cargo pants.
-White sneakers with snow marks.
-Brown trekking backpack worn on shoulders.
-Luxury black sunglasses 
-Black wristwatch.
-No extra accessories.
-
-POSE DETAILS:
-Standing casually on snow.
-One hand holding backpack strap.
-Other hand relaxed down.
-Body slightly turned.
-Head tilted down, looking at a penguin.
-Very natural candid posture.
-
-EXPRESSION DETAILS:
-Calm, slightly surprised, curious expression.
-No smile, no exaggeration.
-Natural human reaction.
-
-ANIMAL DETAILS:
-One real emperor penguin standing on snow.
-Penguin facing the man.
-Correct realistic size and posture.
-Natural interaction, no cartoon look.
-
-BACKGROUND & ENVIRONMENT:
-Snow-covered ground.
-Huge icy mountains and glaciers in background.
-Clear blue sky.
-Open polar-style landscape.
-Natural footprints visible on snow.
-No fake elements.
-
-LIGHTING DETAILS:
-Pure natural daylight.
-Cold daylight tone.
-Soft natural shadows on snow.
-Realistic highlights on clothes and face.
-No artificial lighting.
-
-CAMERA & COMPOSITION:
-Full-body portrait shot.
-Eye-level camera angle.
-Natural lens perspective.
-Everything crystal clear.
-Absolutely NO blur anywhere.
-
-STYLE & QUALITY:
-Hyper-realistic.
-Raw natural photography.
-No filters.
-No beautification.
-No smoothing.
-Visible fabric texture, snow grains, mountain details.
-Looks 100% real like a travel photo.
-
-NEGATIVE PROMPT (VERY STRICT):
-blur, motion blur, bokeh, depth of field,
-AI look, artificial texture, plastic skin,
-cinematic lighting, dramatic grading,
-beauty filter, smooth skin,
-studio lighting,
-cartoon, anime, illustration, CGI,
-fake snow, fake penguin,
-extra fingers, distorted body,
-changed outfit, changed pose,
-changed background
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 259
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 317
 
 ---
 
@@ -490,7 +366,131 @@ changed background
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 257
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 265
+
+---
+
+#### Sunlit Urban Streetwear Portrait Of A Stylish
+
+<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
+
+**Prompt:**
+```
+Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 263
+
+---
+
+#### This Penguin is Everywhere in my feed right now
+
+<img src="https://cdn.bestnanobananaprompt.com/dt0bgwpgxxs_1769389477407.jpg" width="400" alt="This Penguin is Everywhere in my feed right now">
+
+**Prompt:**
+```
+{
+"action": "image_edit",
+"action_input": "Maintain the exact original face, skin texture, features, and expression of the man from the uploaded image. Place him in an ultra-realistic, raw DSLR-style outdoor photograph set in a snowy polar landscape. The man is wearing clear eyeglasses, a luxury black sunglasses tucked in his pocket or worn, a dark blue denim jacket over a white crew-neck t-shirt, blue cargo pants, and white sneakers with snow marks. He is wearing a brown trekking backpack. He is standing on snow-covered ground with huge icy mountains and glaciers under a clear blue sky. He is looking downward with a calm, curious expression at a real emperor penguin standing on the snow in front of him. One hand holds a backpack strap while the other is relaxed. The entire image must be in 100% sharp focus with 0% blur, 0% bokeh, and 0% depth of field. Use pure natural cold daylight with realistic shadows and footprints in the snow. No beauty filters, no skin smoothing, and no cinematic grading. Full-body shot."
+}
+Keep face 100% original and unchanged.
+No face reshaping, no beauty filter, no AI facial modification.
+Preserve real skin texture, facial features, expression, and identity exactly as original.
+
+Ultra-realistic real-life outdoor photograph, looks exactly like a raw DSLR/mobile photo taken in a real snowy location, not AI generated.
+
+IMPORTANT REALISM RULES:
+100% sharp focus everywhere.
+0% blur.
+0% bokeh.
+0% depth of field.
+No cinematic grading.
+No artificial texture.
+Must look completely real and natural.
+
+SUBJECT DETAILS:
+Young Indian male, athletic build.
+Medium brown skin tone with real skin texture.
+Short styled hair with clean fade.
+Trimmed beard.
+Wearing clear eyeglasses.
+Natural calm expression, slightly curious.
+Looking downward naturally.
+
+OUTFIT DETAILS:
+Dark blue denim jacket.
+White crew-neck t-shirt inside.
+Blue  cargo pants.
+White sneakers with snow marks.
+Brown trekking backpack worn on shoulders.
+Luxury black sunglasses 
+Black wristwatch.
+No extra accessories.
+
+POSE DETAILS:
+Standing casually on snow.
+One hand holding backpack strap.
+Other hand relaxed down.
+Body slightly turned.
+Head tilted down, looking at a penguin.
+Very natural candid posture.
+
+EXPRESSION DETAILS:
+Calm, slightly surprised, curious expression.
+No smile, no exaggeration.
+Natural human reaction.
+
+ANIMAL DETAILS:
+One real emperor penguin standing on snow.
+Penguin facing the man.
+Correct realistic size and posture.
+Natural interaction, no cartoon look.
+
+BACKGROUND & ENVIRONMENT:
+Snow-covered ground.
+Huge icy mountains and glaciers in background.
+Clear blue sky.
+Open polar-style landscape.
+Natural footprints visible on snow.
+No fake elements.
+
+LIGHTING DETAILS:
+Pure natural daylight.
+Cold daylight tone.
+Soft natural shadows on snow.
+Realistic highlights on clothes and face.
+No artificial lighting.
+
+CAMERA & COMPOSITION:
+Full-body portrait shot.
+Eye-level camera angle.
+Natural lens perspective.
+Everything crystal clear.
+Absolutely NO blur anywhere.
+
+STYLE & QUALITY:
+Hyper-realistic.
+Raw natural photography.
+No filters.
+No beautification.
+No smoothing.
+Visible fabric texture, snow grains, mountain details.
+Looks 100% real like a travel photo.
+
+NEGATIVE PROMPT (VERY STRICT):
+blur, motion blur, bokeh, depth of field,
+AI look, artificial texture, plastic skin,
+cinematic lighting, dramatic grading,
+beauty filter, smooth skin,
+studio lighting,
+cartoon, anime, illustration, CGI,
+fake snow, fake penguin,
+extra fingers, distorted body,
+changed outfit, changed pose,
+changed background
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 261
 
 ---
 
@@ -601,7 +601,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 186
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 189
 
 ---
 
@@ -652,7 +652,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 157
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 182
 
 ---
 
@@ -970,7 +970,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 142
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 144
 
 ---
 
@@ -1028,7 +1028,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 127
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 132
 
 ---
 
@@ -1083,7 +1083,7 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 196
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 202
 
 ---
 
@@ -1184,7 +1184,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 148
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 151
 
 ---
 
@@ -1229,7 +1229,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 91
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 94
 
 ---
 
@@ -1251,7 +1251,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 68
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 72
 
 ---
 
@@ -1264,7 +1264,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 62
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 66
 
 ---
 
@@ -1279,7 +1279,7 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 55
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 60
 
 ---
 
@@ -1329,27 +1329,7 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 47
-
----
-
-
-### Fashion Photography
-
-#### Paparazzi-style Extreme Close-up Photo Of A Woman
-
-<img src="https://cdn.bestnanobananaprompt.com/atxcw2hxmc9_1768540442711.jpg" width="400" alt="Paparazzi-style Extreme Close-up Photo Of A Woman">
-
-**Prompt:**
-```
-Paparazzi-style extreme close-up photo of a woman with striking facial features, caught off-guard while turning toward the camera. Face and shoulders only, shot from a low angle. Strong harsh on-camera flash, grainy high-ISO, raw candid street-photography feel. Background shows a crowded scene with motion blur (Paris Fashion Week atmosphere). Intense, spontaneous energy, imperfect and real. She is wearing a school uniform. Ultra-realistic, cinematic realism, high detail skin texture, slight lens distortion.
-
-Camera style: “35mm paparazzi lens, f/2.8, flash blown highlights”
-Look: “2000s tabloid photo aesthetic”
-Quality: “sharp focus on face, background heavily blurred and streaked”
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 69
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 51
 
 ---
 
@@ -1373,7 +1353,27 @@ Quality: “sharp focus on face, background heavily blurred and streaked”
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 57
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 80
+
+---
+
+
+### Fashion Photography
+
+#### Paparazzi-style Extreme Close-up Photo Of A Woman
+
+<img src="https://cdn.bestnanobananaprompt.com/atxcw2hxmc9_1768540442711.jpg" width="400" alt="Paparazzi-style Extreme Close-up Photo Of A Woman">
+
+**Prompt:**
+```
+Paparazzi-style extreme close-up photo of a woman with striking facial features, caught off-guard while turning toward the camera. Face and shoulders only, shot from a low angle. Strong harsh on-camera flash, grainy high-ISO, raw candid street-photography feel. Background shows a crowded scene with motion blur (Paris Fashion Week atmosphere). Intense, spontaneous energy, imperfect and real. She is wearing a school uniform. Ultra-realistic, cinematic realism, high detail skin texture, slight lens distortion.
+
+Camera style: “35mm paparazzi lens, f/2.8, flash blown highlights”
+Look: “2000s tabloid photo aesthetic”
+Quality: “sharp focus on face, background heavily blurred and streaked”
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 72
 
 ---
 
@@ -1391,7 +1391,7 @@ The UI elements smoothly shift and reorganize based on the viewer’s gaze direc
 Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 52
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 53
 
 ---
 
@@ -1409,7 +1409,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 48
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 52
 
 ---
 
