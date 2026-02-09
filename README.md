@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 778
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 780
 
 ---
 
@@ -72,7 +72,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
     }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 190
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 191
 
 ---
 
@@ -110,7 +110,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 88
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=5082ff56-cdb5-465b-b8c9-a2dcd68188d0)** | Likes: 92
 
 ---
 
@@ -148,7 +148,7 @@ Output:
 1080×1080, ultra-crisp, social-feed optimized, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 52
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=d23be292-304e-44bc-a0dd-eee47b317120)** | Likes: 55
 
 ---
 
@@ -177,7 +177,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 693
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 704
 
 ---
 
@@ -226,7 +226,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 626
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 640
 
 ---
 
@@ -239,7 +239,20 @@ Output:
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 317
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 327
+
+---
+
+#### Sunlit Urban Streetwear Portrait Of A Stylish
+
+<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
+
+**Prompt:**
+```
+Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 268
 
 ---
 
@@ -366,20 +379,7 @@ Output:
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 265
-
----
-
-#### Sunlit Urban Streetwear Portrait Of A Stylish
-
-<img src="https://cdn.bestnanobananaprompt.com/y7hwj0leut8_1768322397966.jpg" width="400" alt="Sunlit Urban Streetwear Portrait Of A Stylish">
-
-**Prompt:**
-```
-Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 263
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 268
 
 ---
 
@@ -490,7 +490,58 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 261
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 266
+
+---
+
+#### Young woman with long, wavy split-dyed hair
+
+<img src="https://cdn.bestnanobananaprompt.com/jzsn2wt7vx_1769947162187.jpg" width="400" alt="Young woman with long, wavy split-dyed hair">
+
+**Prompt:**
+```
+{
+  "subject": {
+    "description": "Young woman with long, wavy split-dyed hair (half jet black, half platinum blonde) and straight-cut bangs. Facial features include soft doe-eyes with winged eyeliner and a delicate nose.",
+    "body": "Extraordinarily pronounced hourglass figure with an extreme waist-to-hip ratio. Her waist is extremely narrow, contrasting with very large, prominent, and full rounded glutes. Wide pelvic structure with an exaggerated lower body curve and voluminous thighs. Slender, toned upper body and limbs with anatomically precise skin textures and subtle muscle definition in the lower back."
+  },
+  "wardrobe": {
+    "top": "Simple pink cropped tank top.",
+    "bottom": "Minimalist thin black bikini bottom with high-cut side straps; the garment is designed to emphasize the extreme lower body proportions and the voluminous curvature of the large glutes.",
+    "feet": "Bare feet, no socks, natural skin texture.",
+    "accessories": "Smartphone with a pink case."
+  },
+  "pose_action": {
+    "position": "Lying prone on a white bed, propped up on elbows. Chin resting on one hand, while the other hand holds the phone for a mirror selfie.",
+    "legs": "Legs bent at the knees, feet raised vertically toward the ceiling."
+  },
+  "scene": {
+    "environment": "Minimalist bedroom with neutral-toned walls. Large bed with rumpled white linens and plush pillows.",
+    "background": "Soft window light entering from the side, creating a clean, domestic atmosphere.",
+    "reflection_integrity": "Mirror reflection must accurately synchronize the subject's pose, hair color split, and the phone case position. Reflection rules apply to maintain anatomical consistency."
+  },
+  "lighting": {
+    "type": "Soft, natural daylight from a lateral window source.",
+    "effects": "Gentle shadows emphasizing the deep curvature of the hips and the texture of the bedding; high dynamic range."
+  },
+  "camera": {
+    "aspect_ratio": "9:16",
+    "angle": "Eye-level mirror shot, medium-full body framing.",
+    "technical": "High-resolution portrait photography, sharp focus on the subject with soft background bokeh, 8k resolution, professional studio quality."
+  },
+  "negative_constraints": [
+    "no socks",
+    "no logos",
+    "no text",
+    "no beautify smoothing",
+    "no extra limbs",
+    "no watermark",
+    "no distorted proportions in reflection"
+  ]
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 210
 
 ---
 
@@ -601,58 +652,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 189
-
----
-
-#### Young woman with long, wavy split-dyed hair
-
-<img src="https://cdn.bestnanobananaprompt.com/jzsn2wt7vx_1769947162187.jpg" width="400" alt="Young woman with long, wavy split-dyed hair">
-
-**Prompt:**
-```
-{
-  "subject": {
-    "description": "Young woman with long, wavy split-dyed hair (half jet black, half platinum blonde) and straight-cut bangs. Facial features include soft doe-eyes with winged eyeliner and a delicate nose.",
-    "body": "Extraordinarily pronounced hourglass figure with an extreme waist-to-hip ratio. Her waist is extremely narrow, contrasting with very large, prominent, and full rounded glutes. Wide pelvic structure with an exaggerated lower body curve and voluminous thighs. Slender, toned upper body and limbs with anatomically precise skin textures and subtle muscle definition in the lower back."
-  },
-  "wardrobe": {
-    "top": "Simple pink cropped tank top.",
-    "bottom": "Minimalist thin black bikini bottom with high-cut side straps; the garment is designed to emphasize the extreme lower body proportions and the voluminous curvature of the large glutes.",
-    "feet": "Bare feet, no socks, natural skin texture.",
-    "accessories": "Smartphone with a pink case."
-  },
-  "pose_action": {
-    "position": "Lying prone on a white bed, propped up on elbows. Chin resting on one hand, while the other hand holds the phone for a mirror selfie.",
-    "legs": "Legs bent at the knees, feet raised vertically toward the ceiling."
-  },
-  "scene": {
-    "environment": "Minimalist bedroom with neutral-toned walls. Large bed with rumpled white linens and plush pillows.",
-    "background": "Soft window light entering from the side, creating a clean, domestic atmosphere.",
-    "reflection_integrity": "Mirror reflection must accurately synchronize the subject's pose, hair color split, and the phone case position. Reflection rules apply to maintain anatomical consistency."
-  },
-  "lighting": {
-    "type": "Soft, natural daylight from a lateral window source.",
-    "effects": "Gentle shadows emphasizing the deep curvature of the hips and the texture of the bedding; high dynamic range."
-  },
-  "camera": {
-    "aspect_ratio": "9:16",
-    "angle": "Eye-level mirror shot, medium-full body framing.",
-    "technical": "High-resolution portrait photography, sharp focus on the subject with soft background bokeh, 8k resolution, professional studio quality."
-  },
-  "negative_constraints": [
-    "no socks",
-    "no logos",
-    "no text",
-    "no beautify smoothing",
-    "no extra limbs",
-    "no watermark",
-    "no distorted proportions in reflection"
-  ]
-}
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 182
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 194
 
 ---
 
@@ -970,65 +970,20 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 144
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bdc4b04f-d4e7-4d63-85af-45fa6773aeaa)** | Likes: 147
 
 ---
 
-#### Beautiful girl wearing red dress
+#### Cinematic Portrait Photography
 
-<img src="https://cdn.bestnanobananaprompt.com/zsq898cev2_1769389508255.jpg" width="400" alt="Beautiful girl wearing red dress">
+<img src="https://cdn.bestnanobananaprompt.com/qkuayus931c_1766326604757.jpg" width="400" alt="Cinematic Portrait Photography">
 
 **Prompt:**
 ```
-{
-  "image_analysis": {
-    "subject": {
-      "identity": "young adult female model (early 20s)",
-      "appearance": {
-        "hair": "Long silver-grey hair, smooth and straight, clean center part",
-        "expression": "Calm, confident gaze with a subtle closed-lip smile",
-        "skin": "Even-toned, natural texture with soft glow"
-      },
-      "accessories": [
-        "Thin gold hoop earrings",
-        "Minimal gold necklace",
-        "Delicate gold rings",
-        "Small nose stud"
-      ]
-    },
-    "attire": {
-      "garment": "Red mini dress",
-      "style": "Modern evening wear",
-      "fabric": "Satin or silk with soft reflective sheen",
-      "design_details": [
-        "Slim straps",
-        "Body-skimming fit",
-        "Clean neckline",
-        "Short hemline"
-      ]
-    },
-    "environment": {
-      "setting": "Urban outdoor location",
-      "scene": "Luxury hotel terrace or city rooftop",
-      "time_of_day": "Night",
-      "background": "Blurred city lights and architectural lines"
-    },
-    "lighting_and_mood": {
-      "lighting": "Directional soft spotlight on subject",
-      "ambient": "Warm city light mixed with cool night tones",
-      "atmosphere": "Editorial, elegant, high-fashion mood"
-    },
-    "composition": {
-      "framing": "Medium portrait shot (waist-up)",
-      "angle": "Slight low angle for confidence",
-      "pose": "Relaxed posture, one arm resting by side, body subtly angled",
-      "focus": "Sharp subject with creamy bokeh background"
-    }
-  }
-}
+cinematic portrait photography, motion blur crowd effect, urban stillness aesthetic, modern editorial style, minimal fashion mood, emotional realism, street photography vibes, fine art portrait, contemporary visual storytelling, high fashion editorial look, moody color grading, depth and motion contrast, subject isolation technique, viral visual composition, cinematic framing, artistic photography style.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=077a4b58-f59c-4632-b495-513eef3e846f)** | Likes: 132
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=fb6f8a18-8d38-40b8-afa4-e00627c76e76)** | Likes: 137
 
 ---
 
@@ -1067,7 +1022,7 @@ Background remains light, minimal, and consistent, ensuring high readability of 
 Style is technical yet friendly, suitable for commercial explanation and marketing visuals.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=268190a2-25d0-412e-875d-c7a15f3efa00)** | Likes: 394
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=268190a2-25d0-412e-875d-c7a15f3efa00)** | Likes: 395
 
 ---
 
@@ -1083,7 +1038,7 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 202
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 208
 
 ---
 
@@ -1184,7 +1139,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 151
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 153
 
 ---
 
@@ -1229,7 +1184,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 94
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 98
 
 ---
 
@@ -1251,7 +1206,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 72
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 76
 
 ---
 
@@ -1264,7 +1219,7 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 66
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 67
 
 ---
 
@@ -1279,7 +1234,100 @@ A cinematic series of shots featuring the same young man outdoors at dusk. A you
 The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 60
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 62
+
+---
+
+#### Flames that touch the galaxy
+
+<img src="https://cdn.bestnanobananaprompt.com/3f0z13898zg_1770132335129.jpg" width="400" alt="Flames that touch the galaxy">
+
+**Prompt:**
+```
+{
+  "type": "image_generation_prompt",
+  "style": "surreal, cinematic, conceptual art",
+  "camera": {
+    "angle": "high-angle",
+    "shot": "full shot",
+    "composition": "symmetrical balance with central campfire dividing two characters",
+    "background": "pitch-black void with no visible environment"
+  },
+  "scene": {
+    "setting": "abstract cosmic space",
+    "environment": "dark void emphasizing isolation and contrast",
+    "resolution": "8k",
+    "render_style": "photorealistic"
+  },
+  "characters": [
+    {
+      "position": "left",
+      "subject": "astronaut",
+      "pose": "sitting",
+      "seat": "rough gray rock",
+      "appearance": {
+        "suit": "highly detailed realistic white space suit",
+        "helmet": "on, reflective visor"
+      },
+      "action": "holding a stick and roasting a marshmallow over the fire"
+    },
+    {
+      "position": "right",
+      "subject": "young man",
+      "pose": "sitting and leaning forward",
+      "seat": "metal folding chair",
+      "appearance": {
+        "hair": "dark hair",
+        "clothing": {
+          "top": "red and black plaid flannel shirt",
+          "bottom": "blue jeans",
+          "footwear": "brown boots"
+        }
+      },
+      "action": "warming hands by the fire"
+    }
+  ],
+  "central_element": {
+    "object": "campfire",
+    "style": "magical and surreal",
+    "fire_behavior": "flames transition seamlessly into a spiral galaxy",
+    "galaxy": {
+      "type": "photorealistic spiral galaxy",
+      "details": [
+        "glittering stars",
+        "cosmic dust",
+        "swirling motion"
+      ],
+      "shape": "arching overhead like a celestial canopy"
+    }
+  },
+  "lighting": {
+    "primary_light": "warm orange glow from the campfire",
+    "secondary_light": "cool blue and purple glow from the galaxy",
+    "mood": "dramatic, cinematic, ethereal",
+    "shadows": "soft but deep, emphasizing contrast"
+  },
+  "color_palette": {
+    "dominant": ["black", "orange", "blue", "purple"],
+    "accent": ["white", "red", "brown"]
+  },
+  "themes": [
+    "human connection",
+    "cosmic wonder",
+    "contrast between the ordinary and the infinite",
+    "shared warmth in an infinite universe"
+  ],
+  "quality_tags": [
+    "ultra-detailed",
+    "photorealistic textures",
+    "cinematic lighting",
+    "sharp focus",
+    "high dynamic range"
+  ]
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 57
 
 ---
 
@@ -1329,7 +1377,7 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 51
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 56
 
 ---
 
@@ -1353,7 +1401,7 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 80
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 96
 
 ---
 
@@ -1373,25 +1421,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 72
-
----
-
-
-### Product Photography
-
-#### First-person Perspective Inside A Brightly Lit Supermarket
-
-<img src="https://cdn.bestnanobananaprompt.com/fv2cfepxvwt_1769389389045.jpg" width="400" alt="First-person Perspective Inside A Brightly Lit Supermarket">
-
-**Prompt:**
-```
-First-person perspective inside a brightly lit supermarket aisle. Realistic human hands are holding a bottle of Fanta soda close to the camera. The vivid orange drink in its iconic branded bottle is surrounded by a multi-layered holographic augmented reality interface displaying nutritional data, including calorie count, sugar content, caffeine level, freshness indicator, expiration date, and recommended refreshing recipes and cocktails based on Fanta.
-The UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where Fanta is highlighted as the currently active selection.
-Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 53
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 77
 
 ---
 
@@ -1409,7 +1439,25 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 52
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 59
+
+---
+
+
+### Product Photography
+
+#### First-person Perspective Inside A Brightly Lit Supermarket
+
+<img src="https://cdn.bestnanobananaprompt.com/fv2cfepxvwt_1769389389045.jpg" width="400" alt="First-person Perspective Inside A Brightly Lit Supermarket">
+
+**Prompt:**
+```
+First-person perspective inside a brightly lit supermarket aisle. Realistic human hands are holding a bottle of Fanta soda close to the camera. The vivid orange drink in its iconic branded bottle is surrounded by a multi-layered holographic augmented reality interface displaying nutritional data, including calorie count, sugar content, caffeine level, freshness indicator, expiration date, and recommended refreshing recipes and cocktails based on Fanta.
+The UI elements smoothly shift and reorganize based on the viewer’s gaze direction, as if dynamically responding to user focus. In the left peripheral vision, a vertical semi-transparent shopping list is visible with checked-off items, where Fanta is highlighted as the currently active selection.
+Hyper-realistic mixed reality, clean futuristic AR design, glass-like UI panels, soft ambient glow, realistic lighting and shadows, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=081705f4-e1dd-4a8b-a5b1-82f53a9f76b5)** | Likes: 55
 
 ---
 
