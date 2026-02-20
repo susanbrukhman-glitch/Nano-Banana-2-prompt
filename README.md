@@ -52,7 +52,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
   "sd_model_checkpoint": "v1-5-pruned-emaonly.safetensors"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 787
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=065d096e-f3d2-4cc4-af46-22a468b884c8)** | Likes: 790
 
 ---
 
@@ -72,7 +72,7 @@ Explore thousands of curated AI image prompts, submit your own creations, and di
     }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 197
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=b1d6e244-559a-4f57-aa45-d04d05090b87)** | Likes: 198
 
 ---
 
@@ -139,7 +139,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 784
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=c6561810-3fc6-40bb-840e-ddfdb31c036a)** | Likes: 790
 
 ---
 
@@ -188,7 +188,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 749
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=872979ad-4645-487b-b7cb-3155a54cd6d6)** | Likes: 764
 
 ---
 
@@ -239,7 +239,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 390
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1e3e8a6a-662e-4b63-adc9-ddccf0bcdeb7)** | Likes: 407
 
 ---
 
@@ -291,7 +291,7 @@ Output:
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 375
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=808043d1-27aa-4950-8ac3-e315db81ce70)** | Likes: 402
 
 ---
 
@@ -304,7 +304,7 @@ Output:
 16:9 Photorealistic cinematic high-contrast black-and-white aura farm portrait. One person and one black horse only. A stylish man standing with one hand on reins, chest forward, head tilted up looking at the sky, confident aura. Black horse stands beside him, close and protective. Sparse field, clean horizon, bright sky negative space, matte film, subtle grain, shallow depth of field. No text, no captions, no typography, no logos, no watermark.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 370
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=6afedf92-be94-4669-bf61-7d1bba73da6b)** | Likes: 371
 
 ---
 
@@ -431,7 +431,7 @@ Output:
     "atmosphere": "smoky haze, nightclub ambience"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 311
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=940b4eac-74cd-47a5-aa94-0da0eeb1e955)** | Likes: 315
 
 ---
 
@@ -444,7 +444,7 @@ Output:
 Sunlit urban streetwear portrait of a stylish young man sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. He wears a bright yellow oversized shirt with layered silver chains, baggy jeans with worn graphic patches, and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 299
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=080b5339-6971-4fbd-8fcf-94a60a325645)** | Likes: 303
 
 ---
 
@@ -555,7 +555,7 @@ changed outfit, changed pose,
 changed background
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 299
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=74b71a70-a738-4118-95b4-f660b94d8302)** | Likes: 300
 
 ---
 
@@ -666,7 +666,7 @@ changed background
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 242
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=722dd7e0-52b3-4105-9f7e-d763ca9876fd)** | Likes: 247
 
 ---
 
@@ -679,7 +679,7 @@ changed background
 sd
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 208
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=48bf9213-8ee6-44a5-816c-7bde1a3bc2a6)** | Likes: 242
 
 ---
 
@@ -742,7 +742,7 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
     "camera_angle": "Eye-level shot, looking directly at the camera"
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 262
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=a0c693c1-d2dc-4850-99b3-07efd6438bd0)** | Likes: 279
 
 ---
 
@@ -758,7 +758,7 @@ Style is technical yet friendly, suitable for commercial explanation and marketi
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 256
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=baa97830-7883-43b6-a957-fa0298a29da3)** | Likes: 261
 
 ---
 
@@ -859,7 +859,100 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 197
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=8bc73385-92f6-4876-88f8-72e69ae8dedc)** | Likes: 201
+
+---
+
+#### A lifestyle photograph of a young blonde woman
+
+<img src="https://cdn.bestnanobananaprompt.com/hla9sbyvype_1766329309312.jpg" width="400" alt="A lifestyle photograph of a young blonde woman">
+
+**Prompt:**
+```
+"lighting": {
+    "source": "Natural sunlight",
+    "quality": "Golden hour, soft and warm",
+    "shadows": "Soft, well-defined shadows cast by the subject and boat elements",
+    "direction": "From the right, slightly backlit",
+    "highlights": "Bright highlights on the water, boat railing, and subject's hair"
+  },
+  "background": {
+    "details": "Specific buildings, church dome, beach activity are visible",
+    "setting": "Positano, Amalfi Coast, Italy",
+    "distance": "Far",
+    "elements": [
+      "Cliffside town with colorful buildings",
+      "Sandy beach with umbrellas and people",
+      "Dark blue sea",
+      "Other boats",
+      "Lush green vegetation on the cliffs"
+    ],
+    "lighting_interaction": "Sunlight illuminates the town and cliffs, creating warm tones"
+  },
+  "typography": {
+    "color": "#2E4A7D",
+    "location": "On the side of the blue boat in the background right",
+    "font_style": "Sans-serif, uppercase, bold",
+    "description": "Boat name and registration details",
+    "text_content": "BLU RIDE"
+  },
+  "composition": {
+    "balance": "Asymmetrical balance between the subject in the foreground and the town in the background",
+    "framing": "Medium shot",
+    "perspective": "Slightly low angle, looking up towards the subject and background",
+    "leading_lines": "The boat's railing and deck lead the eye towards the subject and the town",
+    "depth_of_field": "Deep, with both subject and background in focus",
+    "rule_of_thirds": "Subject positioned in the lower right intersection"
+  },
+  "color_profile": {
+    "mood": "Warm, vibrant, luxurious",
+    "contrast": "Medium-high",
+    "saturation": "High",
+    "color_scheme": "Analogous blues and greens with warm earth tones",
+    "dominant_colors": [
+      "#2E4A7D",
+      "#F2F2F2",
+      "#C8A17B",
+      "#5A784A",
+      "#D98D6F"
+    ]
+  },
+  "technical_specs": {
+    "iso": "Low",
+    "aperture": "f/8 or smaller for deep depth of field",
+    "lens_type": "Wide-angle lens",
+    "resolution": "High",
+    "camera_type": "DSLR or mirrorless",
+    "aspect_ratio": "4:5",
+    "shutter_speed": "Fast enough to freeze motion"
+  },
+  "subject_analysis": {
+    "hair": "Blonde, wavy, wind-blown",
+    "pose": "Kneeling on the boat deck, body angled towards the camera, right hand holding sunglasses, left hand on the railing",
+    "clothing": "Black one-piece swimsuit with white trim and cutouts",
+    "expression": "Looking over sunglasses with a slight smile",
+    "accessories": "Dark sunglasses, gold bracelet, ring",
+    "subject_type": "Young woman",
+    "hands_gestures": "Right hand adjusting sunglasses, left hand resting on the railing",
+    "location_on_frame": "Foreground, center-right"
+  },
+  "artistic_elements": {
+    "mood": "Relaxed, luxurious, aspirational",
+    "style": "Lifestyle photography, candid",
+    "texture": "Smooth boat deck, textured water, rugged cliffs, fabric of the swimsuit",
+    "narrative": "A woman enjoying a luxurious boat trip along the Amalfi Coast"
+  },
+  "generation_parameters": {
+    "seed": "Random",
+    "prompt": "A lifestyle photograph of a young blonde woman kneeling on the deck of a boat, wearing a black and white swimsuit and sunglasses, looking back at the camera. In the background is the cliffside town of Positano, Italy, with colorful buildings, a beach, and the sea under golden hour sunlight. The boat is moving, with other boats visible. The style is candid and luxurious.",
+    "model_type": "Photorealistic",
+    "guidance_scale": "High",
+    "negative_prompt": "Blurry, low resolution, studio lighting, artificial, indoors, crowded, overcast"
+  }
+}
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=bc77ca93-b109-4104-ad49-02c3c1132adb)** | Likes: 95
 
 ---
 
@@ -955,7 +1048,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 149
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=1806ee95-cff0-44e9-aeac-d0abc0dd15a3)** | Likes: 168
 
 ---
 
@@ -997,7 +1090,22 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 149
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=9d22d4a8-4495-4dcd-b729-df45c824012f)** | Likes: 153
+
+---
+
+#### Cinematic Series Of Shots Featuring
+
+<img src="https://cdn.bestnanobananaprompt.com/4j9kyaonfxp_1765871727391.jpg" width="400" alt="Cinematic Series Of Shots Featuring">
+
+**Prompt:**
+```
+A cinematic series of shots featuring the same young man outdoors at dusk. A young man wearing a black half shirt stands beside a classic car on a quiet rural road, surrounded by open fields and distant hills. The scene is captured from multiple cinematic angles across separate shots, including extreme close-up, medium shot, over-the-shoulder view, wide shot, high-angle top-down, low-angle perspective, profile view, three-quarter rear view, and full back view.
+
+The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 137
 
 ---
 
@@ -1019,22 +1127,7 @@ Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
 Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 128
-
----
-
-#### Cinematic Series Of Shots Featuring
-
-<img src="https://cdn.bestnanobananaprompt.com/4j9kyaonfxp_1765871727391.jpg" width="400" alt="Cinematic Series Of Shots Featuring">
-
-**Prompt:**
-```
-A cinematic series of shots featuring the same young man outdoors at dusk. A young man wearing a black half shirt stands beside a classic car on a quiet rural road, surrounded by open fields and distant hills. The scene is captured from multiple cinematic angles across separate shots, including extreme close-up, medium shot, over-the-shoulder view, wide shot, high-angle top-down, low-angle perspective, profile view, three-quarter rear view, and full back view.
-
-The lighting is natural blue-hour light with soft sky gradients and realistic color tones. The mood is calm, reflective, and cinematic. Shallow depth of field, film-still aesthetic, professional cinematography reference style, ultra-realistic photography. Consistent subject appearance across all shots.
-```
-
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=275b6d93-a742-429a-bb00-47e1aa8834bb)** | Likes: 127
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=80f429ea-0a01-42fd-b6e0-a632bb43e31e)** | Likes: 134
 
 ---
 
@@ -1084,7 +1177,7 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
   }
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 114
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=19043ba3-d875-4af2-873f-bd0db36660ab)** | Likes: 117
 
 ---
 
@@ -1097,7 +1190,22 @@ The lighting is natural blue-hour light with soft sky gradients and realistic co
 "prompt": "A close-up of a confident young woman with long, straight jet-black hair featuring sharp blunt bangs stands poised in an indoor parking garage at night, captured from a low angle as she rests one hand on the roof of a sleek black Porsche with glowing red underglow headlights and illuminated grille. She wears oversized black-framed glasses, subtle makeup with long lashes and glossy nude lips, and a form-fitting black long-sleeve turtleneck bodysuit made of smooth, matte fabric that hugs her curvaceous hourglass figure, paired with sheer black fishnet or lace-patterned pantyhose with intricate floral designs running down her toned legs, and glossy black pointed-toe stiletto high heels. Her pose is elegant and teasing, body slightly turned to show her silhouette against the car, exuding a mysterious and seductive vibe. The garage background features concrete walls with small chain-link fenced windows, dim overhead lighting casting soft shadows, and the car's shiny black paint reflecting green neon glows. Ultra-realistic skin and fabric texture details, high-contrast moody garage lighting with green accents, highly detailed fishnet patterns, hair strands, glasses reflection, Porsche grille and headlights, and subtle concrete textures."
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 97
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=49c09005-6994-4090-9b09-6de1359120b7)** | Likes: 99
+
+---
+
+#### High-angle fashion portrait on marble staircase
+
+<img src="https://cdn.bestnanobananaprompt.com/gooo_1764400228081_5wa8lp.jpg" width="400" alt="High-angle fashion portrait on marble staircase">
+
+**Prompt:**
+```
+High-angle fashion portrait of a 25-year-old Asian man, with the
+same facial features as the man in the reference photo, messy hairstyle framed on his face, leaning casually on a
+white marble staircase banister. He is wearing an oversized light blue and white plaid shirt over a
+```
+
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=4178ff33-31fc-4b39-bfcd-519d20efed66)** | Likes: 92
 
 ---
 
@@ -1117,7 +1225,7 @@ Look: “2000s tabloid photo aesthetic”
 Quality: “sharp focus on face, background heavily blurred and streaked”
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 114
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=3dce5dc3-1ad0-4629-87c3-7382a4bc3668)** | Likes: 117
 
 ---
 
@@ -1135,7 +1243,7 @@ He is leaning back, one arm resting on the rock, and the other hand on his knee,
 The overall atmosphere is calm, stylish, and Mediterranean-inspired. The face should match exactly with the reference photo.
 ```
 
-**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 108
+**[View on Website](https://bestnanobananaprompt.com/gallery?id=cdacbdd0-f267-49b2-a1d2-394efe287e70)** | Likes: 111
 
 ---
 
