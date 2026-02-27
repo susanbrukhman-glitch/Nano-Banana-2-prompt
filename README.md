@@ -9,7 +9,7 @@
 
 ## Visit Our Website
 
-**[https://bestnanobananaprompt.com/](https://bestnanobananaprompt.com/)**
+**[https://nan0banana2.com/](https://nan0banana2.com/)**
 
 Explore thousands of curated AI image prompts, submit your own creations, and discover trending styles!
 
