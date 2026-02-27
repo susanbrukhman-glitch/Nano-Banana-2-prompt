@@ -2,7 +2,7 @@
 
 > A curated collection of high-quality AI image generation prompts for GPT-4o, Gemini, and other AI models.
 
-[![Website](https://img.shields.io/badge/Website-bestnanobananaprompt.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bestnanobananaprompt.com/)
+[![Website](https://img.shields.io/badge/Website-bestnanobananaprompt.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nan0banana2.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 ---
